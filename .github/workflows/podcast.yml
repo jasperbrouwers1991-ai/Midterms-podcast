@@ -1,0 +1,38 @@
+name: Aflevering publiceren
+
+# Runs when the daily script lands in episodes/, or by hand from the Actions tab.
+on:
+  push:
+    branches: [main]
+    paths: ["episodes/**", "scripts/tts.py"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: podcast
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Audio maken met ElevenLabs en feed bijwerken
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID: ${{ vars.ELEVENLABS_VOICE_ID }}
+          ELEVENLABS_MODEL_ID: ${{ vars.ELEVENLABS_MODEL_ID }}
+        run: python3 scripts/tts.py
+
+      - name: Publiceren
+        run: |
+          git config user.name "podcast-bot"
+          git config user.email "podcast-bot@users.noreply.github.com"
+          git add -A docs
+          if git diff --cached --quiet; then echo "Niets nieuws"; exit 0; fi
+          git commit -m "Aflevering publiceren $(date -u +%F)"
+          git pull --rebase origin main
+          git push
