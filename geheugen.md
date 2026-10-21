@@ -53,7 +53,7 @@ De dagelijkse taak voegt na elke aflevering een blok toe met de belangrijkste fe
 - Minnesota gouverneursdebat Klobuchar – Demuth over fraudezaak.
 - Obama op 28 oktober in Atlanta voor Ossoff en Keisha Lance Bottoms.
 
-## 2026-10-21
+## 2026-10-21 (eerste versie, uitgezonden en daarna vervangen; feiten gelden als behandeld)
 - Vroeg stemmen landelijk 12,6 miljoen (UF Election Lab via Axios); Georgia ruim 1 miljoen; Virginia kwart van 2022; North Carolina +37%, Democraten 2x Republikeinen; Texas 812.000 eerste dag, +20% (Derek Ryan); Dallas County record 76.000.
 - Trump in Greenville, North Carolina: aanval op Roy Cooper over criminaliteit; 1,5 miljard dollar chips-investering; noemt El-Sayed jihadist. Cooper ±10 punten voor (RCP).
 - Silver Bulletin: generic ballot D+9 (2018: D+8); Democratische kansen op Huis en Senaat op nieuwe hoogte; Trump 38% steun, 60% afkeuring.
@@ -62,3 +62,15 @@ De dagelijkse taak voegt na elke aflevering een blok toe met de belangrijkste fe
 - CNBC: Democraten halen veel meer geld op; Musk steunt Republikeinen.
 - Correctie: Trump op 27 oktober in Lubbock en Waco.
 - Bill Clinton in Florida voor David Jolly; Kamala Harris-tour Nevada, Mississippi, New Hampshire, Wisconsin, Georgia.
+
+## 2026-10-21
+- Thema woensdag (Huis), invalshoek: herindeling midden in het decennium en verschuiving van het slagveld naar diep-rode districten.
+- Cook 16 okt: 11 Huisraces richting D; Montana 1 (Trump +12) naar toss-up; 5 districten (4 Trump +10 of meer, o.a. OH-10, OH-15, SC-1, MN-1, NY-21) naar Lean R; problemen vooral Ohio, Nebraska, Kansas (prijzen).
+- Kalshi: D ±90% kans op Huis. Generic ballot-voorsprong D sinds begin september ±2 punten gegroeid.
+- Herindeling (Ballotpedia): 9 staten nieuwe kaarten; R op papier TX +5, FL +4, OH +2, AL/LA/NC/TN +1; D CA +5 (referendum), UT +1 (rechter); theoretisch netto R +9. Axios: R-strategen verwachten nog 1 à 5 netto. Dummymander-risico; TX-28 vrijwel opgegeven, twee nieuwe Latino-districten in Texas spannend.
+- Congressional Leadership Fund schrapte ruim 13 miljoen dollar in 4 races (o.a. IA-1, in 2024 799 stemmen verschil, en NJ-7); geld naar districten die Trump nipt won. D-doelwitten: Miami, buitenwijken Saint Louis, Little Rock.
+- Elon-peiling North Carolina: Cooper 52, Whatley 39.
+- Univision/YouGov Florida: Donalds 8 punten voor op Jolly; Moody 9 punten voor op Nixon.
+- AdImpact: Trump in oktober in 1% van Republikeinse advertenties genoemd (mei 47%).
+- RNC zet ruim 50 miljoen dollar door naar Huis- en Senaatscomités (Fox News); Bloomberg ±80 miljoen naar Democratische groepen (NYT).
+- Kansas-debat Marshall – Hamilton (avond 21 okt, VS-tijd): alleen nog de UITKOMST bespreken.
