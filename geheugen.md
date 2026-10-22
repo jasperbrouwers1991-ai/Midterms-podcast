@@ -74,3 +74,16 @@ De dagelijkse taak voegt na elke aflevering een blok toe met de belangrijkste fe
 - AdImpact: Trump in oktober in 1% van Republikeinse advertenties genoemd (mei 47%).
 - RNC zet ruim 50 miljoen dollar door naar Huis- en Senaatscomités (Fox News); Bloomberg ±80 miljoen naar Democratische groepen (NYT).
 - Kansas-debat Marshall – Hamilton (avond 21 okt, VS-tijd): alleen nog de UITKOMST bespreken.
+
+## 2026-10-22
+- Thema donderdag (de kiezer), invalshoek: enthousiasmekloof en verschuivende prioriteiten.
+- Markten: Huis D ±90% stabiel; Senaat D gezakt van 65% naar ±62% in een week (Polymarket/Kalshi).
+- Marist Ohio: Brown 48, Husted 44. Universiteit van Houston Texas: Talarico 48, Paxton 46.
+- Silver Bulletin: Trump op kosten van levensonderhoud 24% goed, 73% af.
+- Paden: D via NC, Maine, Ohio, Texas; R wil Kansas en Iowa houden, Michigan veroveren.
+- Pew (28 sep–4 okt, geregistreerde kiezers): D 44, R 36; extreem gemotiveerd D 59, R 35 (2022 gelijk); mannen 42-42, vrouwen D +14, onder 30 D +28; geen vervolgopleiding en 50-64 neigen R.
+- PRRI American Values Survey: woonkosten en dagelijkse uitgaven 61% cruciaal, daarna moreel karakter en zorg; immigratie cruciaal bij R gedaald van 71% naar 52%; 43% van R vindt land verkeerde kant op (vorig jaar 24%).
+- Kansas-debat (uitkomst): Marshall "Senaat loopt via Kansas", Hamilton marionet van Schumer, op één lijn met Trump over heffingen; Hamilton: heffingen chaos, Trump-kiezers welkom; eens over grens en opheffen Social Security-plafond. Afgehandeld.
+- Michigan-debat: Rogers koppelt El-Sayed opnieuw aan Moslimbroederschap; El-Sayed: twijfel aan trouw aan grondwet "onwaardig". Afgehandeld.
+- Wisconsin gouverneursdebat: Tiffany (R) belooft verkiezing 2028 te certificeren, wie ook wint; tegen Crowley (D).
+- Trump in South Carolina: wil medische vergunning Annie Andrews (D, tegen Graham) laten intrekken.
