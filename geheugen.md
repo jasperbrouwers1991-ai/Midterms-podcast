@@ -87,3 +87,15 @@ De dagelijkse taak voegt na elke aflevering een blok toe met de belangrijkste fe
 - Michigan-debat: Rogers koppelt El-Sayed opnieuw aan Moslimbroederschap; El-Sayed: twijfel aan trouw aan grondwet "onwaardig". Afgehandeld.
 - Wisconsin gouverneursdebat: Tiffany (R) belooft verkiezing 2028 te certificeren, wie ook wint; tegen Crowley (D).
 - Trump in South Carolina: wil medische vergunning Annie Andrews (D, tegen Graham) laten intrekken.
+
+## 2026-10-23
+- Thema vrijdag (geld en campagnes), invalshoek: recordbedragen aan reclame en de afhankelijkheid van megadonors via super PAC's (kandidaten krijgen goedkopere zendtijd).
+- Silver Bulletin: Senaat van Lean D naar Likely D, ±75% kans voor Democraten.
+- Fox News-peiling Maine (Beacon/Shaw): Collins 49, Jackson 49; ±1 op 5 al gestemd, daar Jackson +40; verkiezingsdagstemmers Collins +12; 53% wil Democratische Senaat; Collins kwam in 2020 terug uit slechte peilingen.
+- AdImpact (via Time): ruim 10 miljard dollar aan advertenties, verwacht 11,6 miljard (record midterm; 2022: 8,9 miljard; meer dan 2024).
+- Texas Senaat ruim 500 miljoen aan reclame (tweede niet-presidentiële race ooit); Ohio Senaat ruim 450 miljoen; Maine ±200 miljoen, duurste per inwoner.
+- Septembertelevisiereclame in negen spannende Senaatsraces: R 233 miljoen, D 121 miljoen.
+- Musk 158 miljoen aan Senate Leadership Fund (doorgesluisd naar pro-Paxton groep); Musk 369 miljoen sinds begin 2025, grootste donor; Uihlein en Yass elk ruim 100 miljoen; Soros grootste bekende D-donor.
+- Trump in Sioux City, Iowa, voor Ashley Hinson (tegen Josh Turek): Harvest Fuel Relief, 8 miljard dollar dieselsteun boeren, ±400 miljoen naar Iowa. Kalshi: Hinson favoriet maar krap.
+- Ohio gouverneur: Ramaswamy 4 miljoen dollar in spot met moeder van Amy Acton; DeWine noemt die diep verontrustend, Trump verdedigt hem.
+- Hooggerechtshof: New Hampshire mag studentenpas uitsluiten als stem-ID; geen regelwijziging vlak voor verkiezing.
