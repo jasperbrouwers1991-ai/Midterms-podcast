@@ -99,3 +99,18 @@ De dagelijkse taak voegt na elke aflevering een blok toe met de belangrijkste fe
 - Trump in Sioux City, Iowa, voor Ashley Hinson (tegen Josh Turek): Harvest Fuel Relief, 8 miljard dollar dieselsteun boeren, ±400 miljoen naar Iowa. Kalshi: Hinson favoriet maar krap.
 - Ohio gouverneur: Ramaswamy 4 miljoen dollar in spot met moeder van Amy Acton; DeWine noemt die diep verontrustend, Trump verdedigt hem.
 - Hooggerechtshof: New Hampshire mag studentenpas uitsluiten als stem-ID; geen regelwijziging vlak voor verkiezing.
+
+## 2026-10-24
+- Thema zaterdag (gouverneurs en staten), invalshoek: overzicht gouverneursraces, abortus- en transgenderreferenda, gouverneurs als certificeerders van de uitslag in 2028.
+- Cook 23 okt: 19 Huisraces richting D; 6 van toss-up naar Lean D (o.a. Ciscomani AZ, Evans CO, Kiggans VA, Van Orden WI); D favoriet in 218 zetels; verwacht D +12 à 22.
+- Polymarket Senaat D ±68% (week eerder ±62%); Decision Desk: Huis D 78%, Senaat D 57%.
+- AAA: benzine gemiddeld bijna 4,30 dollar per gallon, record voor de herfst.
+- Republikeinse analyse: R voor bij vroeg stemmen in ruim tien districten die Trump ruim won.
+- Gouverneurs: 36 staten; nu 26 R, 24 D; D verdedigen AZ, KS, MI, PA, WI (Trump-staten); R verdedigen NH, VT (Harris-staten).
+- Ohio gouverneur naar Lean D (Sabato 22 okt, Cook 23 okt), voordeel Acton; Sabato ook MI, OK, AL richting D.
+- Toss-ups gouverneur: Georgia (Bottoms – Rick Jackson), Wisconsin, Nevada (Lombardo – Ford). Iowa neigt naar Rob Sand (D), Kansas naar Ty Masterson (R).
+- Abortusreferenda: Missouri Amendement 3 (terugdraaien recht uit 2024), Nevada tweede stemming grondwet, Virginia grondwet, Idaho wet tegen vrijwel volledig verbod. Vijf staten (o.a. AZ, CO) stemmen over maatregelen rond transgender jongeren.
+- Justitie klaagt Alaska aan over tweede kandidaat Daniel J. Sullivan op Senaatsbiljet; Trump: hij gaf zelf opdracht.
+- Washington Post/Schar: Arabisch-Amerikaanse kiezers Michigan Congres D 58, R 34 (2024 Harris 41, Trump 39).
+- Trump in Fort Myers voor Donalds en Moody: 250 miljoen dollar voor 5.000 verpleegkundigen ouderenzorg. In Iowa: hij heeft "recht" om opnieuw mee te doen.
+- Trump-rally Georgia 24 okt (Rick Jackson aanwezig): volgende keer alleen de UITKOMST. Obama-optredens 24 okt (Cleveland, Michigan): alleen de UITKOMST.
