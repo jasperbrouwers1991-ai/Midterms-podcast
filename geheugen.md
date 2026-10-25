@@ -114,3 +114,17 @@ De dagelijkse taak voegt na elke aflevering een blok toe met de belangrijkste fe
 - Washington Post/Schar: Arabisch-Amerikaanse kiezers Michigan Congres D 58, R 34 (2024 Harris 41, Trump 39).
 - Trump in Fort Myers voor Donalds en Moody: 250 miljoen dollar voor 5.000 verpleegkundigen ouderenzorg. In Iowa: hij heeft "recht" om opnieuw mee te doen.
 - Trump-rally Georgia 24 okt (Rick Jackson aanwezig): volgende keer alleen de UITKOMST. Obama-optredens 24 okt (Cleveland, Michigan): alleen de UITKOMST.
+
+## 2026-10-25
+- Thema zondag (opkomst en verkiezingsproces), invalshoek: omvang vroeg stemmen, verschuiving tijdens het tellen en waarom de uitslag lang kan duren.
+- Silver Bulletin: Huis D 95%, Senaat D ±76% (stabiel). Kalshi 22 okt: Huis D 91%, Senaat D 67%.
+- Polymarket: D wint beide Kamers 67%, D Huis + R Senaat 26%, R beide 8%.
+- ABC/Washington Post/Ipsos: zeker stemmen D 72%, R 65%; poststemmers D +50, vroeg in persoon D +14, verkiezingsdagstemmers R +11. Reuters/Ipsos: zeer enthousiast D 36%, R 29%.
+- Call the Map (24 okt): ruim 25 miljoen stemmen in 46 staten; NC +36% en Maine +40% t.o.v. 2022.
+- ABC-analyse: geregistreerde D stemmen bijna overal vaker vroeg dan in 2024; 71% van vroege stemmers zijn altijdstemmers (2024: 63%); vraag is of laagfrequente R-kiezers komen.
+- Hooggerechtshof Watson v. RNC (29 juni, 5-4, Barrett): na verkiezingsdag binnengekomen poststemmen mogen meetellen; 14 staten + DC; Californië tot 10 november.
+- R Street: 6 van 18 Cook-toss-ups in het Huis in staten met uitlooptermijn (CA, NJ, NY, TX, VA, WA). Maine rangschikkend stemmen; Georgia tweede ronde 1 december; 2022 Huis pas na ruim een week beslist.
+- Obama 24 okt (uitkomst): Ohio met Brown en Acton, Detroit met El-Sayed en Benson, ruim 4.000 mensen (HuffPost); "geen serieuze mensen"; Benson: corruptie, wreedheid en chaos. Michigan Senaat toss-up (Cook); vroeg stemmen in persoon Michigan begon 24 okt. Afgehandeld.
+- Trump-rally Perry, Georgia, 24 okt (uitkomst) voor Mike Collins en Rick Jackson: Audi 4,2 miljard dollar fabriek bij Macon (claim Trump); spot met Obama's zaal. Trump stemde vroeg in Palm Beach. Afgehandeld.
+- Ted Cruz in San Antonio met Paxton: nooit zo bang geweest voor een verkiezing in Texas.
+- Trump-rally Port Huron, Michigan, 25 okt: volgende keer alleen de UITKOMST. Obama nog naar Georgia (Atlanta 28 okt, al gemeld).
