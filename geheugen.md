@@ -128,3 +128,15 @@ De dagelijkse taak voegt na elke aflevering een blok toe met de belangrijkste fe
 - Trump-rally Perry, Georgia, 24 okt (uitkomst) voor Mike Collins en Rick Jackson: Audi 4,2 miljard dollar fabriek bij Macon (claim Trump); spot met Obama's zaal. Trump stemde vroeg in Palm Beach. Afgehandeld.
 - Ted Cruz in San Antonio met Paxton: nooit zo bang geweest voor een verkiezing in Texas.
 - Trump-rally Port Huron, Michigan, 25 okt: volgende keer alleen de UITKOMST. Obama nog naar Georgia (Atlanta 28 okt, al gemeld).
+
+## 2026-10-26
+- Thema maandag (weekoverzicht en vooruitblik), invalshoek: laatste week, waar letten we op (Iowa als R-buffer, Nebraska/Osborn als onafhankelijke beslisser, einde vroeg stemmen Texas vrijdag 30 okt, laagfrequente kiezers). Vaste getallen deze week genoemd.
+- Decision Desk 24 okt: Huis D 80%, ±237 zetels; Senaat D 56%. Poliwave 25 okt: Huis D 88% (half okt 83%), Senaat D 57%; onafhankelijken beslissen Senaat in 11% van simulaties; TX, IA, OH, NE marge <1 punt.
+- Kalshi Senaat D gezakt naar 63% (22 okt 67%); Silver Bulletin optimistischer.
+- Johnson: peilingen fout, CNN-analyse 14 van 16 oktoberpeilingen te weinig R (±4 punten).
+- The Hill: brandstoftekorten door oorlog met Iran; Witte Huis schrapt heffingen op deel Canadese producten (23 okt).
+- Port Huron-rally 25 okt (uitkomst): Trump voor Rogers en John James; Rogers "een van de meest gerespecteerde mannen"; Oz en David Beamer op podium; Trump eist aftreden Ilhan Omar. Sanders met El-Sayed in Grand Rapids. D: Rogers stempelmachine. Afgehandeld.
+- Alaska: Peltola licht gewond bij auto-ongeluk Anchorage (24 okt). Justitie wil certificering blokkeren als Sullivan verliest; ACLU en Common Cause verzetten zich in de rechtbank.
+- Justitie: brieven aan Californische verkiezingsambtenaren over niet-staatsburgers op kiezerslijsten (23 okt); Blanche sluit ingrijpen bij certificering niet uit.
+- Trump: zal "alles vetoën" bij Democratisch Congres, daarna deal.
+- Vance in Howell, Michigan, 27 okt: alleen de UITKOMST bespreken (niet aangekondigd in aflevering).
