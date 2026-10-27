@@ -41,7 +41,7 @@ def parse(path: pathlib.Path) -> dict:
             meta[k.strip().lower()] = v.strip()
     return {
         "date": path.stem,
-        "title": meta.get("title") or f"Midterms update {path.stem}",
+        "title": meta.get("title") or f"AI-update {path.stem}",
         "summary": meta.get("summary", ""),
         "text": body.strip(),
     }
@@ -115,7 +115,7 @@ def main() -> int:
             old.unlink()
 
     (DOCS / "episodes.json").write_text(
-        json.dumps({"podcast": "Midterms Dagelijks", "language": "nl", "episodes": feed},
+        json.dumps({"podcast": "AI Dagelijks", "language": "nl", "episodes": feed},
                    ensure_ascii=False, indent=2),
         encoding="utf-8",
     )

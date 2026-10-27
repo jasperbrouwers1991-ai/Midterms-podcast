@@ -29,15 +29,15 @@ jobs:
         run: gradle :app:assembleDebug --no-daemon
 
       - name: Hernoemen
-        run: cp app/build/outputs/apk/debug/app-debug.apk MidtermsDagelijks.apk
+        run: cp app/build/outputs/apk/debug/app-debug.apk AIDagelijks.apk
 
       - name: Release bijwerken
         uses: softprops/action-gh-release@v2
         with:
           tag_name: app-latest
-          name: Midterms Dagelijks (nieuwste app)
+          name: AI Dagelijks (nieuwste app)
           body: |
-            Download **MidtermsDagelijks.apk** op je Android-telefoon en open het bestand om te installeren.
+            Download **AIDagelijks.apk** op je Android-telefoon en open het bestand om te installeren.
             Build #${{ github.run_number }}.
-          files: MidtermsDagelijks.apk
+          files: AIDagelijks.apk
           make_latest: true

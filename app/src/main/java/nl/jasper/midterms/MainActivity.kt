@@ -102,7 +102,7 @@ class MainActivity : ComponentActivity() {
             .setMediaMetadata(
                 MediaMetadata.Builder()
                     .setTitle(ep.title)
-                    .setArtist("Midterms Dagelijks")
+                    .setArtist("AI Dagelijks")
                     .setIsPlayable(true)
                     .build()
             ).build()
@@ -201,9 +201,9 @@ private fun App(
             LargeTopAppBar(
                 title = {
                     Column {
-                        Text("Midterms Dagelijks", fontWeight = FontWeight.Bold)
+                        Text("AI Dagelijks", fontWeight = FontWeight.Bold)
                         Text(
-                            "5 minuten nieuws over de Amerikaanse tussentijdse verkiezingen",
+                            "Elke dag 5 minuten over kunstmatige intelligentie",
                             style = MaterialTheme.typography.bodySmall,
                             color = MaterialTheme.colorScheme.onSurfaceVariant
                         )

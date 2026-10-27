@@ -1,10 +1,12 @@
-# Midterms Dagelijks
+# AI Dagelijks
 
-Een dagelijkse Nederlandstalige podcast van 5 minuten over de Amerikaanse tussentijdse verkiezingen, met een eigen Android-app.
+Een dagelijkse Nederlandstalige podcast van 5 minuten over kunstmatige intelligentie, met een eigen Android-app.
+
+De inhoud wordt gestuurd door `REDACTIE.md` (structuur, thema per weekdag, bronnen) en `geheugen.md` (wat al behandeld is, zodat niets herhaald wordt). Tot 27 oktober 2026 ging de podcast over de Amerikaanse tussentijdse verkiezingen; die afleveringen staan in `archief/midterms/`.
 
 ## Hoe het werkt
 
-1. **Elke ochtend rond 06:50** schrijft een geplande Claude-taak een script op basis van het laatste nieuws en zet het in `episodes/JJJJ-MM-DD.txt`.
+1. **Elke ochtend rond 06:50** schrijft een geplande Claude-taak een script op basis van het laatste AI-nieuws en zet het in `episodes/JJJJ-MM-DD.txt`.
 2. **GitHub Action "Aflevering publiceren"** stuurt het script naar ElevenLabs (model `eleven_flash_v2_5`, de goedkoopste), zet de MP3 in `docs/audio/` en werkt `docs/episodes.json` bij.
 3. **GitHub Pages** publiceert `docs/` op `https://jasperbrouwers1991-ai.github.io/Midterms-podcast/`.
 4. **De Android-app** haalt `episodes.json` op en speelt de afleveringen af, ook op de achtergrond en vanaf het vergrendelscherm.
@@ -21,7 +23,7 @@ Lukt ElevenLabs niet (geen sleutel, credits op), dan wordt de aflevering toch ge
 
 ## App installeren
 
-Ga op je Android-telefoon naar **Releases → Midterms Dagelijks (nieuwste app)** en download `MidtermsDagelijks.apk`. Open het bestand en sta installatie uit deze bron toe. Nieuwe versies installeren gewoon over de oude heen.
+Ga op je Android-telefoon naar **Releases → AI Dagelijks (nieuwste app)** en download `AIDagelijks.apk`. Open het bestand en sta installatie uit deze bron toe. Nieuwe versies installeren gewoon over de oude heen.
 
 ## Kosten
 
