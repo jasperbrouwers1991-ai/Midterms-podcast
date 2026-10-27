@@ -140,3 +140,19 @@ De dagelijkse taak voegt na elke aflevering een blok toe met de belangrijkste fe
 - Justitie: brieven aan Californische verkiezingsambtenaren over niet-staatsburgers op kiezerslijsten (23 okt); Blanche sluit ingrijpen bij certificering niet uit.
 - Trump: zal "alles vetoën" bij Democratisch Congres, daarna deal.
 - Vance in Howell, Michigan, 27 okt: alleen de UITKOMST bespreken (niet aangekondigd in aflevering).
+
+## 2026-10-27
+- Thema dinsdag (Senaatskaart), invalshoek: race voor race in drie lagen — D-verdediging (GA, NC beslist; MI wankelt), D-aanval (OH, TX, AK, ME = meerderheid als MI blijft), R-muur (IA, KS, NE).
+- Call the Map 26 okt: Huis D 85% (was 82%), ±236 zetels, door NYT/Siena-districtspeilingen Pennsylvania; Senaat D 55% (was 56%).
+- Senaat 26 okt: Decision Desk D 57%, Kalshi D 64%, Silver Bulletin D 76% (Silver: iets gunstiger dan markten).
+- FiftyPlusOne: Wedgewood Polls gaf toe data te verzinnen, aanwijzingen voor geknoei bij SoCal Strategies; modellen haalden die eruit; Mississippi-gemiddelde R-voorsprong van 9 naar 14 punten.
+- ABC News: R trekken geld terug uit North Carolina, lijken Ossoff op te geven. Kalshi: Cooper 97%.
+- Michigan: El-Sayed Call the Map van 62 naar 60%.
+- Ohio: Brown Call the Map 63% (was 61), Kalshi 67%. Texas: Talarico Kalshi 64%, Call the Map 55%.
+- Alaska: Call the Map eindstand Peltola 50,1 – 49,9; tweede Sullivan ±2,6% eerste voorkeuren.
+- Maine: Trafalgar Collins +0,5.
+- Nebraska: GBAO (D) Osborn +1, National Public Affairs (R) Ricketts +3; Kalshi Ricketts 73%.
+- Trump-rally Corinth, Mississippi (26 okt) voor Hyde-Smith tegen Scott Colom: "geen risico nemen", Colom wil wapens afpakken. Afgehandeld.
+- South Carolina: oud-gouverneurs Beasley (R) en Hodges (D) steunen Annie Andrews. Correctie gegeven: tegenstander is senator Darline Graham (zus van overleden Lindsey Graham, benoemd; won R-runoff 25 aug), niet Lindsey Graham. Trafalgar eind sept: Graham 43, Andrews 42.
+- Trump: 1 miljoen dollar beloning voor fraudemelding met veroordeling. DHS: 5 niet-staatsburgers aangeklaagd in Florida voor stemmen bij eerdere verkiezingen. Hof van beroep over verzoek tot 20.000 Californische poststemmen apart te zetten: alleen nog de UITSPRAAK bespreken.
+- Vance in Howell, Michigan (27 okt) nog steeds alleen de UITKOMST bespreken (niet behandeld).
