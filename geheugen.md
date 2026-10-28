@@ -21,3 +21,18 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - GPT-6.1 Terra (26 okt): middenmodel voor computergebruik, $1/$5 per miljoen tokens volgens OpenAI, minder feitelijke fouten (claim).
 - China: STAR 50-index veertig procent gedaald in minder dan vier maanden, circa 480 miljard dollar beurswaarde weg (Reuters).
 - SpaceX: 40 miljard dollar GPU-financiering met Apollo (TechCrunch).
+
+## 2026-10-28
+- Thema woensdag (bedrijven en geld), invalshoek: Anthropic S-1-financiën, hoe een AI-lab geld verdient en verliest (vermeld: podcast gemaakt met Claude).
+- Grote plaatje: rekening van AI-investeringen zichtbaar; Big Tech samen ruim 700 miljard dollar capex in 2026.
+- Meta Q3 (22 okt): omzet +26%, vrije kasstroom -2,1 miljard dollar, eerste keer negatief sinds beursgang 2012; capex Q3 bijna 35 miljard; aandeel -7%.
+- Meta: circa 825 miljard dollar toekomstige verplichtingen datacenters/energie/rekenkracht. Vrije kasstroom uitgelegd.
+- Experts: Torsten Slok (Apollo) aanbod is het knelpunt; David Morrison (Trade Nation) onduidelijk wanneer terugverdiend.
+- Anthropic S-1: Nasdaq, ticker ANT; omzet eerste helft 2026 16,3 miljard dollar vs 4,6 miljard heel 2025.
+- Anthropic S-1: nettoverlies 80,7 miljard, vooral boekhoudpost converteerbare leningen; operationeel verlies circa 700 miljoen.
+- Anthropic S-1: circa 430 miljard dollar vaste clouddeals (o.a. Amazon, Google); ongeveer een vijfde omzet van twee klanten.
+- OpenAI schuift beursgang volgens Bloomberg naar begin 2027. Beursgang Anthropic: volgende keer alleen uitkomst (koers, waardering).
+- OpenAI wil Google-TPU's kopen (The Information, één anonieme bron; OpenAI geen commentaar); TPU uitgelegd.
+- SK Hynix Q3 record: omzet ruim 4x, bedrijfswinst ruim 7x jaar eerder (CNBC).
+- Cloudflare: fout toonde in 155 AI-antwoorden (eind aug-begin sep) gegevens van andere gebruikers; geen bewijs misbruik (claim Cloudflare).
+- Aangekondigd: kwartaalcijfers Amazon, Microsoft, Alphabet op 28 okt; volgende keer alleen uitkomst bespreken.
