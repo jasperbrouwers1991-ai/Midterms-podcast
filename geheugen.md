@@ -36,3 +36,18 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - SK Hynix Q3 record: omzet ruim 4x, bedrijfswinst ruim 7x jaar eerder (CNBC).
 - Cloudflare: fout toonde in 155 AI-antwoorden (eind aug-begin sep) gegevens van andere gebruikers; geen bewijs misbruik (claim Cloudflare).
 - Aangekondigd: kwartaalcijfers Amazon, Microsoft, Alphabet op 28 okt; volgende keer alleen uitkomst bespreken.
+
+## 2026-10-29
+- Thema donderdag (AI aan het werk), invalshoek: banen en terugverdienen op de werkvloer (Goldman, Workday, Jellyfish); vermeld: podcast gemaakt met Claude.
+- Grote plaatje: beleggers belonen wie AI-bouw uit eigen kas betaalt; Microsoft vs Alphabet kwartaalcijfers (28 okt).
+- Microsoft Q3: Azure +48%, vrije kasstroom ruim 18 miljard dollar positief na bijna 40 miljard investeringen; aandeel nabeurs +4 à 5%.
+- Alphabet Q3: Google Cloud-omzet verdubbeld (+103%), capex 51,4 miljard (vs 24 miljard jaar eerder), vrije kasstroom -9,1 miljard; aandeel nabeurs circa -10%.
+- Alphabet: langlopende schuld van 46,5 naar 125,1 miljard dollar sinds eind 2025; capex 2027 "flink hoger"; zoeken en YouTube iets onder verwachting.
+- Goldman Sachs (Joseph Briggs, 22 okt): tot 9% werknemers rijke landen verdrongen (één op elf) plus circa 3% minder aannames; ontslag versnelt vooral in recessie.
+- Goldman: pas 23% Amerikaanse bedrijfsvestigingen heeft AI in gewone werk ingebouwd.
+- Workday-onderzoek (6.000 werknemers/managers): 40% leidinggevenden verwacht meer uit bestaand personeel, 28% minder mensen; vraag simpele AI-vaardigheden -25% sinds januari, AI-bouwvaardigheden +51%.
+- Jellyfish: bijna een derde voorgestelde codewijzigingen bij klanten via tools op Anthropic-modellen; kosten circa 2% softwarebudget.
+- Anthropic lanceerde 28 okt rapportagetools voor managers om opbrengst AI-uitgaven te zien.
+- Dropbox schrapt circa 9% personeel (8-K 28 okt), technologiedirecteur Ali Dasdan vertrekt 18 nov; AI niet als reden genoemd.
+- Moore Threads (Chinese AI-chipmaker): Q3-omzet bijna 19x jaar eerder, winstgevend (Bloomberg).
+- Aangekondigd: Amazon kwartaalcijfers 29 okt (avond); volgende keer alleen uitkomst bespreken.

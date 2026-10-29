@@ -1,0 +1,24 @@
+title: Beleggers kiezen Microsoft, straffen Alphabet en tellen AI-banen
+summary: Microsoft en Alphabet laten zien dat beleggers nu vooral naar geld in kas kijken, en nieuwe cijfers tonen hoe AI werk eerder verandert dan schrapt, voorlopig.
+---
+Goedemorgen en welkom bij AI Dagelijks. Het is donderdag negenentwintig oktober tweeduizend zesentwintig. Vandaag: waarom beleggers het ene techbedrijf belonen en het andere straffen, en wat AI op de werkvloer nu echt doet met banen.
+
+Eerst het grote plaatje. Microsoft en Alphabet, het moederbedrijf van Google, presenteerden gisteravond hun kwartaalcijfers. Op papier lijken ze op elkaar. Beide groeien snel dankzij hun clouddiensten, waar bedrijven rekenkracht voor AI huren. Bij Microsoft groeide die clouddivisie, Azure, met achtenveertig procent. Bij Google Cloud verdubbelde de omzet zelfs. Toch ging het aandeel Microsoft in de nabeurshandel vier à vijf procent omhoog, en zakte Alphabet zo'n tien procent.
+
+Het verschil zit in het geld dat overblijft. Microsoft investeerde bijna veertig miljard dollar, maar hield nog steeds ruim achttien miljard dollar over. Alphabet stak eenenvijftig miljard dollar in datacenters en chips, ruim twee keer zoveel als een jaar eerder, en kwam negen miljard dollar tekort. Om dat gat te dichten leent Google flink. De langlopende schuld steeg sinds eind vorig jaar van zesenveertig naar honderdvijfentwintig miljard dollar. En volgend jaar gaan de investeringen volgens het bedrijf nog flink omhoog. Daarnaast vielen de opbrengsten uit zoeken en YouTube iets tegen.
+
+Wat zegt dit? Beleggers kijken niet meer alleen naar groei, maar naar wie de AI-bouw uit eigen zak kan betalen. Optimisten zien in de verdubbeling van Google Cloud het bewijs dat de vraag echt is. Sceptici vinden het zorgelijk dat zelfs een van de rijkste bedrijven ter wereld nu moet lenen om bij te blijven.
+
+Dan het thema van de donderdag: AI aan het werk. Al die miljarden moeten ergens worden terugverdiend, en dat gebeurt op de werkvloer. Wat zien we daar? Bank Goldman Sachs publiceerde vorige week een nieuwe schatting. Econoom Joseph Briggs rekent uit dat tot negen procent van de werknemers in rijke landen door AI hun baan kan verliezen, ongeveer één op de elf. Daar komt nog zo'n drie procent bij doordat bedrijven minder mensen aannemen. Maar het opvallendste zit in de timing. Volgens Goldman gebeurt dat ontslag nauwelijks als de economie goed draait, maar versnelt het in een recessie. Bedrijven wachten dus op een slecht moment om te snijden. Voorlopig heeft pas drieëntwintig procent van de Amerikaanse bedrijfsvestigingen AI in het gewone werk ingebouwd.
+
+Softwarebedrijf Workday, dat personeelssoftware maakt, ondervroeg zesduizend werknemers en managers wereldwijd. Veertig procent van de leidinggevenden verwacht met AI meer uit het bestaande personeel te halen. Achtentwintig procent verwacht minder mensen nodig te hebben. Ook interessant: de vraag naar simpele AI-vaardigheden, zoals goede opdrachten typen in een chatbot, daalde sinds januari met een kwart. De vraag naar mensen die zelf AI-toepassingen bouwen steeg met de helft.
+
+Waar AI het snelst landt, is bij programmeurs. Volgens analysebedrijf Jellyfish komt inmiddels bijna een derde van de voorgestelde codewijzigingen bij zijn klanten uit hulpmiddelen die draaien op modellen van Anthropic, waarmee deze podcast ook wordt gemaakt. Die hulpmiddelen kosten gemiddeld zo'n twee procent van het totale budget voor softwareontwikkeling. Anthropic bracht gisteren bovendien rapportages uit waarmee managers moeten kunnen zien wat hun AI-uitgaven opleveren. Dat de makers zelf zulke meetinstrumenten bouwen, zegt veel: de vraag of AI zich terugbetaalt, ligt nu op het bureau van elke manager.
+
+Dan het nieuws van de dag. Opslagdienst Dropbox schrapt ongeveer negen procent van zijn personeel, blijkt uit een officiële melding aan de Amerikaanse beurstoezichthouder. Ook de technologiedirecteur vertrekt. Het bedrijf noemt het afstemmen op zijn belangrijkste prioriteiten en noemt AI niet als reden. Het doet ertoe omdat het laat zien dat niet elke ontslagronde in de techsector een AI-verhaal is, ook al wordt dat vaak gesuggereerd.
+
+In China boekte chipmaker Moore Threads volgens persbureau Bloomberg een omzet die bijna negentien keer zo hoog was als een jaar eerder, met winst. Het bedrijf maakt grafische chips voor AI, een Chinees alternatief voor Nvidia. Het doet ertoe omdat Chinese bedrijven door Amerikaanse exportbeperkingen steeds meer op eigen chips aangewezen zijn, en die markt nu snel groeit.
+
+Om in de gaten te houden: vanavond presenteert Amazon zijn kwartaalcijfers. Dan blijkt of ook de grootste cloudaanbieder de AI-bouw uit eigen zak kan betalen.
+
+Dat was het voor vandaag. Morgen om zeven uur staat de volgende aflevering voor je klaar. Tot dan.
