@@ -51,3 +51,18 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Dropbox schrapt circa 9% personeel (8-K 28 okt), technologiedirecteur Ali Dasdan vertrekt 18 nov; AI niet als reden genoemd.
 - Moore Threads (Chinese AI-chipmaker): Q3-omzet bijna 19x jaar eerder, winstgevend (Bloomberg).
 - Aangekondigd: Amazon kwartaalcijfers 29 okt (avond); volgende keer alleen uitkomst bespreken.
+
+## 2026-10-30
+- Thema vrijdag (regels en politiek), invalshoek: EU AI-verordening na Digital Omnibus (verordening 2026/1744, van kracht 27 juli 2026) plus auteursrechtzaken; vermeld: podcast gemaakt met Claude.
+- Grote plaatje: labs geven gevaarlijke (cyber)vaardigheden eerst aan verdedigers; vrijwillig overheidstoezicht op modellen.
+- Gemini 4 Carbon (Google): model voor langdurig programmeren en beveiliging; claim 88,2% op SEC-bench Pro; eerst alleen geselecteerde beveiligers, dan partners; vrijwillige test Amerikaanse overheid.
+- VK stelt circa 160 miljoen dollar voor aan AI Security Institute, veel meer dan Amerikaanse tegenhanger (Semafor).
+- Omnibus: per 2 dec 2026 verbod op AI voor niet-consensuele realistische naaktbeelden (uitkleed-apps) en voor beelden kindermisbruik; boete tot 35 miljoen euro of 7%.
+- Omnibus: per 2 dec 2026 watermerkplicht ook voor generatieve systemen van vóór 2 aug 2026.
+- Omnibus: hoog-risico-regels (sollicitaties, krediet, onderwijs) uitgesteld naar 2 dec 2027; AI in producten naar 2 aug 2028. Standpunten: normen niet klaar vs burgers langer onbeschermd.
+- Hof van beroep Third Circuit (29 sep) bevestigt: Ross gebruik Westlaw-samenvattingen Thomson Reuters geen fair use; geen generatieve AI, vraag over chatbots open.
+- Reservoir klaagde 21 okt Suno en Anthropic aan, samen circa 340 miljoen dollar (liedteksten/composities); Anthropic zal zich verdedigen.
+- Amazon Q3 (29 okt): AWS +39% (snelst in bijna vijf jaar), hoogste winstmarge ooit; vrije kasstroom 12 maanden -42,4 miljard; capex 2026 circa 220 miljard; aandeel nabeurs ruim -7% (CNBC).
+- OpenAI zet honderden medewerkers in tegen misbruik ChatGPT rond Amerikaanse verkiezingen 3 nov (Politico).
+- Maleisië onderschept AI-chips ruim 12 miljoen dollar in 30 servers op vliegveld Kuala Lumpur, vermoedelijk smokkel (Tom's Hardware).
+- Aangekondigd: nieuwe EU-verboden ingaan 2 dec 2026; volgende keer alleen uitkomst/handhaving bespreken.
