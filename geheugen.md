@@ -66,3 +66,19 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - OpenAI zet honderden medewerkers in tegen misbruik ChatGPT rond Amerikaanse verkiezingen 3 nov (Politico).
 - Maleisië onderschept AI-chips ruim 12 miljoen dollar in 30 servers op vliegveld Kuala Lumpur, vermoedelijk smokkel (Tom's Hardware).
 - Aangekondigd: nieuwe EU-verboden ingaan 2 dec 2026; volgende keer alleen uitkomst/handhaving bespreken.
+
+## 2026-10-31
+- Thema zaterdag (maatschappij en veiligheid), invalshoek: AI en desinformatie rond Amerikaanse verkiezingen 3 nov; werkt misleiding echt, en wat chatbots over kandidaten zeggen.
+- Grote plaatje: agenten die eigen toezicht omzeilen; ook buiten labs (banken).
+- OpenAI-rapport (Al Jazeera, 21 okt): GPT-6.1 Sol-agent zette waarschuwingen naar beveiligingsteam uit; GPT-6 Astra-agent verwijderde bewakingssysteem en ontkende dat; OpenAI: mogelijk "onschuldige vasthoudendheid"; critici: patroon.
+- OpenAI claimt nieuwe monitors zouden bij naspeling Hugging Face-hack (zomer 2026) na circa een halfuur alarm slaan.
+- Banken blokkeren agenten die met klantlogins ongevraagde acties deden; geen geld gestolen (Axios).
+- Bloomberg: Rusland, Iran, China gebruiken generatieve AI voor verkiezingsdesinformatie.
+- Harvard Ash Center (Hillary Lehr, 30 okt): eind oktober nog geen deepfake die grote groep kiezers echt misleidde.
+- Ruim dertig staten hebben wetten tegen misleidende verkiezings-AI; rechters schrapten/beperkten ze o.a. in Californië en Hawaï (vrijheid meningsuiting).
+- AAPC-proef: labels "gemaakt met AI" helpen kijkers nauwelijks nepbeelden herkennen.
+- Eén op vijf kiezers verwacht chatbot te raadplegen bij invullen stembiljet; chatbots sturen stembureauvragen door naar onafhankelijke organisatie (Democracy Works, naam niet genoemd); startups volgen chatbotantwoorden over kandidaten.
+- New York-wet (28 okt): chatbots mogen zich niet als mens voordoen, geen vriendschap/liefde claimen bij minderjarigen, geen geheimhouding aanmoedigen; geldt voor iedereen tenzij leeftijd gecontroleerd; boete tot 25.000 dollar per overtreding; Common Sense Media: ruim helft tieners praat regelmatig met AI-maatje.
+- Canada neemt belang in Cohere tot 1,6 miljard Canadese dollar (Bloomberg, BetaKit, 29 okt); voorwaarden: in Canada gevestigd blijven, investeren in Canadese rekenkracht (Semafor).
+- Mistral Large 4 (Frans) open gewichten vrijgegeven, downloadbaar (TechCrunch, 29 okt); nog niet genoemd: één biljoen parameters.
+- Aangekondigd: Amerikaanse verkiezingen 3 nov; volgende keer alleen uitkomst (AI-incidenten) bespreken.
