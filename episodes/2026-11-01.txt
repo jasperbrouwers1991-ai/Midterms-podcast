@@ -1,0 +1,24 @@
+title: Geldschieters aarzelen, ASML kan de vraag niet bijbenen
+summary: Investeerders worden voorzichtiger met AI-miljarden terwijl ASML meer bestellingen heeft dan het kan maken, en de vraag is waar Nederland staat als de rekenkracht zelf vooral elders komt.
+---
+Goedemorgen en welkom bij AI Dagelijks. Het is zondag één november tweeduizend zesentwintig. Vandaag: geldschieters die op de rem trappen, een Nederlands bedrijf dat de vraag niet kan bijbenen, en de vraag wat Nederland zelf aan de AI-bouw heeft.
+
+Eerst het grote plaatje. Aan het begin van de AI-keten wordt het geld krapper. OpenAI wilde dertig miljard dollar ophalen bij investeerders, maar heeft dat doel volgens de Financial Times verlaagd naar twintig miljard. Ook de waardering zou omlaag zijn bijgesteld. Volgens The Wall Street Journal is tot nu toe elf miljard binnen, en reageerden sommige grote beleggers lauw. OpenAI gaf geen commentaar.
+
+Tegelijk verlaagde kredietbeoordelaar S and P Global vrijdagavond zijn vooruitzicht voor Meta van stabiel naar negatief. Zo'n beoordelaar schat in hoe veilig het is om een bedrijf geld te lenen. S and P verwacht dat Meta volgend jaar meer dan tweehonderdvijfentwintig miljard dollar investeert, en dat er dan eenenzeventig miljard dollar meer uitgaat dan er binnenkomt. Het is volgens S and P onduidelijk wanneer AI genoeg gaat opleveren. Meta is het daar niet mee eens.
+
+Maar aan het andere eind van de keten is de vraag juist groter dan het aanbod. Daar komen we zo op. Wie heeft gelijk? Econoom Ed Yardeni ziet de krapte als gezond, omdat het de groei afremt voordat er een zeepbel ontstaat. Sceptici zien juist de eerste tekenen dat de geldstroom opdroogt, terwijl de rekeningen voor datacenters al zijn getekend.
+
+Dan het thema van de zondag: Nederland en Europa. Chipmachinemaker ASML uit Veldhoven boekte half oktober een recordkwartaal: elf komma zeven miljard euro omzet en zo'n vijf miljard euro winst. Opvallender is wat topman Christophe Fouquet zei. Klanten willen al bestellen voor tweeduizend negenentwintig en zelfs tweeduizend dertig. En ASML verwacht dat het in tweeduizend zevenentwintig en tweeduizend achtentwintig niet genoeg machines kan maken, ondanks een geplande uitbreiding van dertig procent.
+
+Wat betekent dat voor Nederland? Economen van ING schatten dat ASML dit jaar direct goed is voor ongeveer anderhalf procent van de Nederlandse economie, en met toeleveranciers erbij voor zo'n twee procent. Daardoor profiteert Nederland volgens ING meer van de AI-golf dan de buurlanden. Ter vergelijking: Nokia was rond de eeuwwisseling goed voor bijna vier procent van de Finse economie. Dat laat ook het risico zien: veel hangt af van één bedrijf, in een sector die op en neer gaat.
+
+De rekenkracht zelf komt grotendeels elders te staan. Het kabinet deed niet mee aan de Europese pot van twintig miljard euro voor grote AI-rekenfabrieken. Er was volgens staatssecretaris Willemijn Aerdts geen geld om vooraf rekenkracht in te kopen, en een adviesbureau verwachtte weinig Nederlandse vraag. Het bedrijf VOLT bouwt daarom zonder overheidsgeld door aan een rekenfabriek op de Maasvlakte. Volgens het FD en De Telegraaf heeft het Amsterdamse Nebius een intentieverklaring getekend voor de hele eerste fase, met zo'n honderdduizend AI-chips. Kosten: ongeveer zeven miljard euro. De eerste capaciteit komt pas rond tweeduizend dertig. En het Chinese Alibaba opende deze week een eigen cloudregio met twee datacenters in Amsterdam. Voorstanders van eigen rekenkracht zeggen dat Europa anders afhankelijk blijft van Amerikaanse en Chinese bedrijven. Tegenstanders vinden dat Nederland beter kan doen waar het sterk in is: de machines maken.
+
+Dan het nieuws van de dag. Apple brengt zijn AI-functies in december naar China, in een update voor de iPhone. Daarbij draait het Chinese taalmodel Qwen van Alibaba mee in onder meer Siri. Ontwikkelaars kunnen vanaf woensdag testen. Het doet ertoe omdat de AI-wereld zich zo verder in twee kampen splitst: wie in China wil verkopen, moet met Chinese modellen werken.
+
+OpenAI bracht vrijdag GPT zes Rosalind uit, een model voor biologisch onderzoek en de ontwikkeling van medicijnen. Alleen goedgekeurde onderzoeksorganisaties krijgen toegang. OpenAI noemt het risico op misbruik voor biologische wapens zelf hoog, maar onder de kritieke grens. Volgens het bedrijf stijgt de score op een test voor medicijnchemie van ongeveer negenentwintig naar vijftig procent. Dat zijn eigen cijfers, nog niet onafhankelijk nagerekend. Het doet ertoe omdat krachtige modellen steeds vaker niet meer voor iedereen beschikbaar zijn, maar alleen voor wie door de maker wordt toegelaten.
+
+Om in de gaten te houden: dinsdag stemt de Tweede Kamer over een motie die vraagt om een verbod op chatbots voor kinderen op de basisschool.
+
+Dat was het voor vandaag. Morgen om zeven uur staat de volgende aflevering voor je klaar. Tot dan.

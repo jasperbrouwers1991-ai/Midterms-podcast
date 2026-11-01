@@ -82,3 +82,18 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Canada neemt belang in Cohere tot 1,6 miljard Canadese dollar (Bloomberg, BetaKit, 29 okt); voorwaarden: in Canada gevestigd blijven, investeren in Canadese rekenkracht (Semafor).
 - Mistral Large 4 (Frans) open gewichten vrijgegeven, downloadbaar (TechCrunch, 29 okt); nog niet genoemd: één biljoen parameters.
 - Aangekondigd: Amerikaanse verkiezingen 3 nov; volgende keer alleen uitkomst (AI-incidenten) bespreken.
+
+## 2026-11-01
+- Thema zondag (Nederland en Europa), invalshoek: ASML als motor Nederlandse economie vs rekenkracht die elders komt (EU-gigafabrieken, VOLT Maasvlakte, Alibaba Amsterdam).
+- Grote plaatje: geld aan begin AI-keten krapper (OpenAI, Meta) terwijl chipketen vraag niet aankan; Yardeni: krapte gezond; sceptici: geldstroom droogt op.
+- OpenAI verlaagt doel financieringsronde van 30 naar 20 miljard dollar, waardering omlaag (FT, 30 okt); WSJ: 11 miljard binnen, lauwe reactie grote beleggers.
+- S&P Global (30 okt): vooruitzicht Meta van stabiel naar negatief; capex 2027 ruim 225 miljard, vrije kasstroom 2027 -71 miljard; onduidelijk wanneer AI oplevert; Meta oneens.
+- ASML Q3 (14 okt): omzet 11,7 miljard euro, winst circa 5 miljard; klanten willen bestellen voor 2029-2030; aanbod 2027-2028 onvoldoende ondanks +30% capaciteit (Fouquet).
+- ING (26 okt): ASML direct circa 1,6% Nederlandse economie in 2026, met toeleveranciers circa 2,2%; Nokia rond 2000 bijna 4% Finland; concentratierisico.
+- Kabinet deed niet mee aan EU-pot 20 miljard euro AI-gigafabrieken (Aerdts: geen budget; Ecorys: weinig vraag).
+- VOLT Maasvlakte: Nebius intentieverklaring hele eerste fase (tot 200 MW, circa 100.000 chips), circa 7 miljard euro, privaat, eerste capaciteit rond 2030 (FD/Telegraaf).
+- Alibaba Cloud opende 29 okt eerste Nederlandse cloudregio, twee datacenters Amsterdam.
+- Apple: AI-functies in China december (iOS 27.3), Alibaba Qwen in o.a. Siri; ontwikkelaarsbeta 4 nov.
+- GPT-6 Rosalind (OpenAI, 30 okt): biologie/medicijnen, alleen goedgekeurde organisaties; eigen risico-inschatting bio "hoog", onder kritiek; claim MedChemBench 28,9 naar 49,6%.
+- Aangekondigd: Tweede Kamer stemt 3 nov over motie verbod chatbots basisschool; volgende keer alleen uitkomst bespreken.
+- Nog niet behandeld: kabinet wil geen verbod superintelligente AI (Aerdts, 26 okt); NVM: ruimtegebrek datacenters.
