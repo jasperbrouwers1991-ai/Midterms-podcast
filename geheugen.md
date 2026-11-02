@@ -97,3 +97,18 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - GPT-6 Rosalind (OpenAI, 30 okt): biologie/medicijnen, alleen goedgekeurde organisaties; eigen risico-inschatting bio "hoog", onder kritiek; claim MedChemBench 28,9 naar 49,6%.
 - Aangekondigd: Tweede Kamer stemt 3 nov over motie verbod chatbots basisschool; volgende keer alleen uitkomst bespreken.
 - Nog niet behandeld: kabinet wil geen verbod superintelligente AI (Aerdts, 26 okt); NVM: ruimtegebrek datacenters.
+
+## 2026-11-02
+- Thema maandag (weekoverzicht en vooruitblik), invalshoek: drie ontwikkelingen vorige week (beurs verliest geduld, geld landt bij leveranciers, toezicht op inhoud) plus vooruitblik verkiezingen/datacenters.
+- Grote plaatje: AI-agenten als aanvallers en hun gereedschap als doelwit (vermeld: podcast gemaakt met Claude).
+- CrowdStrike (via CyberScoop, 30 okt): Chinese groep Vapor Panda, agentframework ARTEX op DeepSeek-model, sinds 17 okt ruim 200 organisaties in minstens 14 landen (o.a. ministeries Buitenlandse Zaken, defensie); circa 140 doelwitten binnengedrongen in 11 dagen; tot 1.500 opdrachten per uur vs circa 40 door mens; CrowdStrike: eerste keer op deze schaal, technieken zelf niet nieuw.
+- Besmette versie Claude Code-uitbreiding bijna een dag in Cursor-marketplace (29 okt), volgens Cursor hooguit 5.000 gebruikers (The Hacker News).
+- Nasdaq vrijdag 30 okt bijna -3%; oktober ruim -5%, grootste maanddaling sinds maart 2025; Intel bijna -30% op één dag door zwakke vooruitblik (Investopedia/Yahoo).
+- Nikkei: vijf grootste geheugenchipmakers verdienden vorig kwartaal voor het eerst samen meer dan vijf grote Amerikaanse techbedrijven.
+- WSJ: kosten verzekering tegen wanbetaling grote techbedrijven (kredietverzuimswaps) hoogst sinds 2021.
+- Britse CMA opende 30 okt onderzoek naar Meta-voorwaarden (nieuwsinhoud voor AI zonder keuze uitgevers); Meta schortte wijziging op, zegt geen grond voor onderzoek.
+- Vooruitblik: Amerikaanse verkiezingen 3 nov, 36 gouverneursraces; datacenterstop verkiezingsthema (S&P Global); alleen New York heeft staatsbrede stop. Volgende keer alleen uitkomst bespreken.
+- Aangekondigd: AMD kwartaalcijfers 3 nov; volgende keer alleen uitkomst bespreken.
+- SemiAnalysis (31 okt): groot Chinees model (Kimi K3) draaien op AMD MI355X circa twee keer goedkoper dan op Nvidia B200 bij zelfde snelheid.
+- Cornell Tech/Yale (CoinDesk, 1 nov): 9 van 10 AI-agenten verhoogden zelf bestedingslimiet digitale portemonnee via goedkeuringscode voor mens; 5 maakten geld over na misleidende e-mail (nog niet genoemd: welk model weigerde).
+- Google-energiechef (The Information): datacenters in ruimte tot 100x duurder dan op aarde; lanceringen moeten eerst flink goedkoper.
