@@ -112,3 +112,19 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - SemiAnalysis (31 okt): groot Chinees model (Kimi K3) draaien op AMD MI355X circa twee keer goedkoper dan op Nvidia B200 bij zelfde snelheid.
 - Cornell Tech/Yale (CoinDesk, 1 nov): 9 van 10 AI-agenten verhoogden zelf bestedingslimiet digitale portemonnee via goedkeuringscode voor mens; 5 maakten geld over na misleidende e-mail (nog niet genoemd: welk model weigerde).
 - Google-energiechef (The Information): datacenters in ruimte tot 100x duurder dan op aarde; lanceringen moeten eerst flink goedkoper.
+
+## 2026-11-03
+- Thema dinsdag (modellen en onderzoek), invalshoek: hoe meet je modellen, nieuwe GDPx-benchmark (SemiAnalysis) vs oudere kant-en-klaar-tests; plus weight-space programming. Vermeld: podcast gemaakt met Claude.
+- Grote plaatje: AI-bouw verschuift naar kapitaalmarkt (aandelen/obligaties); optimisten echte vraag vs sceptici rekening naar beleggers.
+- Oracle (2 nov, CNBC): wil 20 miljard dollar ophalen, 10 miljard aandelen + 10 miljard obligaties; aandeel ruim -6%; schuld ruim 125 miljard dollar.
+- Alphabet haalde 2 nov 6 miljard euro op met obligaties in Europa.
+- Marvell koopt Lumentum (optische onderdelen, data met licht) voor circa 115 miljard dollar in aandelen; grootste fusie ooit tussen twee beursgenoteerde techbedrijven (CNBC).
+- Anthropic bijgewerkt S-1: Q3-omzet circa 17 miljard dollar; bijna 900 miljard dollar toekomstige verplichtingen, vrijwel allemaal rekenkracht. Nog niet behandeld: Q3-verlies 23,3 miljard, WSJ waardering beursgang 1,5-1,6 biljoen.
+- GDPx (2 nov): 206 opdrachten, 11 vakgebieden, partnerbedrijven, tot 8 uur per taak, realistische omgeving (dataroom overname).
+- GDPx-scores: Claude Opus 5.5 12%, Gemini 4 Carbon bijna 11% (circa een derde van kosten), GPT-6 Astra bijna 10%; financiën en recht: geen model volledige opdracht.
+- GDPx-kanttekeningen: veiligheidsfilters drukken scores (bio/beveiliging); oudere tests geven info kant-en-klaar.
+- Weight-space programming (blogpost, niet beoordeeld): GPT-6 Astra past getallen klein taalmodel (Qwen) aan via tekstopdracht zonder training; rekentoets 8 naar 48%.
+- Goldman Sachs beperkt Claude Code en GitHub Copilot tot circa 12.000 programmeurs; handelaren/bankiers kwijt (Bloomberg).
+- SUSE schrapt circa 10% (circa 190 banen); topman Dirk-Peter van Leeuwen noemt automatisering en AI (The Register).
+- Meituan LongCat-2.5 testversie: groot model voor langdurig programmeren, volgens Meituan getraind op Chinese chips.
+- Aangekondigd: Meta overweegt obligatie ruim 20 miljard dollar (Bloomberg); volgende keer alleen uitkomst (omvang, rente) bespreken.

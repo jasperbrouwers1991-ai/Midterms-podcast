@@ -1,0 +1,30 @@
+title: AI-bouw gaat naar de kapitaalmarkt, nieuwe test zet modellen op twaalf
+summary: Oracle en Alphabet halen miljarden op bij beleggers voor datacenters, en een nieuwe benchmark laat zien dat zelfs de beste AI-modellen de meeste waardevolle vakklussen niet afmaken.
+---
+Goedemorgen en welkom bij AI Dagelijks. Het is dinsdag drie november tweeduizend zesentwintig. Vandaag: waarom techbedrijven nu massaal geld lenen voor AI, en een nieuwe test die laat zien hoe ver de beste modellen nog af staan van echt vakwerk.
+
+Eerst het grote plaatje. De bouw van AI-datacenters wordt steeds vaker betaald met geld van buiten. Softwarebedrijf Oracle meldde gisteren bij de Amerikaanse beurstoezichthouder dat het twintig miljard dollar wil ophalen: tien miljard met nieuwe aandelen en tien miljard met obligaties, een soort verhandelbare lening. Het aandeel zakte volgens CNBC ruim zes procent. Nieuwe aandelen verdunnen het bezit van bestaande aandeelhouders, en Oracle had al ruim honderdvijfentwintig miljard dollar schuld. Op dezelfde dag haalde Alphabet, het moederbedrijf van Google, zes miljard euro op met obligaties in Europa.
+
+Ook de toeleveranciers maken zich op. Chipbedrijf Marvell koopt Lumentum, dat onderdelen maakt om data met licht tussen chips en servers te sturen, voor zo'n honderdvijftien miljard dollar in aandelen. Volgens CNBC is het de grootste fusie ooit tussen twee beursgenoteerde techbedrijven.
+
+En Anthropic, waarmee deze podcast wordt gemaakt, meldde in een bijgewerkt beursprospectus een kwartaalomzet van ongeveer zeventien miljard dollar, maar ook bijna negenhonderd miljard dollar aan toekomstige verplichtingen, vrijwel allemaal voor rekenkracht.
+
+Wat betekent dit? Optimisten zien gezonde financiering van een echte vraag. Sceptici wijzen erop dat de rekening steeds verder wordt doorgeschoven naar beleggers en geldschieters, terwijl niemand weet wanneer de opbrengst komt.
+
+Dan het thema van de dinsdag: modellen en onderzoek. Hoe meet je eigenlijk of een AI-model goed is? Analysebureau SemiAnalysis presenteerde gisteren een nieuwe test, GDPx. Die bevat tweehonderdzes opdrachten uit elf vakgebieden, zoals chipontwerp, biologie, beveiliging, financiën en recht. De opdrachten komen van gespecialiseerde bedrijven en lijken op echt werk. Een model krijgt bijvoorbeeld een complete dataroom met duizenden documenten van een bedrijfsovername, en tot acht uur de tijd.
+
+De uitslag is ontnuchterend. Het beste model, Claude Opus vijf punt vijf, haalt twaalf procent. Gemini vier Carbon van Google volgt met bijna elf procent, tegen een derde van de kosten. GPT zes Astra van OpenAI komt op bijna tien procent. In financiën en recht slaagde geen enkel model voor een volledige opdracht.
+
+Kanttekeningen zijn er ook. Sommige modellen weigerden opdrachten in biologie en beveiliging door hun ingebouwde veiligheidsfilters, wat hun score drukt. En elke test meet maar een deel van de werkelijkheid. Toch is dit een reactie op een bekend probleem: oudere tests geven het model alle informatie al kant-en-klaar, terwijl echt werk vooral zoeken en doorzetten is.
+
+Opvallend is ook een experiment van een groep onderzoekers. Zij lieten GPT zes Astra rechtstreeks de interne getallen van een klein taalmodel aanpassen, op basis van een gewone opdracht in tekst, zonder het model opnieuw te trainen. De score op een rekentoets steeg daarbij van acht naar achtenveertig procent. Het gaat om een blogpost, nog niet beoordeeld door vakgenoten.
+
+Dan het nieuws van de dag. Zakenbank Goldman Sachs beperkt het gebruik van de programmeerhulpmiddelen Claude Code en GitHub Copilot tot zijn ongeveer twaalfduizend programmeurs, meldt Bloomberg. Handelaren en bankiers die er maandenlang mee werkten, raken de toegang kwijt. Het doet ertoe omdat het laat zien dat bedrijven na een eerste golf van enthousiasme kritischer kijken naar wie AI echt nodig heeft.
+
+Het van oorsprong Duitse softwarebedrijf SUSE schrapt ongeveer een op de tien banen, zo'n honderdnegentig mensen. Topman Dirk-Peter van Leeuwen schrijft volgens The Register dat automatisering en AI de manier van werken fundamenteel veranderen. Het doet ertoe omdat AI hier wel uitdrukkelijk als reden voor ontslag wordt genoemd.
+
+En het Chinese Meituan, bekend van maaltijdbezorging, bracht een testversie uit van LongCat twee punt vijf, een groot model voor langdurig programmeerwerk. Volgens Meituan zelf is het getraind op Chinese chips. Het doet ertoe omdat China zo laat zien dat het ook zonder Amerikaanse chips grote modellen kan bouwen, al moeten onafhankelijke tests de prestaties nog bevestigen.
+
+Om in de gaten te houden: Meta overweegt volgens Bloomberg een obligatie van meer dan twintig miljard dollar. De rente die beleggers vragen, vertelt veel over hun vertrouwen in de AI-bouw.
+
+Dat was het voor vandaag. Morgen om zeven uur staat de volgende aflevering voor je klaar. Tot dan.
