@@ -128,3 +128,19 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - SUSE schrapt circa 10% (circa 190 banen); topman Dirk-Peter van Leeuwen noemt automatisering en AI (The Register).
 - Meituan LongCat-2.5 testversie: groot model voor langdurig programmeren, volgens Meituan getraind op Chinese chips.
 - Aangekondigd: Meta overweegt obligatie ruim 20 miljard dollar (Bloomberg); volgende keer alleen uitkomst (omvang, rente) bespreken.
+
+## 2026-11-04
+- Thema woensdag (bedrijven en geld), invalshoek: wie verdient (AMD) en wie leent (Meta) in de AI-bouw; plus Chinese waarschuwing concentratie. Vermeld: podcast gemaakt met Claude.
+- Grote plaatje: lokale toestemming als derde knelpunt naast chips en geld; datacenters op stembiljet 3 nov.
+- Redbud-teller: circa 44 lokale datacentervoorstellen in 10 staten, meeste in Ohio.
+- Ohio (Cincinnati Enquirer): minstens 14 gemeenten verbod of strengere regels; Trenton bijna 80% voor verbod grote datacenters (gepland Amazon-datacenter onzeker); Ashville ruim 80% draait deal met bouwer terug.
+- Redenen inwoners: stroomprijzen, water, lawaai, landbouwgrond; voorstanders: banen, belastinginkomsten.
+- OpenAI-programma: datacenters nemen bij noodsituaties minder stroom af (The Verge).
+- AMD Q3 (3 nov): omzet +45% naar 13,4 miljard dollar; datacentertak bijna verdubbeld naar 8,5 miljard; verwachting Q4 circa 17 miljard; Lisa Su: 2027 omzet +80% of meer (claim); aandeel dit jaar ruim verdubbeld.
+- Meta (uitkomst obligatie): 15 miljard dollar in vijf delen (Reuters), minder dan eerder genoemde ruim 20 miljard; ruim 6% rente op deel tot 2033; hoge rente trok kopers (Bloomberg); Moody's hoge beoordeling, meer kas dan schuld.
+- Chinese financiële toezichthouder (Xiao Yuanqi, Reuters 3 nov): AI-investeringen te geconcentreerd, lenen duurder voor gewone bedrijven.
+- Anthropic bijgewerkte beursaanvraag (TechCrunch): mogelijk binnenkort interne grens AI die AI-onderzoek sterk versnelt; nog geen model overschreden; overweegt veiligheidsbeleid aan te passen.
+- WIRED: ruim 400 apps/websites verstopten misbruik-deepfakefuncties (o.a. huisdierportretten), ruim 350.000 downloads; Apple verwijderde 19 apps.
+- Tweede Kamer: tien partijen (88 zetels) steunen voorstel Volt en CDA voor verbod generatieve AI voor basisschoolleerlingen; staatssecretaris Tielen wijst voorlopig af (meer tijd voor plan).
+- Nog niet behandeld: NYT e.a. klagen Brave aan (scraping voor AI); Meta-capex dit jaar 135-145 miljard volgens Reuters.
+- Aangekondigd/open: uitslag Kansas-gouverneur (Democratische kandidaat wil staatsbrede datacenterpauze); nog openstaande Ohio-stemmingen. Volgende keer alleen uitkomst bespreken.
