@@ -1,0 +1,28 @@
+title: Kiezers remmen datacenters af, werkgevers zetten AI op rantsoen
+summary: De Amerikaanse verkiezingsuitslag zet een streep door een deel van de geplande datacenters, terwijl Apple en Revolut laten zien dat bedrijven AI op de werkvloer steeds strakker op kosten sturen.
+---
+Goedemorgen en welkom bij AI Dagelijks. Het is donderdag vijf november tweeduizend zesentwintig. Vandaag: wat de Amerikaanse verkiezingsuitslag betekent voor de bouw van AI, en waarom werkgevers hun personeel nu op een AI-rantsoen zetten.
+
+Eerst het grote plaatje. De Democraten hebben bij de Amerikaanse verkiezingen het Congres veroverd. Voor de AI-sector zijn vooral de gouverneursraces belangrijk. In Texas versloeg de Democraat Gina Hinojosa zittend gouverneur Greg Abbott. Zij wil een tijdelijke stop op nieuwe AI-datacenters in de staat. Volgens onderzoeksbureau GLJ Research staat in Texas ongeveer een kwart van de Amerikaanse datacentercapaciteit die tot tweeduizend dertig moet worden opgeleverd. Ook in Georgia, met rond Atlanta de drukste bouwmarkt voor datacenters, en in Ohio wonnen Democratische kandidaten. In Kansas was de race woensdag nog onbeslist.
+
+Volgens economen van Goldman Sachs kan zo'n vijfenveertig procent van de geplande Amerikaanse datacentercapaciteit te maken krijgen met bouwstops, strengere regels of minder belastingvoordeel. De beurs reageerde meteen, meldt persbureau Reuters. Datacenterbouwer Hut acht verloor drieëntwintig procent, IREN elf procent. Opvallend genoeg stegen Microsoft en Amazon juist ruim zes procent. Zij hebben al veel capaciteit, en schaarste maakt die meer waard.
+
+Hoe zwaar weegt dit? Een strateeg van vermogensbeheerder Amundi noemt de verkiezing eerder een referendum over AI dan over Trump. Analisten van bank HSBC verwachten juist geen brede bouwstop, maar wel meer regels en toezicht.
+
+Dan het thema van de donderdag: AI aan het werk. Vandaag de vraag wie de AI-rekening op de werkvloer betaalt. Want werkgevers beginnen te rantsoeneren.
+
+Apple verlaagde vorige maand het dagbudget voor AI van een deel van zijn programmeurs van driehonderd naar tweehonderd dollar, meldt Bloomberg. Sommige teams kunnen naar honderd dollar gaan. Voor medewerkers die niet programmeren, ligt de grens vaak al op honderd dollar per dag, en Apple overwoog die voor sommige teams te verlagen naar vijfentwintig. Zo'n budget wordt gemeten in tokens, de stukjes tekst waarvoor AI-bedrijven per gebruik rekenen. Apple wil niet reageren. Volgens techsite The Next Web werken ook Tesla, Uber en Accenture met plafonds per medewerker.
+
+De Britse bank Revolut koos een andere weg. Volgens David Abitbol van Revolut, op een vakconferentie in New York, gaven sommige programmeurs met Claude Code, waarmee ook deze podcast wordt gemaakt, duizend tot tienduizend dollar per maand uit, zonder dat het veel opleverde. Sinds dit voorjaar gebruiken de ongeveer tweeduizend programmeurs standaard een open model van het Chinese Z punt ai, dat Revolut op eigen servers in de Verenigde Staten draait. De rekening is volgens Revolut nog maar een tiende van wat het betaalde aan Anthropic en OpenAI. Dure modellen blijven beschikbaar als uitzondering. Abitbol zegt ook dat programmeren niet het echte knelpunt is in het werk van zijn technici.
+
+Wat betekent dit? Voorstanders zien gezonde kostendiscipline na een jaar waarin AI vrijwel onbeperkt werd uitgedeeld. Critici waarschuwen dat een plafond juist de medewerkers afremt die er het meest uithalen, en dat goedkopere modellen nieuwe vragen oproepen over veiligheid en afhankelijkheid.
+
+Dan het nieuws van de dag. OpenAI meldt dat een prototype met een nog niet uitgebracht model voor cyberbeveiliging in de Linux-kern, het hart van het besturingssysteem, negenhonderdachtenveertig lekken vond waarmee een aanvaller volledige controle over een computer kan krijgen. De rekenkosten waren volgens OpenAI zelf ruim één komma twee miljoen dollar. Het doet ertoe omdat AI lekken nu sneller vindt dan vrijwillige beheerders ze kunnen dichten.
+
+Isomorphic Labs, het medicijnbedrijf dat voortkwam uit Google DeepMind, praat volgens Bloomberg over een financieringsronde van zo'n vijf miljard dollar, bij een waardering van ongeveer vijftig miljard. De gesprekken zijn nog niet afgerond. Het doet ertoe omdat beleggers zo inzetten op AI in de medicijnontwikkeling, terwijl volgens The Wall Street Journal nog geen enkel door AI ontworpen medicijn is goedgekeurd door de Amerikaanse toezichthouder.
+
+En Apple waarschuwt in zijn jaarverslag voor AI-agenten, programma's die zelfstandig taken uitvoeren. Die kunnen volgens Apple onverwacht handelen, bijvoorbeeld door ongevraagde aankopen te doen of beveiliging te omzeilen, met gevolgen die moeilijk terug te draaien zijn. Het doet ertoe omdat Apple Siri tegelijk meer laat doen in apps van anderen.
+
+Om in de gaten te houden: of Hinojosa in Texas haar bouwstop echt doorzet, en hoe snel.
+
+Dat was het voor vandaag. Morgen om zeven uur staat de volgende aflevering voor je klaar. Tot dan.

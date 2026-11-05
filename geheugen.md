@@ -144,3 +144,19 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Tweede Kamer: tien partijen (88 zetels) steunen voorstel Volt en CDA voor verbod generatieve AI voor basisschoolleerlingen; staatssecretaris Tielen wijst voorlopig af (meer tijd voor plan).
 - Nog niet behandeld: NYT e.a. klagen Brave aan (scraping voor AI); Meta-capex dit jaar 135-145 miljard volgens Reuters.
 - Aangekondigd/open: uitslag Kansas-gouverneur (Democratische kandidaat wil staatsbrede datacenterpauze); nog openstaande Ohio-stemmingen. Volgende keer alleen uitkomst bespreken.
+
+## 2026-11-05
+- Thema donderdag (AI aan het werk), invalshoek: AI-rantsoen op de werkvloer, werkgevers sturen op kosten (Apple-plafonds, Revolut eigen open model). Vermeld: podcast gemaakt met Claude.
+- Grote plaatje (uitkomst verkiezingen 3 nov): Democraten winnen Congres; datacenters als verkiezingsthema.
+- Texas: Gina Hinojosa (D) verslaat gouverneur Greg Abbott, wil tijdelijke stop nieuwe AI-datacenters; GLJ Research: Texas circa kwart Amerikaanse datacentercapaciteit tot 2030.
+- Georgia (Keisha Lance Bottoms) en Ohio (Amy Acton) Democratische gouverneurs; Atlanta drukste datacenterbouwmarkt (CBRE). Kansas woensdag nog onbeslist.
+- Goldman Sachs: circa 45% geplande Amerikaanse datacentercapaciteit risico op bouwstop/strengere regels/minder belastingvoordeel.
+- Beurs 4 nov (Reuters): Hut 8 -23%, IREN -11%; Microsoft +6,7%, Amazon +6,1%.
+- Standpunten: Amundi (Aidan Yao) referendum over AI; HSBC geen brede stop maar meer regels/toezicht.
+- Apple (Bloomberg, 4 nov): dagbudget AI deel programmeurs van 300 naar 200 dollar (oktober), mogelijk 100; niet-programmeurs vaak 100, overwogen 25; tokens uitgelegd. Tesla, Uber, Accenture ook plafonds (The Next Web).
+- Revolut (David Abitbol, AI Engineer-conferentie): ~2.000 programmeurs standaard op zelf gehost open model Z.ai (GLM) in VS; kosten circa een tiende van Anthropic/OpenAI; eerder sommigen 1.000-10.000 dollar/maand aan Claude Code; dure modellen als uitzondering; programmeren niet het knelpunt. Nog niet genoemd: claim codeertijd -60%, 56 B200-chips.
+- OpenAI (claim): prototype met onuitgebracht cybermodel vond 948 lekken in Linux-kern voor volledige controle (privilege escalation), rekenkosten ruim 1,2 miljoen dollar.
+- Isomorphic Labs in gesprek over circa 5 miljard dollar bij waardering circa 50 miljard (Bloomberg), niet afgerond; WSJ: nog geen door AI ontworpen medicijn goedgekeurd door FDA.
+- Apple-jaarverslag waarschuwt voor AI-agenten (ongevraagde aankopen, beveiliging omzeilen, moeilijk terug te draaien) terwijl Siri meer in apps van derden mag.
+- Aangekondigd: of Hinojosa bouwstop Texas doorzet; uitslag Kansas. Volgende keer alleen uitkomst bespreken.
+- Nog niet behandeld: Claude vond twee kritieke Xen-lekken (XSA-523); Meta euro-obligatie 9 miljard; Anthropic beursgang formele marketing volgende week; Tencent Hy4 open gewichten; Cat Wu van Anthropic naar OpenAI; AP-deal Anthropic.
