@@ -160,3 +160,20 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Apple-jaarverslag waarschuwt voor AI-agenten (ongevraagde aankopen, beveiliging omzeilen, moeilijk terug te draaien) terwijl Siri meer in apps van derden mag.
 - Aangekondigd: of Hinojosa bouwstop Texas doorzet; uitslag Kansas. Volgende keer alleen uitkomst bespreken.
 - Nog niet behandeld: Claude vond twee kritieke Xen-lekken (XSA-523); Meta euro-obligatie 9 miljard; Anthropic beursgang formele marketing volgende week; Tencent Hy4 open gewichten; Cat Wu van Anthropic naar OpenAI; AP-deal Anthropic.
+
+## 2026-11-06
+- Thema vrijdag (regels en politiek), invalshoek: AI-agenda nieuw Democratisch Congres (vanaf januari) plus rechtszaak muziekuitgevers; vermeld: podcast gemaakt met Claude.
+- Grote plaatje: verzet tegen AI van gemeenteraad naar Washington en beurs.
+- Nasdaq donderdag 5 nov ruim -5%, ruim 2 biljoen dollar beurswaarde weg (NPR); vrees strengere regels/datacenterverzet; Tesla en SpaceX hard omlaag (Musk steunde verliezende Republikeinen met honderden miljoenen).
+- OpenAI "National Community Compact" (5 nov): betaalt eigen stroom nieuwe datacenters ("compute campuses"), banenrapport per locatie, geen geheimhoudingscontracten met publieke bestuurders (The National).
+- Bernie Sanders wil landelijke datacenterstop (eerder voorstel met Ocasio-Cortez).
+- Ted Lieu (D): hoorzittingen en "redelijke vangrails"; Trump/Republikeinen lieten sector bewust gaan.
+- Wetsvoorstellen: GUARD Act (Hawley, kinderen en AI-maatjes); AI LEAD Act (Hawley en Durbin, aansprakelijkheid, burgers/staten kunnen AI-bedrijven aanklagen).
+- Frontier-modelwetten (vooraf onafhankelijke veiligheidscontrole) genoemd; Trump-decreet (dec 2025) laat Justitie staatswetten aanvechten; Trump heeft veto.
+- Common Sense Media: NBC-exitpoll, ruim helft kiezers AI/datacenters belangrijke factor; Dahbura (Johns Hopkins): China-argument overdreven.
+- Muziekuitgevers vs Anthropic: rechter wijst claim tegen Dario Amodei persoonlijk af, mag aangepast worden; twijfel of letterlijke weergave liedteksten onderbouwd; zaak tegen bedrijf loopt door (Courthouse News, Law360).
+- China: toezichthouder vraagt banken beursgangen chip/AI af te remmen; moeder YMTC zet beursgang circa 4,9 miljard dollar Shanghai stil (Reuters).
+- Microsoft ziet af van optie contract Nscale Texas ruim te verdubbelen (tientallen miljarden; FT); Nscale wil naar beurs.
+- Uber: in drukste oktoberweek 4 ritten en circa 500 maaltijden via AI-agenten, op circa 320 miljoen ritten/bestellingen (TechCrunch).
+- Aangekondigd/open: Kansas-gouverneur (Holscher D vs Masterson R) nog niet beslist; volgende keer alleen uitkomst bespreken.
+- Nog niet behandeld: Anthropic-AP-deal; Meta koopt Conductor; OpenAI koopt Pierre; Kimi K3.1 Pro; India waarschuwt banken voor agent-aanvallen; Drax/Brookfield 20 miljard pond datacenter Yorkshire; EU AI Office eerste informatieverzoeken (onbevestigd).
