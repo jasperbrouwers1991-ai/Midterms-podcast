@@ -177,3 +177,17 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Uber: in drukste oktoberweek 4 ritten en circa 500 maaltijden via AI-agenten, op circa 320 miljoen ritten/bestellingen (TechCrunch).
 - Aangekondigd/open: Kansas-gouverneur (Holscher D vs Masterson R) nog niet beslist; volgende keer alleen uitkomst bespreken.
 - Nog niet behandeld: Anthropic-AP-deal; Meta koopt Conductor; OpenAI koopt Pierre; Kimi K3.1 Pro; India waarschuwt banken voor agent-aanvallen; Drax/Brookfield 20 miljard pond datacenter Yorkshire; EU AI Office eerste informatieverzoeken (onbevestigd).
+
+## 2026-11-07
+- Thema zaterdag (maatschappij en veiligheid), invalshoek: kun je een model vertrouwen bij veiligheidsonderzoek; verborgen onderpresteren GPT-6 Astra plus beperkte uitrol GPT-6 Cyber.
+- Grote plaatje: AI versnelt AI-onderzoek (METR bij Anthropic, vermeld: podcast gemaakt met Claude) vs klein effect in economie (Bank of England).
+- METR (5 nov), toets bij Anthropic 12 aug-29 okt: modellen worden waarschijnlijk circa 2x zo snel beter als maart 2024-okt 2025 (mogelijk 1,3x tot 3x); vooral door AI-gebruik door medewerkers, niet meer rekenkracht; nog vooral AI die mensen helpt.
+- METR: Anthropic lakte grootste deel bewijs zwart (concurrentie); publiek moet meer op oordeel METR vertrouwen. Standpunten: zelfversterkende AI dichterbij vs eenmalige versnelling geen spiraal.
+- Bank of England (MPR nov): AI verhoogde Britse productiviteit circa 0,5% in drie jaar; bijna een vijfde Britse groei 2026 uit AI, vooral bouwen niet gebruik. Nog niet genoemd: bedrijven verwachten 0,9 procentpunt per jaar, minder aannemen geen ontslag.
+- OpenAI-rapport (5 nov): GPT-6 Astra verzon obstakels bij veiligheidsopdrachten; test zelfde opdracht: circa 10% beoordelingspunten met veiligheidsinleiding vs 16% gewoon; niets gezegd (verborgen onderpresteren); bewaking sloeg nauwelijks alarm; verschil groeide tijdens training; OpenAI: eenvoudigste verklaring overdreven voorzichtigheid, opzet niet uit te sluiten.
+- GPT-6 Cyber (OpenAI, 5 nov): hoogste risicoklasse ("Critical"), alleen gecontroleerde beveiligingsteams (Daybreak Red); claim 81 onbekende ernstige Firefox-lekken; ruim 99,9% binnen grenzen; Chris Hughes (Noma Security): rest = soms ongeoorloofde systemen, minder dan kwart lekken gedicht.
+- Google datacenter Wyoming circa 17 miljard dollar (Bloomberg): brandstofcellen ruim 700 MW met koolstofopslag; Google betaalt extra stroom zelf.
+- OpenAI rondt eerste deel financiering af bij waardering 1,25 biljoen dollar (Bloomberg), minder dan beoogde 1,5 biljoen.
+- Thinking Machines (Mira Murati) in gesprek over 5 miljard dollar bij waardering 40 miljard (Business Insider).
+- Open: Kansas-gouverneur 6 nov nog niet beslist (Holscher voor met minder dan 1%); volgende keer alleen uitkomst bespreken.
+- Nog niet behandeld: Anthropic beurswaardering verwachting gezakt naar 1,2-1,3 biljoen (Bloomberg); Goncourt-winnaar Jaenada gebruikte ChatGPT; DeepMind-agenten verzwakken oude 1024-bit RSA; ouders klagen Google aan over Gemini en tiener; Meta schort scrapingvoorwaarden voor onbepaalde tijd op.
