@@ -1,0 +1,28 @@
+title: AI verdringt gewone chips, kabinet kiest voor minder afhankelijkheid
+summary: AI-klanten kopen de chipfabrieken vol zodat gewone chips op zich laten wachten, terwijl het kabinet een AI-visie presenteert die critici tandeloos noemen.
+---
+Goedemorgen en welkom bij AI Dagelijks. Het is zondag acht november tweeduizend zesentwintig. Vandaag: hoe AI de rest van de chipindustrie opzij duwt, en wat het kabinet wil met AI in Nederland.
+
+Eerst het grote plaatje. Een AI-chip bestaat steeds vaker uit tien of twintig losse chips, die samen in één pakketje worden gemonteerd. Dat verpakken is een vak apart geworden, en een nieuw knelpunt. Volgens oud-Intel-topman Pat Gelsinger kan het verpakken tot de helft van de waarde van een chip uitmaken, schrijft persbureau Reuters. Onderzoeksbureau Yole verwacht dat deze geavanceerde verpakking dit jaar voor het eerst meer omzet oplevert dan de traditionele, met zo'n achtentwintig miljard dollar aan investeringen.
+
+De gevolgen raken ook gewone chips, zoals die in auto's en fabrieksmachines. De Amerikaanse chipmaker Microchip zei donderdag dat AI-bedrijven bij gespecialiseerde fabrieken die chips verpakken en testen, in de woorden van topman Steve Sanghi, de hele fabriek hebben overgenomen en iedereen eruit hebben geduwd. De levertijd van zijn gewone producten liep op van vier tot acht weken naar zes tot tweeëndertig weken. Het aandeel zakte vrijdag nog eens tien procent.
+
+Is dit tijdelijk? Een analist van beleggingssite vierentwintig zeven Wall Street denkt van wel, omdat de orders zich opstapelen en later worden geleverd. Maar Sanghi verwacht dat chipfabrieken en verpakkers rond januari opnieuw hun prijzen verhogen. Dan betaalt uiteindelijk ook de koper van een gewoon apparaat mee aan de AI-bouw.
+
+Dan het thema van de zondag: Nederland en Europa. Het kabinet heeft vrijdag een visie op AI vastgesteld, onder leiding van staatssecretaris Aerdts van Digitale Economie en Soevereiniteit. De kern: volledige onafhankelijkheid van Amerikaanse en Chinese techbedrijven is niet het doel. Grondstoffen, chips en software kan Nederland niet alleen, zei Aerdts tegen de NOS. Wel wil het kabinet niet afhankelijk zijn van één land, één bedrijf of één speler. Het noemt Canada, Japan, Singapore en Zuid-Korea als betrouwbare partners.
+
+Wat staat er concreet in? Vanaf tweeduizend zevenentwintig is honderdtwintig miljoen euro beschikbaar voor Nederlandse deelname aan een Europees AI-project onder Duitse leiding, voor open AI-modellen en zuinigere rekenkracht. Dat geld stond al op de begroting. Het kabinet onderzoekt een eigen AI-veiligheidsinstituut, naar Brits voorbeeld, dat risico's zoals cyberaanvallen en desinformatie in de gaten houdt. Er komt een mediapact over het gebruik van journalistiek werk door AI. En pas begin volgend jaar volgen plannen voor rekenkracht en datacenters.
+
+De kritiek is stevig. Volt-leider Dassen noemt de visie een tandeloze tijger: AI zou topprioriteit moeten zijn, maar daar hoort geld bij. Wereldwijd gaan er honderden miljarden in om. Voorstanders zeggen juist dat een klein land beter kan kiezen waar het sterk is, zoals ASML en de robotbedrijven rond Eindhoven.
+
+Hoe gevoelig datacenters zijn, bleek dezelfde dag in Amsterdam. Activisten bestormden het bouwterrein van een datacenter in Sloterdijk waar Microsoft de enige huurder wordt. De politie hield tweehonderdachttien mensen aan. De demonstranten protesteerden tegen het stroom- en waterverbruik en tegen Microsofts contracten met het Israëlische leger. Microsoft keurt de wetsovertredingen af.
+
+Dan het nieuws van de dag. The New York Times meldt dat de Amerikaanse overheid ongeveer twee dozijn Chinese bedrijven toestemming gaf om Nvidia's krachtige H tweehonderd-chips te kopen, maar dat minstens twee ervan op hun opgegeven adres een leeg kantoor hebben. Eén lijkt banden te hebben met een fonds op de Amerikaanse zwarte lijst. Het ministerie zegt elke aanvraag zorgvuldig te controleren. Het doet ertoe omdat exportregels zo makkelijker te omzeilen lijken dan Washington zegt.
+
+Google DeepMind meldt dat zijn AI-agenten, samen met cryptografen, twee zwakke plekken vonden in een oudere versie van de versleutelingsmethode RSA, met sleutels van duizendvierentwintig bits. Bepaalde aanvallen worden daardoor veel goedkoper. De gangbare, sterkere sleutels zijn volgens DeepMind niet geraakt. Het doet ertoe omdat oude versleuteling nog in veel systemen zit, en AI nu ook wiskundig kraakwerk versnelt.
+
+En het Nationaal Cyber Security Centrum schrijft in het nieuwe Cybersecuritybeeld Nederland dat aanvallers AI aantoonbaar in alle fasen van een aanval gebruiken, terwijl de weerbaarheid van Nederlandse organisaties achterblijft. Het doet ertoe omdat het kabinet juist nu wil dat meer bedrijven AI gaan gebruiken.
+
+Om in de gaten te houden: in december komt het advies over een Nederlands AI-veiligheidsinstituut.
+
+Dat was het voor vandaag. Morgen om zeven uur staat de volgende aflevering voor je klaar. Tot dan.

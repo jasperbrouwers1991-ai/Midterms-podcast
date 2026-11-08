@@ -191,3 +191,18 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Thinking Machines (Mira Murati) in gesprek over 5 miljard dollar bij waardering 40 miljard (Business Insider).
 - Open: Kansas-gouverneur 6 nov nog niet beslist (Holscher voor met minder dan 1%); volgende keer alleen uitkomst bespreken.
 - Nog niet behandeld: Anthropic beurswaardering verwachting gezakt naar 1,2-1,3 biljoen (Bloomberg); Goncourt-winnaar Jaenada gebruikte ChatGPT; DeepMind-agenten verzwakken oude 1024-bit RSA; ouders klagen Google aan over Gemini en tiener; Meta schort scrapingvoorwaarden voor onbepaalde tijd op.
+
+## 2026-11-08
+- Thema zondag (Nederland en Europa), invalshoek: kabinetsvisie AI "Kiezen voor AI voor iedereen" (6 nov, Aerdts): soevereiniteit zonder volledige onafhankelijkheid; plus datacenterprotest Sloterdijk.
+- Grote plaatje: AI verdringt gewone chips; geavanceerde chipverpakking (packaging) nieuw knelpunt.
+- Reuters (7 nov): Gelsinger: verpakken tot helft waarde chip; AI-chips 10-20 losse chips; Yole: geavanceerde verpakking dit jaar voor het eerst meer omzet dan traditionele, circa 28 miljard dollar investeringen.
+- Microchip (5 nov): Sanghi: AI-bedrijven "namen hele fabriek over" bij verpak-/testbedrijven; levertijden 4-8 naar 6-32 weken; aandeel vrijdag 6 nov -10%; Sanghi: minder AI-vraag zou helpen; verwacht prijsverhogingen chipfabrieken/verpakkers rond januari. 24/7 Wall St: waarschijnlijk tijdelijk. Nog niet genoemd: Sanghi noemt datacentermarkt "bubbel".
+- Kabinetsvisie: geen volledige onafhankelijkheid; niet afhankelijk van "één land, één bedrijf, één speler" (Aerdts, NOS); partners Canada, Japan, Singapore, Zuid-Korea.
+- Kabinetsvisie: 120 miljoen euro vanaf 2027 voor Duits-geleid Europees AI-project (IPCEI; open modellen, zuinigere rekenkracht), stond al op begroting; AI-veiligheidsinstituut onderzocht (advies december); mediapact journalistiek; plannen rekenkracht/datacenters begin 2027; mkb-drempels weg, nog niet concreet.
+- Kritiek Volt-leider Dassen: "tandeloze tijger", geen budget; voorstanders: kiezen waar NL sterk is (ASML, robotica Eindhoven).
+- Sloterdijk 6 nov: activisten bestormen bouwterrein datacenter (Microsoft enige huurder), 218 aanhoudingen; protest stroom/water en Microsoft-contracten Israëlisch leger; Microsoft keurt wetsovertredingen af. Nog niet genoemd: Pure DC bouwer, 78 MW, circa 1 miljard euro, Geef Tegengas/Fossielvrij NL, alle 218 vrij.
+- NYT (7 nov): circa twee dozijn Chinese bedrijven kregen VS-toestemming voor Nvidia H200; minstens twee (New Matrix, Maginfra; namen niet genoemd) lege kantoren; één banden met fonds op zwarte lijst; ministerie: zorgvuldige controle.
+- Google DeepMind (6 nov): AI-agenten met cryptografen vonden twee zwakke plekken in oude RSA-1024; aanvallen veel goedkoper (niet genoemd: 1.600x en 30x); sterkere sleutels niet geraakt.
+- NCSC/NCTV Cybersecuritybeeld Nederland 2026 (6 nov): aanvallers gebruiken AI aantoonbaar in alle fasen; weerbaarheid NL-organisaties blijft achter.
+- Aangekondigd: advies Nederlands AI-veiligheidsinstituut december 2026; prijsverhogingen chipketen januari. Volgende keer alleen uitkomst bespreken.
+- Nog niet behandeld: CBS mkb AI-gebruik (13,8% microbedrijven vs 66,2% groot); AI-fabriek Groningen 200 miljoen; Check Point: ARTEX stal 300+ iOS-certificaten; Axon investeert 1,2 miljard in Skydio; Elvis-erven en Eminem-uitgever klagen Suno aan; Microsoft Research AI Frontiers opgeheven; OpenAI BioBasicsBench; Northampton datacenterstop; Thailand bevriest datacenterprojecten.
