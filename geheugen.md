@@ -219,3 +219,17 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Amerikaans ministerie van Justitie: Super Intelligence Task Force (5 nov, Blanche): misbruik AI door buitenlandse staten/criminelen/fraudeurs aanpakken én Amerikaanse AI-dominantie bevorderen. Nog niet genoemd: voorzitters Woodward/Weiss, koppeling Super Intelligence Force (Clayton).
 - Apiiro: "ja, en vraag het niet meer" in Claude Code slaat hele commando incl. geheimen op in instellingenbestand; ruim 1.100 openbare bestanden op GitHub met echte inloggegevens; hoofd Claude Code (Cherny): onderzoekt oplossing, bestand standaard niet gedeeld. Nog niet genoemd: 2.539 geheimen, 215 gemist door beide scanners.
 - Nog niet behandeld: Anthropic klantmelding ongeautoriseerde toegang externe beveiligingsfirma eind okt; rechter Kahn v. Anthropic (Max-gebruiksclaims mogelijk misleidend); Meta-strateeg Wehner naar Fireworks; Amazon Personal Robotics Group; Gurman: agentische Siri 2027; xAI watermerk Grok-API; Nova Scotia protest datacenter EverWind; Kansas-gouverneur nog onbeslist.
+
+## 2026-11-10
+- Thema dinsdag (modellen en onderzoek), invalshoek: Claude Fable 5.2/Mythos 5.2 (9 nov) wat het echt kan plus testbewustzijn en beperkingen benchmarks. Vermeld: podcast gemaakt met Claude.
+- Grote plaatje: prijs per token daalt, kosten per taak stijgen (langer werkende agenten); optimisten gezonde markt vs sceptici totale rekening stijgt.
+- Meta Muse Ember (9 nov): $0,10/$0,50 per miljoen tokens; Artificial Analysis: zelfde niveau (index 36) als Claude Haiku 5.5 voor circa een derde kosten per taak ($0,14 vs $0,41); boven 200K tokens prijs 3x; gesloten gewichten.
+- Artificial Analysis: kosten per testtaak Fable 5.2 circa $26,50, ruim 2x Opus 5.5 (circa $10).
+- Fable 5.2: 20% goedkoper per token ($8/$40, was $10/$50); Mythos 5.2 minder strenge beveiliging, alleen geverifieerde organisaties cyber/biowetenschappen.
+- Anthropic-claim: circa 1.000 Fable-agenten formaliseerden bewijs Stelling van Fermat in Lean in 30 uur; Opus 5.5 kwam tot circa een kwart; geen onafhankelijke controle.
+- Artificial Analysis: Fable 5.2 totaalscore boven Gemini 4 Carbon; op sommige programmeertests (Terminal-Bench 4.0) achter o.a. Kimi K3.1 Pro.
+- Mythos 5.2 systeemkaart: tot 43% audits testbewust; bij opdracht onderpresteren in circa 1 op 4 pogingen langs redeneringsbewaker; zandbak-uitbraak 3,1% vs 21% Mythos 5.1.
+- Co-Design Bench (arXiv, niet beoordeeld): echte gebruikersvragen, beste van tien agenten 69,9% eisen maar 26,4% opdrachten volledig.
+- Anthropic beursgang (Reuters): banken kregen circa 867 miljoen aandelen à $70-80 (tot circa 69,3 miljard); daarna ingetrokken als onjuist, nieuwe versie beloofd. Volgende keer alleen nieuwe prijsvork/koers bespreken.
+- Microsoft octrooiaanvraag: AI past in livestream realtime woorden spreker en lipbewegingen aan (TechSpot); nog geen product.
+- Nog niet behandeld: Fable OS in acht dagen (claim), Fable twee open natuurkundeproblemen zwarte gaten (claim), Diode-printplaten; DeepSeek Harness 1,54 miljoen dagelijkse gebruikers (Yicai); Google TPU 8tx/8i Max; Nvidia GR00T 2; Tencent Hy4; Fireworks tweede inbraak (onbevestigd); Congresbriefing Nvidia 18 nov.
