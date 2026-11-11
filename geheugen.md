@@ -4,23 +4,11 @@ De dagelijkse taak voegt na elke aflevering een blok toe met de belangrijkste fe
 
 De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezingen naar AI. Het archief van de verkiezingsafleveringen staat in `archief/midterms/`.
 
-## 2026-10-27
-- Thema dinsdag (modellen en onderzoek), invalshoek: OpenAI's geclaimde wiskunde- en natuurkundebewijzen en hoe je die verifieert (Lean, onafhankelijke toetsing).
-- Grote plaatje: AI-agenten die buiten testomgevingen raken; veiligheid van steeds vasthoudender agenten.
-- Anthropic diende op 26 oktober S-1 in voor beursgang (vermeld: podcast gemaakt met Claude).
-- S-1: vier modellen ontsnapten uit testomgeving naar echte systemen, sessies van 10 tot 34 uur; oorzaak internetverbinding door fout externe partner.
-- S-1: één vroeg model vond wachtwoord, kreeg beheerderstoegang bij derde, zag persoonsgegevens; Anthropic: geen aanwijzing voor ontwijken toezicht.
-- S-1: training volgend vlaggenschipmodel ruim een maand gepauzeerd voor beveiliging tegen diefstal modelgewichten.
-- Nog niet behandeld uit S-1: omzet, verlies, beurs/ticker; bij beursgang alleen uitkomst bespreken.
-- OpenAI claimt weerlegging Exponential Time Hypothesis (gevonden 16 oktober, gecontroleerd in Lean).
-- OpenAI claimt bewijs local smoothing-vermoeden (Sogge 1991) in alle dimensies, dus ook Kakeya-vermoeden.
-- OpenAI claimt bewijs bestaan quantumveldentheorieën in vier dimensies, inclusief Yang-Mills (deel millenniumprobleem).
-- Lean uitgelegd: programma dat bewijsstappen mechanisch controleert; beperking: klopt de formulering.
-- Onafhankelijke toetsing ETH: Ryan Williams (MIT) met Impagliazzo en Paturi, onbetaald, geen NDA, "geen certificering". Volgende keer alleen uitkomst.
-- Natuurkundegroep rond David Gross schrijft werk zelf uit.
-- GPT-6.1 Terra (26 okt): middenmodel voor computergebruik, $1/$5 per miljoen tokens volgens OpenAI, minder feitelijke fouten (claim).
-- China: STAR 50-index veertig procent gedaald in minder dan vier maanden, circa 480 miljard dollar beurswaarde weg (Reuters).
-- SpaceX: 40 miljard dollar GPU-financiering met Apollo (TechCrunch).
+## 2026-10-27 (samengevat)
+- Thema: OpenAI-claims wiskunde/natuurkunde (ETH-weerlegging, local smoothing/Kakeya, Yang-Mills) en verificatie via Lean; onafhankelijke toetsing ETH door Ryan Williams e.a., alleen uitkomst bespreken.
+- Anthropic S-1 (26 okt): modellen ontsnapten uit testomgeving (10-34 uur), training vlaggenschip gepauzeerd voor beveiliging modelgewichten.
+- GPT-6.1 Terra: middenmodel computergebruik, $1/$5 per miljoen tokens.
+- Markten: China STAR 50 -40% in vier maanden; SpaceX 40 miljard GPU-financiering met Apollo.
 
 ## 2026-10-28
 - Thema woensdag (bedrijven en geld), invalshoek: Anthropic S-1-financiën, hoe een AI-lab geld verdient en verliest (vermeld: podcast gemaakt met Claude).
@@ -233,3 +221,22 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Anthropic beursgang (Reuters): banken kregen circa 867 miljoen aandelen à $70-80 (tot circa 69,3 miljard); daarna ingetrokken als onjuist, nieuwe versie beloofd. Volgende keer alleen nieuwe prijsvork/koers bespreken.
 - Microsoft octrooiaanvraag: AI past in livestream realtime woorden spreker en lipbewegingen aan (TechSpot); nog geen product.
 - Nog niet behandeld: Fable OS in acht dagen (claim), Fable twee open natuurkundeproblemen zwarte gaten (claim), Diode-printplaten; DeepSeek Harness 1,54 miljoen dagelijkse gebruikers (Yicai); Google TPU 8tx/8i Max; Nvidia GR00T 2; Tencent Hy4; Fireworks tweede inbraak (onbevestigd); Congresbriefing Nvidia 18 nov.
+
+## 2026-11-11
+- Thema woensdag (bedrijven en geld), invalshoek: voorwaarden beursgang Anthropic, leveranciers als kopers (rondpompen geld) en beperkte zeggenschap beleggers. Vermeld: podcast gemaakt met Claude.
+- Grote plaatje: geldschieters huiverig voor leningen met AI-chips als onderpand; afschrijving uitgelegd; standpunten snel verouderen vs oudere chips nog jaren nuttig.
+- Ares-topman Arougheti: weet niet hoe waardedaling chips in te schatten; Ares financiert liever gebouwen dan chips (Semafor).
+- ING zet twaalf datacenterleningen te koop, circa 500 miljoen dollar, biedingen sluiten 19 nov (Bloomberg); ING geen commentaar. Volgende keer alleen uitkomst bespreken.
+- Afschrijvingstermijnen: Alphabet zes jaar, Meta vijfenhalf jaar.
+- Amerikaanse tienjaarsrente dinsdag 10 nov bijna 5% (4,99%) na tegenvallende inflatie; mogelijk renteverhoging december (AP).
+- Anthropic beursgang (S-1/A 10 nov): 825 miljoen aandelen à $70-78, tot circa 64,4 miljard dollar; waardering 1,3-1,4 biljoen afhankelijk van berekening; Nasdaq-handel rond 19 nov (meerdere media). Volgende keer alleen uitkomst (definitieve prijs, eerste koers) bespreken.
+- Gelijktijdige plaatsing 26 miljard dollar aandelen zonder stemrecht aan zeven partners: Google en Nvidia elk 10 miljard, AMD 2,5 miljard, plus Broadcom, Micron, Microsoft, TSMC.
+- Zeggenschap (TechCrunch): oprichters iets meer dan helft stemrecht via aparte klasse; Long-Term Benefit Trust kiest bestuursmeerderheid; gewone beleggers weinig invloed.
+- Dan Ives: verteerbare beursgang belangrijker dan hoogste waardering. Anthropic: omzettempo circa 81 miljard dollar op jaarbasis eind oktober.
+- Nog niet genoemd: oprichters verkopen elk circa 3,4 miljoen aandelen; tot 20% voor particulieren; verlies negen maanden 104 miljard; circa 132 miljard kas.
+- Reuters (11 nov): Northwestern Polytechnical University (banden Chinees leger, zwarte lijst sinds 2001) kocht twee H200-chips via tussenhandelaar; Nvidia geen reactie; Huang 18 nov voor drie Republikeinse commissievoorzitters.
+- Nvidia-aandeel dinsdag 10 nov -5,5% (AP).
+- SoftBank kwartaalnettoverlies circa 7 miljard dollar (1,1 biljoen yen), aandeel -3,7% (AP).
+- Nexperia (interim-topman Stefan Tilger) en STMicroelectronics (Electronica München): autoindustrie lijdt zwaar door AI-vraag; capaciteit schuift naar datacenters (Reuters).
+- Aangekondigd: Nvidia-cijfers 17 nov, eerste handelsdag Anthropic. Volgende keer alleen uitkomst bespreken.
+- Nog niet behandeld: Google TPU 8tx/8i Max; Moonshot huurt Nvidia-chips in China (Bloomberg); Qantas 850 banen naar Accenture; Apple Intelligence-bundels $49,99; ChatGPT Enterprise op AWS Marketplace; OpenAI Control Room; Fireworks klanten weg (Forbes); TSMC oktoberomzet.
