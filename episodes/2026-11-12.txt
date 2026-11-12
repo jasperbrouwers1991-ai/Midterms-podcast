@@ -1,0 +1,30 @@
+title: Nvidia-bestuur wil Huang weg, bedrijven halen AI-ontslagen terug
+summary: Het bestuur van Nvidia bereidt volgens The Wall Street Journal het vertrek van topman Jensen Huang voor, terwijl steeds meer bedrijven mensen terugnemen die ze eerder door AI vervingen.
+---
+Goedemorgen en welkom bij AI Dagelijks. Het is donderdag twaalf november tweeduizend zesentwintig. Vandaag: wat er gebeurt als de belangrijkste persoon in de AI-keten mogelijk moet vertrekken, en waarom bedrijven mensen terugbellen die ze door AI hadden vervangen.
+
+Eerst het grote plaatje. Bijna de hele AI-bouw draait op chips van één bedrijf. Nvidia heeft ongeveer tachtig procent van de markt voor AI-chips in handen. Concurrent AMD komt niet verder dan zeven procent. En dat bedrijf wordt al drieëndertig jaar geleid door dezelfde man: Jensen Huang.
+
+Woensdagavond meldde The Wall Street Journal dat het bestuur van Nvidia zijn vertrek voorbereidt. Persbureau Reuters bevestigde dat het bestuur laat op de avond bijeenkwam om over zijn toekomst te beslissen. Een uitkomst is nog niet bekend, en Nvidia reageerde niet. Aanleiding zijn persoonlijke relaties die Huang deels zelf heeft toegegeven, waaronder een met een Chinese zakenvrouw die door Amerikaanse inlichtingendiensten wordt verdacht. Volgens The New York Times had hij ook een relatie met een directe ondergeschikte.
+
+Het aandeel zakte na sluiting van de beurs ruim acht procent. Sinds het onderzoek afgelopen zondag werd aangekondigd, is volgens CBS meer dan vierhonderdvijftig miljard dollar aan beurswaarde verdwenen.
+
+Waarom doet dit ertoe buiten Nvidia? Omdat de hele sector, van datacenters tot AI-labs, rekent op de leveringen en de koers van dit bedrijf. Sommige beleggers zien vooral risico: Huang was het gezicht van de AI-hausse en de onderhandelaar met Washington en Beijing. Anderen zeggen dat Nvidia inmiddels een machine is die ook zonder hem draait, en noemen financieel directeur Colette Kress als logische tijdelijke opvolger. Volgende week dinsdag presenteert Nvidia zijn kwartaalcijfers, mogelijk al onder nieuwe leiding.
+
+Dan het thema van de donderdag: AI aan het werk. Vandaag een opvallende ommekeer. Bedrijven die banen schrapten omdat AI het werk zou overnemen, nemen die mensen nu deels terug. In het Engels heet dat AI rebounding.
+
+Het Amerikaanse uitzendbureau Robert Half vroeg dit voorjaar ruim tweeduizend Amerikaanse managers die mensen aannemen naar hun ervaringen. Van wie functies had geschrapt vanwege AI, nam tweeëndertig procent later weer iemand aan voor hetzelfde of vergelijkbaar werk. Bij financiële afdelingen was dat vierenveertig procent. De meest genoemde redenen: er bleek meer menselijk toezicht en kwaliteitscontrole nodig dan gedacht, mensen hadden kennis van het bedrijf die AI niet had, en klantrelaties lieten zich niet automatiseren.
+
+Ook werknemers merken het. Uit onderzoek van het beoordelingsbureau SHL, deze week beschreven door Fortune, blijkt dat ruim negentien procent van de ondervraagde Amerikanen zegt te zijn vervangen door AI en daarna gevraagd te zijn terug te komen. Ze stellen dan wel eisen. De helft wilde eerst flink meer salaris, ruim veertig procent een schriftelijke garantie op baanzekerheid.
+
+Betekent dit dat het meevalt met AI en banen? Niet per se. Volgens adviesbureau Challenger, Gray en Christmas noemden Amerikaanse werkgevers dit jaar tot en met oktober AI als reden bij ruim honderdeenentwintigduizend aangekondigde ontslagen, meer dan twee keer zoveel als in heel vorig jaar. Optimisten zien in de terugkeer een correctie: bedrijven leren waar AI echt helpt. Critici wijzen erop dat terugnemen vaak gebeurt na een dure fout, en dat jonge starters het hardst geraakt blijven worden.
+
+Dan het nieuws van de dag. Google heeft zijn model Gemini vier Carbon nu voor iedereen beschikbaar gemaakt. Volgens Google kost het twee dollar per miljoen tokens invoer, maar die introductieprijs verdubbelt op één december. Het doet ertoe omdat Google zo met een tijdelijk lage prijs klanten probeert weg te lokken bij OpenAI en Anthropic.
+
+De Amerikaanse minister van Financiën Scott Bessent zei volgens Reuters dat de Verenigde Staten en China willen samenwerken aan een alarmkanaal voor ernstige AI-incidenten. Een eerste overleg staat gepland in de Chinese stad Shenzhen, rond de APEC-top van landen rond de Stille Oceaan, achttien en negentien november. Het doet ertoe omdat de twee AI-grootmachten tot nu toe vooral concurreren en nauwelijks afspraken maken over risico's.
+
+En OpenAI zette volgens The Information het afgelopen kwartaal ongeveer tien miljard dollar om, een groei van bijna vijftig procent, terwijl het nog steeds grote verliezen lijdt. Het doet ertoe omdat beleggers willen zien of de omzet de enorme uitgaven aan rekenkracht kan bijhouden.
+
+Om in de gaten te houden: of het bestuur van Nvidia vandaag een besluit over Jensen Huang bekendmaakt.
+
+Dat was het voor vandaag. Morgen om zeven uur staat de volgende aflevering voor je klaar. Tot dan.

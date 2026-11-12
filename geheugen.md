@@ -240,3 +240,17 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Nexperia (interim-topman Stefan Tilger) en STMicroelectronics (Electronica München): autoindustrie lijdt zwaar door AI-vraag; capaciteit schuift naar datacenters (Reuters).
 - Aangekondigd: Nvidia-cijfers 17 nov, eerste handelsdag Anthropic. Volgende keer alleen uitkomst bespreken.
 - Nog niet behandeld: Google TPU 8tx/8i Max; Moonshot huurt Nvidia-chips in China (Bloomberg); Qantas 850 banen naar Accenture; Apple Intelligence-bundels $49,99; ChatGPT Enterprise op AWS Marketplace; OpenAI Control Room; Fireworks klanten weg (Forbes); TSMC oktoberomzet.
+
+## 2026-11-12
+- Thema donderdag (AI aan het werk), invalshoek: "AI rebounding", bedrijven nemen door AI vervangen mensen terug (Robert Half, SHL, Challenger).
+- Grote plaatje: Nvidia-leiderschapscrisis en afhankelijkheid van één bedrijf; Nvidia circa 80% AI-chipmarkt, AMD onder 7%; Huang 33 jaar topman.
+- WSJ (11 nov): Nvidia-bestuur bereidt vertrek Huang voor; Reuters: bestuur kwam woensdagavond bijeen, nog geen uitkomst; Nvidia geen reactie.
+- Aanleiding: relaties deels door Huang toegegeven, o.a. met Chinese zakenvrouw verdacht door VS-inlichtingendiensten; NYT: relatie met directe ondergeschikte. Nog niet genoemd: Bloomberg extern bureau zoekt opvolgers.
+- Nvidia-aandeel nabeurs 11 nov ruim -8%; sinds 8 nov ruim 450 miljard dollar beurswaarde weg (CBS). Standpunten: Huang gezicht hausse/onderhandelaar vs bedrijf draait zonder hem; CFO Colette Kress genoemd als tijdelijke opvolger. Volgende keer alleen uitkomst bestuursbesluit bespreken.
+- Robert Half (voorjaar 2026, ruim 2.000 VS-managers): 32% die functies schrapte door AI nam later weer mensen aan; financiën 44%; redenen meer toezicht/kwaliteitscontrole, bedrijfskennis, klantrelaties.
+- SHL (Fortune, 9 nov): ruim 19% ondervraagde Amerikanen vervangen door AI en teruggevraagd; helft wil flink meer salaris, ruim 40% schriftelijke baanzekerheid.
+- Challenger, Gray & Christmas: 2026 t/m oktober AI genoemd bij ruim 121.000 aangekondigde ontslagen, ruim 2x heel 2025. Standpunten: correctie vs dure fout, starters hardst geraakt.
+- Gemini 4 Carbon (Google) nu algemeen beschikbaar; introductieprijs $2 per miljoen tokens invoer, verdubbelt 1 dec (claim Google).
+- Bessent (Reuters, 11 nov): VS en China werken aan alarmkanaal ernstige AI-incidenten; eerste overleg Shenzhen rond APEC-top 18-19 nov. Volgende keer alleen uitkomst bespreken.
+- OpenAI Q3-omzet circa 10 miljard dollar, groei bijna 50%, nog grote verliezen (The Information).
+- Nog niet behandeld: Claude Meetings/Sheets (Anthropic, 10 nov); Gemini Robotics 2.5 (Mercedes-proef Apptronik 96%); AlphaProof Code verifieert Signal; AlphaGenome 2; EIA recordstroomvraag VS 2026-2027; Railway-inbraak 740.000 dollar AI-kosten; Musk wil Huang aannemen; Oura koopt Counsel Health; Mercor 20 miljard waardering; Spotify AI-remixes; NY staatsprogramma AI-tests; Australië AI-veiligheidstoezichthouder; Stanford AI100.
