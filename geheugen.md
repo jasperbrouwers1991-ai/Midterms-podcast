@@ -15,20 +15,10 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Big Tech ruim 700 mld capex 2026; Meta Q3 vrije kasstroom -2,1 mld (eerste keer negatief), ~825 mld verplichtingen; Slok vs Morrison over terugverdienen.
 - OpenAI beursgang naar begin 2027 (Bloomberg); OpenAI wil Google-TPU's (The Information); SK Hynix Q3 record; Cloudflare-fout 155 AI-antwoorden.
 
-## 2026-10-29
-- Thema donderdag (AI aan het werk), invalshoek: banen en terugverdienen op de werkvloer (Goldman, Workday, Jellyfish); vermeld: podcast gemaakt met Claude.
-- Grote plaatje: beleggers belonen wie AI-bouw uit eigen kas betaalt; Microsoft vs Alphabet kwartaalcijfers (28 okt).
-- Microsoft Q3: Azure +48%, vrije kasstroom ruim 18 miljard dollar positief na bijna 40 miljard investeringen; aandeel nabeurs +4 à 5%.
-- Alphabet Q3: Google Cloud-omzet verdubbeld (+103%), capex 51,4 miljard (vs 24 miljard jaar eerder), vrije kasstroom -9,1 miljard; aandeel nabeurs circa -10%.
-- Alphabet: langlopende schuld van 46,5 naar 125,1 miljard dollar sinds eind 2025; capex 2027 "flink hoger"; zoeken en YouTube iets onder verwachting.
-- Goldman Sachs (Joseph Briggs, 22 okt): tot 9% werknemers rijke landen verdrongen (één op elf) plus circa 3% minder aannames; ontslag versnelt vooral in recessie.
-- Goldman: pas 23% Amerikaanse bedrijfsvestigingen heeft AI in gewone werk ingebouwd.
-- Workday-onderzoek (6.000 werknemers/managers): 40% leidinggevenden verwacht meer uit bestaand personeel, 28% minder mensen; vraag simpele AI-vaardigheden -25% sinds januari, AI-bouwvaardigheden +51%.
-- Jellyfish: bijna een derde voorgestelde codewijzigingen bij klanten via tools op Anthropic-modellen; kosten circa 2% softwarebudget.
-- Anthropic lanceerde 28 okt rapportagetools voor managers om opbrengst AI-uitgaven te zien.
-- Dropbox schrapt circa 9% personeel (8-K 28 okt), technologiedirecteur Ali Dasdan vertrekt 18 nov; AI niet als reden genoemd.
-- Moore Threads (Chinese AI-chipmaker): Q3-omzet bijna 19x jaar eerder, winstgevend (Bloomberg).
-- Aangekondigd: Amazon kwartaalcijfers 29 okt (avond); volgende keer alleen uitkomst bespreken.
+## 2026-10-29 (samengevat)
+- Thema: AI aan het werk, banen en terugverdienen (Goldman: tot 9% verdrongen, 23% bedrijven AI ingebouwd; Workday-onderzoek; Jellyfish circa een derde codewijzigingen via Anthropic-tools); Anthropic-rapportagetools managers.
+- Kwartaalcijfers: Microsoft (Azure +48%, vrije kasstroom positief) vs Alphabet (Cloud +103%, capex 51,4 mld, vrije kasstroom -9,1 mld, schuld naar 125,1 mld); beleggers belonen eigen kas.
+- Overig: Dropbox schrapt 9%; Moore Threads Q3 bijna 19x omzet, winstgevend.
 
 ## 2026-10-30
 - Thema vrijdag (regels en politiek), invalshoek: EU AI-verordening na Digital Omnibus (verordening 2026/1744, van kracht 27 juli 2026) plus auteursrechtzaken; vermeld: podcast gemaakt met Claude.
@@ -244,3 +234,16 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Bessent (Reuters, 11 nov): VS en China werken aan alarmkanaal ernstige AI-incidenten; eerste overleg Shenzhen rond APEC-top 18-19 nov. Volgende keer alleen uitkomst bespreken.
 - OpenAI Q3-omzet circa 10 miljard dollar, groei bijna 50%, nog grote verliezen (The Information).
 - Nog niet behandeld: Claude Meetings/Sheets (Anthropic, 10 nov); Gemini Robotics 2.5 (Mercedes-proef Apptronik 96%); AlphaProof Code verifieert Signal; AlphaGenome 2; EIA recordstroomvraag VS 2026-2027; Railway-inbraak 740.000 dollar AI-kosten; Musk wil Huang aannemen; Oura koopt Counsel Health; Mercor 20 miljard waardering; Spotify AI-remixes; NY staatsprogramma AI-tests; Australië AI-veiligheidstoezichthouder; Stanford AI100.
+
+## 2026-11-13
+- Thema vrijdag (regels en politiek), invalshoek: van regels naar stilleggen, rechtszaak en wetsvoorstel om topmodellen te stoppen. Vermeld: podcast gemaakt met Claude.
+- Grote plaatje: risico AI-bouw schuift naar klanten (vooruitbetalen) en Fed-waarschuwing; optimisten vraag > aanbod vs sceptici keten draagt elkaars risico.
+- CoreWeave Q3 (10 nov): omzet 3,66 mld dollar (+168%), nettoverlies 709 mln; Intrator: circa 9 mld vooruitbetalingen/borg verwacht komende drie maanden. Nog niet genoemd: orderboek 132,5 mld, capex 2026 37-39 mld, kortere contracten.
+- Bowman (Fed, vicevoorzitter toezicht, 10 nov, CFR): beleggers herwegen risico's extern gefinancierde AI-projecten; kans grote koerscorrectie als opbrengsten tegenvallen; AI-bouw circa kwart inflatie boven doel (12 mnd t/m sept). Nog niet genoemd: AI-schuld dit jaar ruim 800 mld (onbevestigd).
+- Rechtszaak (12 nov, San Francisco Superior Court, advocaat Matthew Platkin): Irreplaceable Education Fund, Public Citizen, Heat Initiative, Alliance for Secure AI vs Anthropic, Google, Meta, OpenAI, SpaceX-AI; spoedbevel geen nieuwe generatie modellen tot menselijke controle bewezen; Californische wet oneerlijke handelspraktijken + public nuisance; Meta geen commentaar (Reuters). Volgende keer alleen uitkomst (behandeling/uitspraak) bespreken.
+- Florida (AG Uthmeier) vroeg in september rechter OpenAI geen nieuwe modellen zonder extern toezicht; nog geen beslissing. Nog niet genoemd: acht staten klaagden OpenAI vorige maand aan; OpenAI zegt training sterkste modellen gepauzeerd.
+- Ban Superintelligence Act (Casar, Ocasio-Cortez, met Sanders; Futurism): ministerie voor AI, vergunning om geavanceerde modellen te trainen, volledige toegang datacenters, tot 20 jaar cel; steun gematigde Democraten onzeker. Nog niet genoemd: Ansari (pauze dag één), 10 jaar beroepsverbod, nummer H.R. 10538 (status onbevestigd).
+- Nvidia (uitkomst, 12 nov): Huang treedt per direct af als topman en bestuurslid; Colette Kress tijdelijk topman (blijft CFO); Harvey Jones (oud-Synopsys) eerste bestuursvoorzitter; aandeel opende ruim -13%, sloot -4,3% (ABC); cijfers 17 nov ongewijzigd. Volgende keer alleen cijfers/opvolging bespreken.
+- United Airlines blokkeert AI-agenten die zelf vluchten boeken; klant moet zelf afrekenen (The Verge).
+- TSMC investeert ook 500 mln dollar in OpenAI (Reuters via Ars Technica).
+- Nog niet behandeld: Ramp AI Index okt (56,8% VS-bedrijven betaalt voor AI; Anthropic 44,8%, OpenAI 40,6%); Qwen4-Max-Preview; ByteDance-assistent; Helsing Clarity; Uforce 700 mln; Anthropic "Worse Together"; Perplexity zandbak-onderzoek; AntiFox (afgeleid van ARTEX); AlphaGenome 2 (details); Gemini Decisions API; OpenAI Businesses in ChatGPT; Databricks Genie always-on.

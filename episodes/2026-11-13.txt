@@ -1,0 +1,30 @@
+title: Rechtszaak en wetsvoorstel willen de bouw van topmodellen stilleggen
+summary: Actiegroepen vragen een rechter om de ontwikkeling van nieuwe topmodellen te stoppen en Democraten willen een vergunning om ze te trainen, terwijl Jensen Huang vertrekt bij Nvidia.
+---
+Goedemorgen en welkom bij AI Dagelijks. Het is vrijdag dertien november tweeduizend zesentwintig. Vandaag: waarom AI-klanten steeds vaker vooruit moeten betalen, en de pogingen om de bouw van de krachtigste modellen via de rechter en de wet stil te leggen.
+
+Eerst het grote plaatje. Wie rekenkracht wil huren, moet steeds vaker eerst geld op tafel leggen. CoreWeave, een van de grootste verhuurders van AI-chips, verwacht in de komende drie maanden zo'n negen miljard dollar aan vooruitbetalingen en borgsommen van klanten, zei topman Michael Intrator bij de kwartaalcijfers. De omzet steeg met honderdachtenzestig procent, naar ruim drie komma zes miljard dollar. Toch leed het bedrijf zevenhonderdnegen miljoen dollar verlies.
+
+Waarom gebeurt dat? Verhuurders lenen enorme bedragen om chips te kopen, en willen zekerheid dat hun klanten blijven betalen. Door vooruit te laten betalen schuift een deel van het risico naar de klant.
+
+Ook de Amerikaanse centrale bank kijkt mee. Michelle Bowman, de vicevoorzitter die over het toezicht op banken gaat, zei deze week dat beleggers de risico's van met geleend geld gefinancierde AI-projecten opnieuw afwegen. Ze waarschuwde voor een grote koerscorrectie als de opbrengsten tegenvallen. Volgens haar was de AI-bouw het afgelopen jaar ook goed voor ongeveer een kwart van de inflatie boven het doel. Optimisten zien vooral vraag die het aanbod overtreft. Sceptici zien een keten waarin steeds meer partijen elkaars risico dragen.
+
+Dan het thema van de vrijdag: regels en politiek. De vraag verschuift van hoe je AI regelt naar of je de krachtigste modellen moet stoppen.
+
+Vier Amerikaanse organisaties, waaronder consumentenorganisatie Public Citizen, zijn donderdag een rechtszaak begonnen in San Francisco tegen Anthropic, Google, Meta, OpenAI en de AI-tak van SpaceX. Anthropic is de maker van Claude, waarmee deze podcast wordt gemaakt. De eisers vragen een spoedbevel: geen nieuwe generatie modellen, totdat de bedrijven kunnen aantonen dat mensen de technologie onder controle houden. Ze beroepen zich op de Californische wet tegen oneerlijke handelspraktijken, en noemen de bedrijven een gevaar voor de volksgezondheid. Als bewijs gebruiken ze uitspraken van de topmannen zelf over de risico's, en incidenten die de bedrijven zelf hebben gemeld. Meta wilde niet reageren, de andere bedrijven reageerden niet direct, meldt persbureau Reuters.
+
+De zaak staat niet alleen. De Amerikaanse staat Florida vroeg in september al aan een rechter om OpenAI geen nieuwe modellen te laten ontwikkelen zonder extern toezicht. Daarover is nog niet beslist.
+
+Ook in het Congres groeit dit geluid. Afgevaardigden Greg Casar en Alexandria Ocasio-Cortez werken volgens techsite Futurism, samen met senator Bernie Sanders, aan een wet met de naam Ban Superintelligence Act. Die zou een nieuw ministerie voor kunstmatige intelligentie oprichten. Labs hebben dan een vergunning nodig om geavanceerde modellen te trainen, en de minister krijgt volledige toegang tot hun datacenters. Zwaarste overtreders riskeren tot twintig jaar cel.
+
+De standpunten lopen ver uiteen. Voorstanders zeggen dat de bedrijven zelf waarschuwen voor rampen, en dat zelfregulering dan niet volstaat. Tegenstanders vinden een vergunningsplicht voor een hele technologie te ver gaan, en vrezen dat onderzoek naar landen met minder regels verschuift. Of gematigde Democraten meegaan, is onzeker. En een rechter die de ontwikkeling van een hele sector stillegt, zonder federale AI-wet als maatstaf, zou ongekend zijn.
+
+Dan het nieuws van de dag. Jensen Huang is donderdag opgestapt als topman van Nvidia, en verliet ook het bestuur. Financieel directeur Colette Kress wordt tijdelijk topman, en oud-Synopsys-topman Harvey Jones wordt de eerste bestuursvoorzitter in de geschiedenis van het bedrijf. Het aandeel opende ruim dertien procent lager en sloot ruim vier procent in de min. Het doet ertoe omdat de kwartaalcijfers van dinsdag nu de eerste test worden voor Nvidia zonder Huang.
+
+De Amerikaanse luchtvaartmaatschappij United blokkeert AI-agenten die zelfstandig vluchten boeken, meldt The Verge. Een AI-assistent mag opties laten zien, maar de klant moet zelf afrekenen. United noemt persoonsgegevens, per ongeluk geboekte reizen en de regels in de luchtvaart. Het doet ertoe omdat bedrijven nu zelf de grenzen trekken voor wat AI-agenten namens klanten mogen doen.
+
+En de Taiwanese chipmaker TSMC investeert volgens Reuters ook vijfhonderd miljoen dollar in OpenAI. Het doet ertoe omdat leveranciers zo steeds vaker ook aandeelhouder worden van hun grootste klanten.
+
+Om in de gaten te houden: of de rechter in San Francisco het spoedbevel in behandeling neemt.
+
+Dat was het voor vandaag. Morgen om zeven uur staat de volgende aflevering voor je klaar. Tot dan.
