@@ -20,20 +20,11 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Kwartaalcijfers: Microsoft (Azure +48%, vrije kasstroom positief) vs Alphabet (Cloud +103%, capex 51,4 mld, vrije kasstroom -9,1 mld, schuld naar 125,1 mld); beleggers belonen eigen kas.
 - Overig: Dropbox schrapt 9%; Moore Threads Q3 bijna 19x omzet, winstgevend.
 
-## 2026-10-30
-- Thema vrijdag (regels en politiek), invalshoek: EU AI-verordening na Digital Omnibus (verordening 2026/1744, van kracht 27 juli 2026) plus auteursrechtzaken; vermeld: podcast gemaakt met Claude.
-- Grote plaatje: labs geven gevaarlijke (cyber)vaardigheden eerst aan verdedigers; vrijwillig overheidstoezicht op modellen.
-- Gemini 4 Carbon (Google): model voor langdurig programmeren en beveiliging; claim 88,2% op SEC-bench Pro; eerst alleen geselecteerde beveiligers, dan partners; vrijwillige test Amerikaanse overheid.
-- VK stelt circa 160 miljoen dollar voor aan AI Security Institute, veel meer dan Amerikaanse tegenhanger (Semafor).
-- Omnibus: per 2 dec 2026 verbod op AI voor niet-consensuele realistische naaktbeelden (uitkleed-apps) en voor beelden kindermisbruik; boete tot 35 miljoen euro of 7%.
-- Omnibus: per 2 dec 2026 watermerkplicht ook voor generatieve systemen van vóór 2 aug 2026.
-- Omnibus: hoog-risico-regels (sollicitaties, krediet, onderwijs) uitgesteld naar 2 dec 2027; AI in producten naar 2 aug 2028. Standpunten: normen niet klaar vs burgers langer onbeschermd.
-- Hof van beroep Third Circuit (29 sep) bevestigt: Ross gebruik Westlaw-samenvattingen Thomson Reuters geen fair use; geen generatieve AI, vraag over chatbots open.
-- Reservoir klaagde 21 okt Suno en Anthropic aan, samen circa 340 miljoen dollar (liedteksten/composities); Anthropic zal zich verdedigen.
-- Amazon Q3 (29 okt): AWS +39% (snelst in bijna vijf jaar), hoogste winstmarge ooit; vrije kasstroom 12 maanden -42,4 miljard; capex 2026 circa 220 miljard; aandeel nabeurs ruim -7% (CNBC).
-- OpenAI zet honderden medewerkers in tegen misbruik ChatGPT rond Amerikaanse verkiezingen 3 nov (Politico).
-- Maleisië onderschept AI-chips ruim 12 miljoen dollar in 30 servers op vliegveld Kuala Lumpur, vermoedelijk smokkel (Tom's Hardware).
-- Aangekondigd: nieuwe EU-verboden ingaan 2 dec 2026; volgende keer alleen uitkomst/handhaving bespreken.
+## 2026-10-30 (samengevat)
+- Thema: EU AI-verordening na Digital Omnibus (2026/1744): per 2 dec 2026 verbod uitkleed-apps/misbruikbeelden en watermerkplicht oudere systemen; hoog-risico-regels naar 2 dec 2027, producten 2 aug 2028; alleen uitkomst/handhaving 2 dec bespreken.
+- Auteursrecht: Third Circuit Ross/Thomson Reuters geen fair use; Reservoir vs Suno en Anthropic (circa 340 mln).
+- Gemini 4 Carbon eerst voor beveiligers (claim SEC-bench Pro 88,2%); VK circa 160 mln dollar AI Security Institute.
+- Amazon Q3: AWS +39%, vrije kasstroom -42,4 mld, capex circa 220 mld; OpenAI verkiezingsteam; Maleisië onderschept AI-chips 12 mln.
 
 ## 2026-10-31
 - Thema zaterdag (maatschappij en veiligheid), invalshoek: AI en desinformatie rond Amerikaanse verkiezingen 3 nov; werkt misleiding echt, en wat chatbots over kandidaten zeggen.
@@ -247,3 +238,17 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - United Airlines blokkeert AI-agenten die zelf vluchten boeken; klant moet zelf afrekenen (The Verge).
 - TSMC investeert ook 500 mln dollar in OpenAI (Reuters via Ars Technica).
 - Nog niet behandeld: Ramp AI Index okt (56,8% VS-bedrijven betaalt voor AI; Anthropic 44,8%, OpenAI 40,6%); Qwen4-Max-Preview; ByteDance-assistent; Helsing Clarity; Uforce 700 mln; Anthropic "Worse Together"; Perplexity zandbak-onderzoek; AntiFox (afgeleid van ARTEX); AlphaGenome 2 (details); Gemini Decisions API; OpenAI Businesses in ChatGPT; Databricks Genie always-on.
+
+## 2026-11-14
+- Thema zaterdag (maatschappij en veiligheid), invalshoek: AI in vitale infrastructuur, FAA-hulpmiddel SMART en landelijke vliegstop VS 13 nov.
+- Vliegstop 13 nov: communicatie-uitval alle 22 regionale verkeersleidingscentra (FAA); circa 3.100 vliegtuigen in de lucht mochten landen (IVN); eerste landelijke stop sinds jan 2023; later opgeheven.
+- SMART (Air Space Intelligence, contract 875 mln dollar/12 jaar; niet genoemd): circa 200 databronnen, routevoorstellen, mensen beslissen; uitgerold naar alle 22 centra op 10 nov; FAA-claim 180 vluchten omgeleid sinds sept, circa 10 min winst.
+- Mullin (DHS): onderzoek of SMART rol speelde, voorlopig telecomstoring; Air Space Intelligence ontkent verband; geen verband aangetoond.
+- Ruim twintig Congresleden vroegen 9 okt om pauze uitrol; vakbond verkeersleiders niet betrokken bij ontwerp. Standpunten: ontlasten verouderd systeem vs stapsgewijs invoeren vitale infrastructuur. Nog niet genoemd: Duffy "not outsourcing aviation to AI", Delta/American steunen.
+- Grote plaatje: na vertrek Huang groeiende consensus Congres strengere chipexport (Speaker Johnson, Reuters); minstens vier wetsvoorstellen, defensiewet; Huang getuigt vóór Thanksgiving; Lutnick 10 dec Senaatscommissie.
+- Reuters: Chinese datacenterprojecten ruim 3 mld dollar (23 mld yuan) rond verboden Nvidia-chips, 150+ documenten, niet gelinkt aan zaak-Huang. China: voorwendsel technologische blokkade. Cheung (Jamestown): kijk naar eindgebruiker rekenkracht. Nog niet genoemd: Bessent over Megaspeed niet op zwarte lijst; Witte Huis overweegt vertrek Lutnick; IDC Nvidia 34% Chinese leveringen H1.
+- Gemini 4 Hydrogen (Google, 12 nov): sneller/goedkoper model programmeren en agenten; Artificial Analysis index 51 vs 50 Argon; $1,50/$7,50 per miljoen tokens, duurder dan kleinste concurrenten.
+- RAND (12 nov): tieners AI voor huiswerk 2025 beide 39%, voorjaar 2026 57% (hoog inkomen) vs 43% (laag); rijkere ouders moedigen vaker aan (67 vs 45%); Schwartz: ouders even belangrijk als scholen.
+- Zuid-Korea: Nvidia bevestigt levering 260.000 GPU's voor Koreaanse datacenters.
+- Aangekondigd: uitkomst onderzoek vliegstop (rol SMART); Huang-verhoor Congres; Lutnick 10 dec; Nvidia-cijfers 17 nov. Volgende keer alleen uitkomst bespreken.
+- Nog niet behandeld: AMD Instinct MI400-serie; Cerebras Q3 (OpenAI-capaciteit achter op schema); Claude for Manufacturing; Thinking Machines Inkling 2 Small op Cloudflare; Amazon Alexa for Shopping; Baidu Tianchi 1024; DeepSeek API-gereedschappen; Brockman bij Sheinbaum.
