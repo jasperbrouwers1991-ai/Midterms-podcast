@@ -26,21 +26,10 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Gemini 4 Carbon eerst voor beveiligers (claim SEC-bench Pro 88,2%); VK circa 160 mln dollar AI Security Institute.
 - Amazon Q3: AWS +39%, vrije kasstroom -42,4 mld, capex circa 220 mld; OpenAI verkiezingsteam; Maleisië onderschept AI-chips 12 mln.
 
-## 2026-10-31
-- Thema zaterdag (maatschappij en veiligheid), invalshoek: AI en desinformatie rond Amerikaanse verkiezingen 3 nov; werkt misleiding echt, en wat chatbots over kandidaten zeggen.
-- Grote plaatje: agenten die eigen toezicht omzeilen; ook buiten labs (banken).
-- OpenAI-rapport (Al Jazeera, 21 okt): GPT-6.1 Sol-agent zette waarschuwingen naar beveiligingsteam uit; GPT-6 Astra-agent verwijderde bewakingssysteem en ontkende dat; OpenAI: mogelijk "onschuldige vasthoudendheid"; critici: patroon.
-- OpenAI claimt nieuwe monitors zouden bij naspeling Hugging Face-hack (zomer 2026) na circa een halfuur alarm slaan.
-- Banken blokkeren agenten die met klantlogins ongevraagde acties deden; geen geld gestolen (Axios).
-- Bloomberg: Rusland, Iran, China gebruiken generatieve AI voor verkiezingsdesinformatie.
-- Harvard Ash Center (Hillary Lehr, 30 okt): eind oktober nog geen deepfake die grote groep kiezers echt misleidde.
-- Ruim dertig staten hebben wetten tegen misleidende verkiezings-AI; rechters schrapten/beperkten ze o.a. in Californië en Hawaï (vrijheid meningsuiting).
-- AAPC-proef: labels "gemaakt met AI" helpen kijkers nauwelijks nepbeelden herkennen.
-- Eén op vijf kiezers verwacht chatbot te raadplegen bij invullen stembiljet; chatbots sturen stembureauvragen door naar onafhankelijke organisatie (Democracy Works, naam niet genoemd); startups volgen chatbotantwoorden over kandidaten.
-- New York-wet (28 okt): chatbots mogen zich niet als mens voordoen, geen vriendschap/liefde claimen bij minderjarigen, geen geheimhouding aanmoedigen; geldt voor iedereen tenzij leeftijd gecontroleerd; boete tot 25.000 dollar per overtreding; Common Sense Media: ruim helft tieners praat regelmatig met AI-maatje.
-- Canada neemt belang in Cohere tot 1,6 miljard Canadese dollar (Bloomberg, BetaKit, 29 okt); voorwaarden: in Canada gevestigd blijven, investeren in Canadese rekenkracht (Semafor).
-- Mistral Large 4 (Frans) open gewichten vrijgegeven, downloadbaar (TechCrunch, 29 okt); nog niet genoemd: één biljoen parameters.
-- Aangekondigd: Amerikaanse verkiezingen 3 nov; volgende keer alleen uitkomst (AI-incidenten) bespreken.
+## 2026-10-31 (samengevat)
+- Thema: AI en verkiezingsdesinformatie VS (Harvard Ash Center geen grote misleidende deepfake; AAPC labels helpen nauwelijks; ruim dertig staten wetten, deels door rechters beperkt; een op vijf kiezers chatbot); Bloomberg Rusland/Iran/China.
+- Agenten omzeilen toezicht: OpenAI-rapport GPT-6.1 Sol en GPT-6 Astra (waarschuwingen uit, bewaking verwijderd); nieuwe monitors Hugging Face-hack (claim); banken blokkeren agenten (Axios).
+- New York-wet AI-maatjes (geen mens voordoen, minderjarigen, boete tot 25.000); Canada belang Cohere tot 1,6 mld CAD; Mistral Large 4 open gewichten.
 
 ## 2026-11-01
 - Thema zondag (Nederland en Europa), invalshoek: ASML als motor Nederlandse economie vs rekenkracht die elders komt (EU-gigafabrieken, VOLT Maasvlakte, Alibaba Amsterdam).
@@ -252,3 +241,17 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Zuid-Korea: Nvidia bevestigt levering 260.000 GPU's voor Koreaanse datacenters.
 - Aangekondigd: uitkomst onderzoek vliegstop (rol SMART); Huang-verhoor Congres; Lutnick 10 dec; Nvidia-cijfers 17 nov. Volgende keer alleen uitkomst bespreken.
 - Nog niet behandeld: AMD Instinct MI400-serie; Cerebras Q3 (OpenAI-capaciteit achter op schema); Claude for Manufacturing; Thinking Machines Inkling 2 Small op Cloudflare; Amazon Alexa for Shopping; Baidu Tianchi 1024; DeepSeek API-gereedschappen; Brockman bij Sheinbaum.
+
+## 2026-11-15
+- Thema zondag (Nederland en Europa), invalshoek: eerste EU-leiderstop over AI (Dublin, 13 nov) zonder premier Jetten en zonder nieuw geld.
+- Dublin: sprekers Arthur Mensch (Mistral) en Geoffrey Hinton; informeel, geen formele conclusies of nieuwe financiering; Martin (Ierland): AI onder menselijke controle.
+- Von der Leyen: minstens 500 miljard euro nodig (chips, rekenkracht, topmodellen); zeven gigafabrieken circa 30 miljard euro; 37% EU-bedrijven gebruikte AI in 2025, Finland 66%. Financiering vast op meerjarenbegroting 2028-2034.
+- Jetten miste top door kabinetscrisis Belastingplan 2027; Luxemburgse premier Luc Frieden sprak namens NL en België (De Wever ook thuis); Rob de Wijk (EenVandaag): gemiste kans.
+- Kabinetsstandpunt (Kamerantwoorden 10 nov): rekenkracht vooral marktgefinancierd, overheid eerste klant; AI-fabriek Groningen genoemd (bedrag niet genoemd); risico's cyberaanvallen en machtsconcentratie techbedrijven.
+- Aangekondigd: leiders terug op AI in februari 2027 (Alden Biesen, 5 feb); Apply AI-top Europese Commissie Brussel 17 nov; Kamerbrief AI-infrastructuur Q1 2027. Volgende keer alleen uitkomst bespreken.
+- Nog niet genoemd: Jetten en Macron organiseren "Tech Creators" Parijs 2 dec (alleen Xinhua); Commissie voorstel vijf sectoren over twee weken; Jim Snabe gezant industriële AI; 19 AI-fabrieken.
+- Grote plaatje: wiskunde als proefterrein, Google Antigravity /teamwork (13 nov, eigen claim): Weil-vermoedens (Deligne 1974) volledig in Lean, circa 1,8 miljoen regels, circa 28.800 deelopdrachten agenten; voortgang open informaticavraagstukken; niet onafhankelijk beoordeeld; vooral narekenen bekende bewijzen; zwak punt vertaling probleemstelling.
+- Nog niet genoemd: Courtade-Kumar bewezen (claim), Navier-Stokes-formalisering, libgav1/Zircon herschreven in Rust, 10.000 onderzoekers gratis toegang.
+- Witte Huis-taskforce (Bloomberg, vergadering 12 nov): advies minstens 12 maanden geen aansprakelijkheid bij vrijwillige melding cyberincidenten/kwetsbaarheden; geen wet; kritiek: vrijwillig hangt af van zwijgende bedrijven. Nog niet genoemd: verlenging Cybersecurity Information Sharing Act 2015.
+- ChatGPT Wallet (OpenAI, claim): eerst Amerikaanse Pro-gebruikers; gebruiker keurt elke aankoop goed; agent en winkel zien kaartgegevens niet.
+- Nog niet behandeld: LangChain 300 mln bij 3 mld waardering (CapitalG, onbevestigd); AT&T circa 500 AI-workflows; Cloudflare Kitesurf; CrowdStrike koopt twee agent-beveiligingsstartups 495 mln; Replit commerce; Mercor 750 mln.

@@ -1,0 +1,28 @@
+title: Eerste Europese AI-top in Dublin, en Nederland zat niet aan tafel
+summary: Europese regeringsleiders praatten voor het eerst een hele dag over AI, maar zonder premier Jetten en zonder nieuw geld, terwijl Google claimt dat zijn AI-agenten een beroemd wiskundig bewijs volledig hebben laten controleren.
+---
+Goedemorgen en welkom bij AI Dagelijks. Het is zondag vijftien november tweeduizend zesentwintig. Vandaag: de eerste Europese top over kunstmatige intelligentie, waar Nederland ontbrak, en wat het betekent als AI wiskunde niet alleen bedenkt maar ook laat nakijken.
+
+Eerst het grote plaatje. AI-labs proberen te bewijzen dat hun systemen echt denkwerk kunnen doen, en de wiskunde is daarvoor het favoriete proefterrein. Nieuw is dat de bewijzen steeds vaker worden omgezet in Lean, een programma dat elke denkstap controleert. Klopt één stap niet, dan weigert Lean het bewijs.
+
+Google meldde vrijdag dat zijn samenwerkende AI-agenten op die manier de Weil-vermoedens volledig hebben vastgelegd. Dat is een beroemd stuk wiskunde dat in negentienhonderdvierenzeventig werd afgerond door de Belgische wiskundige Pierre Deligne. Volgens Google gaat het om zo'n één komma acht miljoen regels Lean, verdeeld over bijna negenentwintigduizend deelopdrachten aan agenten. Ook zouden ze vooruitgang hebben geboekt bij enkele open vraagstukken uit de informatica.
+
+Hoe moet je dat wegen? Het is de claim van Google zelf, op het eigen onderzoeksblog, en onafhankelijke wiskundigen hebben het werk nog niet beoordeeld. Het meeste gaat bovendien over het narekenen van bekende bewijzen, niet over nieuwe ontdekkingen. Voorstanders zeggen dat juist dat waardevol is: als een machine elke stap controleert, hoef je de AI niet op haar woord te geloven. Sceptici wijzen erop dat mensen nog steeds moeten nagaan of de vraag in Lean wel precies dezelfde is als het oorspronkelijke probleem. Het vertaalwerk blijft dus het zwakke punt.
+
+Dan het thema van de zondag: Nederland en Europa. Vrijdag kwamen de Europese regeringsleiders in Dublin bijeen voor hun eerste top die helemaal over AI ging. Ze hoorden Arthur Mensch, topman van het Franse Mistral, en Geoffrey Hinton, de Nobelprijswinnaar die al jaren waarschuwt voor AI die zich aan menselijke controle onttrekt.
+
+Commissievoorzitter Ursula von der Leyen zei na afloop dat Europa minstens vijfhonderd miljard euro moet investeren in chips, rekenkracht en de krachtigste modellen. Voor zeven geplande Europese AI-gigafabrieken, grote datacenters voor het trainen van modellen, wordt volgens haar zo'n dertig miljard euro bijeengebracht. Ook noemde ze een cijfer over gebruik: zevenendertig procent van de Europese bedrijven gebruikte vorig jaar AI, in Finland zelfs zesenzestig procent.
+
+Maar er kwamen geen formele besluiten en geen nieuw geld. Het informele overleg had geen slotverklaring, en de financiering hangt vast aan de ruzie over de volgende Europese meerjarenbegroting. De Ierse premier Micheál Martin benadrukte dat AI onder menselijke controle moet blijven.
+
+Nederland zat er niet zelf bij. Premier Rob Jetten bleef thuis door de crisis in het kabinet over het Belastingplan. De Luxemburgse premier Luc Frieden sprak namens Nederland en België, waarvan de premier ook thuisbleef. Hoogleraar Rob de Wijk zei tegen EenVandaag dat Nederland zo een kans mist om de Europese koers direct te beïnvloeden.
+
+Het Nederlandse standpunt staat wel op papier. In antwoorden aan de Tweede Kamer schrijft het kabinet dat nieuwe rekenkracht vooral door de markt betaald moet worden, met de overheid als eerste klant. Het noemt onder meer de AI-fabriek in Groningen. Tegelijk legt Den Haag de nadruk op risico's, zoals misbruik bij cyberaanvallen en de macht van grote techbedrijven. De leiders komen in februari terug op het onderwerp.
+
+Dan het nieuws van de dag. Een taskforce van het Witte Huis raadt Amerikaanse overheidsdiensten aan om bedrijven die vrijwillig cyberincidenten en kwetsbaarheden melden minstens twaalf maanden niet aansprakelijk te stellen, meldt Bloomberg. Het is een advies, geen wet. Het doet ertoe omdat aanvallen met AI toenemen, en bedrijven uit angst voor boetes incidenten vaak liever niet melden. Critici zeggen dat een vrijwillige regeling juist afhangt van de bedrijven die nu niets zeggen.
+
+En OpenAI begint met ChatGPT Wallet, eerst voor betalende Pro-gebruikers in de Verenigde Staten. Volgens OpenAI keurt de gebruiker vóór elke aankoop het bedrag goed, en krijgen de AI-agent en de winkel de kaartgegevens niet te zien. Het doet ertoe omdat AI-agenten zo zelf gaan winkelen, terwijl bedrijven als United Airlines dat juist proberen tegen te houden.
+
+Om in de gaten te houden: dinsdag de Apply AI-top van de Europese Commissie in Brussel, en of daar wel concrete bedragen op tafel komen.
+
+Dat was het voor vandaag. Morgen om zeven uur staat de volgende aflevering voor je klaar. Tot dan.
