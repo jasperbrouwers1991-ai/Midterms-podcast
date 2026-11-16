@@ -31,20 +31,9 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Agenten omzeilen toezicht: OpenAI-rapport GPT-6.1 Sol en GPT-6 Astra (waarschuwingen uit, bewaking verwijderd); nieuwe monitors Hugging Face-hack (claim); banken blokkeren agenten (Axios).
 - New York-wet AI-maatjes (geen mens voordoen, minderjarigen, boete tot 25.000); Canada belang Cohere tot 1,6 mld CAD; Mistral Large 4 open gewichten.
 
-## 2026-11-01
-- Thema zondag (Nederland en Europa), invalshoek: ASML als motor Nederlandse economie vs rekenkracht die elders komt (EU-gigafabrieken, VOLT Maasvlakte, Alibaba Amsterdam).
-- Grote plaatje: geld aan begin AI-keten krapper (OpenAI, Meta) terwijl chipketen vraag niet aankan; Yardeni: krapte gezond; sceptici: geldstroom droogt op.
-- OpenAI verlaagt doel financieringsronde van 30 naar 20 miljard dollar, waardering omlaag (FT, 30 okt); WSJ: 11 miljard binnen, lauwe reactie grote beleggers.
-- S&P Global (30 okt): vooruitzicht Meta van stabiel naar negatief; capex 2027 ruim 225 miljard, vrije kasstroom 2027 -71 miljard; onduidelijk wanneer AI oplevert; Meta oneens.
-- ASML Q3 (14 okt): omzet 11,7 miljard euro, winst circa 5 miljard; klanten willen bestellen voor 2029-2030; aanbod 2027-2028 onvoldoende ondanks +30% capaciteit (Fouquet).
-- ING (26 okt): ASML direct circa 1,6% Nederlandse economie in 2026, met toeleveranciers circa 2,2%; Nokia rond 2000 bijna 4% Finland; concentratierisico.
-- Kabinet deed niet mee aan EU-pot 20 miljard euro AI-gigafabrieken (Aerdts: geen budget; Ecorys: weinig vraag).
-- VOLT Maasvlakte: Nebius intentieverklaring hele eerste fase (tot 200 MW, circa 100.000 chips), circa 7 miljard euro, privaat, eerste capaciteit rond 2030 (FD/Telegraaf).
-- Alibaba Cloud opende 29 okt eerste Nederlandse cloudregio, twee datacenters Amsterdam.
-- Apple: AI-functies in China december (iOS 27.3), Alibaba Qwen in o.a. Siri; ontwikkelaarsbeta 4 nov.
-- GPT-6 Rosalind (OpenAI, 30 okt): biologie/medicijnen, alleen goedgekeurde organisaties; eigen risico-inschatting bio "hoog", onder kritiek; claim MedChemBench 28,9 naar 49,6%.
-- Aangekondigd: Tweede Kamer stemt 3 nov over motie verbod chatbots basisschool; volgende keer alleen uitkomst bespreken.
-- Nog niet behandeld: kabinet wil geen verbod superintelligente AI (Aerdts, 26 okt); NVM: ruimtegebrek datacenters.
+## 2026-11-01 (samengevat)
+- Thema: ASML motor NL-economie (Q3 11,7 mld euro; ING circa 1,6-2,2% economie, concentratierisico) vs rekenkracht elders (kabinet niet in EU-pot gigafabrieken; VOLT Maasvlakte/Nebius circa 7 mld; Alibaba Cloud Amsterdam).
+- OpenAI ronde verlaagd 30 naar 20 mld (FT); S&P Meta-vooruitzicht negatief; Apple AI China met Qwen; GPT-6 Rosalind biologie (bio-risico "hoog"); motie chatbotverbod basisschool.
 
 ## 2026-11-02
 - Thema maandag (weekoverzicht en vooruitblik), invalshoek: drie ontwikkelingen vorige week (beurs verliest geduld, geld landt bij leveranciers, toezicht op inhoud) plus vooruitblik verkiezingen/datacenters.
@@ -255,3 +244,14 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Witte Huis-taskforce (Bloomberg, vergadering 12 nov): advies minstens 12 maanden geen aansprakelijkheid bij vrijwillige melding cyberincidenten/kwetsbaarheden; geen wet; kritiek: vrijwillig hangt af van zwijgende bedrijven. Nog niet genoemd: verlenging Cybersecurity Information Sharing Act 2015.
 - ChatGPT Wallet (OpenAI, claim): eerst Amerikaanse Pro-gebruikers; gebruiker keurt elke aankoop goed; agent en winkel zien kaartgegevens niet.
 - Nog niet behandeld: LangChain 300 mln bij 3 mld waardering (CapitalG, onbevestigd); AT&T circa 500 AI-workflows; Cloudflare Kitesurf; CrowdStrike koopt twee agent-beveiligingsstartups 495 mln; Replit commerce; Mercor 750 mln.
+
+## 2026-11-16
+- Thema maandag (weekoverzicht en vooruitblik), invalshoek: drie lijnen (Nvidia zonder oprichter, rem op topmodellen van meerdere kanten, AI laat computers controleren) plus vooruitblik Nvidia-cijfers en beursgang Anthropic. Vermeld: podcast gemaakt met Claude.
+- Grote plaatje: Fed Financial Stability Report (13 nov): AI vaakst genoemde risico; 87% ondervraagde marktpartijen (was helft voorjaar; via berichtgeving); ruim 680 mld dollar schuld voor rekenkracht tot oktober, circa 5x 2023; bijna derde obligaties grote betrouwbare niet-financiële bedrijven; biljoenen buiten balans (huurcontracten, afnameverplichtingen). Standpunten: rijke bedrijven vs verborgen verplichtingen.
+- New York RAISE-wet: portaal open (10 nov); grote ontwikkelaars (>500 mln dollar omzet, >10^26 rekenbewerkingen) registreren vóór 1 jan 2027; ernstige incidenten binnen 72 uur; boetes tot 3 mln dollar (1 mln eerste overtreding niet genoemd); OpenAI en Anthropic vallen eronder (TechCrunch).
+- DeepMind AlphaProof Code (10 nov): aangetoond dat onderdeel Signal (libsignal) doet wat het belooft, vier weken; zijkanalen (stroom/timing) niet gedekt (eigen claim).
+- Vooruitblik: Nvidia-cijfers di 17 nov (eerste onder Kress; verwachting bijna 109 mld dollar omzet); Anthropic prijs wo 18 nov, handel do 19 nov; Bloomberg: circa 6x overtekend. Volgende keer alleen uitkomst bespreken.
+- Nvidia: Altimeter en Atreides (samen ruim 2 mld dollar aandelen) vragen bestuur terugkeer Huang niet uit te sluiten, geen haast met vaste opvolger (CNBC, 14 nov); FT: Huang overweegt terugkeer; bestuur sprak met Arm-topman Rene Haas. Volgende keer alleen uitkomst (opvolging) bespreken.
+- Google Gemini (VS) koppelt Google Wallet en via Plaid bank-/creditcardrekeningen, alleen lezen (claim Google).
+- Samsung in gesprek over overname Modine (koeling datacenters), Bloomberg, onbevestigd.
+- Nog niet behandeld: Bessent wil "dramatische" opschudding Nvidia; Amodei/Dimon-livestream (rekenkrachtplanning "grootste dilemma", circa 71 mld te betalen vóór sept 2027); OpenAI robotica-team opgeheven (Fortune, onbevestigd); Grok 4.8; Maleisië datacenterwet; Hyundai Home Shopping AI-uitzendingen; Sullivan & Cromwell verzonnen bronnen; Hawley steunt landelijke datacenterstop; Australië AI-toezichthouder (18 aanbevelingen); Fed-gouverneur Barr arbeidsaandeel 52,8%; FBI-waarschuwing ARTEX; EU-verordening 2026/2487 testomgevingen.
