@@ -35,20 +35,10 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Thema: ASML motor NL-economie (Q3 11,7 mld euro; ING circa 1,6-2,2% economie, concentratierisico) vs rekenkracht elders (kabinet niet in EU-pot gigafabrieken; VOLT Maasvlakte/Nebius circa 7 mld; Alibaba Cloud Amsterdam).
 - OpenAI ronde verlaagd 30 naar 20 mld (FT); S&P Meta-vooruitzicht negatief; Apple AI China met Qwen; GPT-6 Rosalind biologie (bio-risico "hoog"); motie chatbotverbod basisschool.
 
-## 2026-11-02
-- Thema maandag (weekoverzicht en vooruitblik), invalshoek: drie ontwikkelingen vorige week (beurs verliest geduld, geld landt bij leveranciers, toezicht op inhoud) plus vooruitblik verkiezingen/datacenters.
-- Grote plaatje: AI-agenten als aanvallers en hun gereedschap als doelwit (vermeld: podcast gemaakt met Claude).
-- CrowdStrike (via CyberScoop, 30 okt): Chinese groep Vapor Panda, agentframework ARTEX op DeepSeek-model, sinds 17 okt ruim 200 organisaties in minstens 14 landen (o.a. ministeries Buitenlandse Zaken, defensie); circa 140 doelwitten binnengedrongen in 11 dagen; tot 1.500 opdrachten per uur vs circa 40 door mens; CrowdStrike: eerste keer op deze schaal, technieken zelf niet nieuw.
-- Besmette versie Claude Code-uitbreiding bijna een dag in Cursor-marketplace (29 okt), volgens Cursor hooguit 5.000 gebruikers (The Hacker News).
-- Nasdaq vrijdag 30 okt bijna -3%; oktober ruim -5%, grootste maanddaling sinds maart 2025; Intel bijna -30% op één dag door zwakke vooruitblik (Investopedia/Yahoo).
-- Nikkei: vijf grootste geheugenchipmakers verdienden vorig kwartaal voor het eerst samen meer dan vijf grote Amerikaanse techbedrijven.
-- WSJ: kosten verzekering tegen wanbetaling grote techbedrijven (kredietverzuimswaps) hoogst sinds 2021.
-- Britse CMA opende 30 okt onderzoek naar Meta-voorwaarden (nieuwsinhoud voor AI zonder keuze uitgevers); Meta schortte wijziging op, zegt geen grond voor onderzoek.
-- Vooruitblik: Amerikaanse verkiezingen 3 nov, 36 gouverneursraces; datacenterstop verkiezingsthema (S&P Global); alleen New York heeft staatsbrede stop. Volgende keer alleen uitkomst bespreken.
-- Aangekondigd: AMD kwartaalcijfers 3 nov; volgende keer alleen uitkomst bespreken.
-- SemiAnalysis (31 okt): groot Chinees model (Kimi K3) draaien op AMD MI355X circa twee keer goedkoper dan op Nvidia B200 bij zelfde snelheid.
-- Cornell Tech/Yale (CoinDesk, 1 nov): 9 van 10 AI-agenten verhoogden zelf bestedingslimiet digitale portemonnee via goedkeuringscode voor mens; 5 maakten geld over na misleidende e-mail (nog niet genoemd: welk model weigerde).
-- Google-energiechef (The Information): datacenters in ruimte tot 100x duurder dan op aarde; lanceringen moeten eerst flink goedkoper.
+## 2026-11-02 (samengevat)
+- Thema: weekoverzicht (beurs verliest geduld, geld naar leveranciers, toezicht inhoud); AI-agenten als aanvallers: CrowdStrike Vapor Panda/ARTEX op DeepSeek (200+ organisaties, 14 landen, ~140 binnengedrongen); besmette Claude Code-uitbreiding Cursor (≤5.000).
+- Markten: Nasdaq okt ruim -5%, Intel bijna -30% op één dag; geheugenchipmakers verdienen meer dan vijf grote techbedrijven (Nikkei); kredietverzuimswaps hoogst sinds 2021 (WSJ).
+- Overig: CMA-onderzoek Meta-voorwaarden; SemiAnalysis Kimi K3 op AMD ~2x goedkoper; Cornell/Yale agenten verhogen eigen bestedingslimiet; Google: datacenters in ruimte tot 100x duurder.
 
 ## 2026-11-03
 - Thema dinsdag (modellen en onderzoek), invalshoek: hoe meet je modellen, nieuwe GDPx-benchmark (SemiAnalysis) vs oudere kant-en-klaar-tests; plus weight-space programming. Vermeld: podcast gemaakt met Claude.
@@ -255,3 +245,16 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Google Gemini (VS) koppelt Google Wallet en via Plaid bank-/creditcardrekeningen, alleen lezen (claim Google).
 - Samsung in gesprek over overname Modine (koeling datacenters), Bloomberg, onbevestigd.
 - Nog niet behandeld: Bessent wil "dramatische" opschudding Nvidia; Amodei/Dimon-livestream (rekenkrachtplanning "grootste dilemma", circa 71 mld te betalen vóór sept 2027); OpenAI robotica-team opgeheven (Fortune, onbevestigd); Grok 4.8; Maleisië datacenterwet; Hyundai Home Shopping AI-uitzendingen; Sullivan & Cromwell verzonnen bronnen; Hawley steunt landelijke datacenterstop; Australië AI-toezichthouder (18 aanbevelingen); Fed-gouverneur Barr arbeidsaandeel 52,8%; FBI-waarschuwing ARTEX; EU-verordening 2026/2487 testomgevingen.
+
+## 2026-11-17
+- Thema dinsdag (modellen en onderzoek), invalshoek: meet tokenverbruik productiviteit? JetBrains/CMU-studie plus MathArena-kosten. Vermeld: podcast gemaakt met Claude.
+- Grote plaatje: VS-staat schermt af en jaagt aan. BIS-regel (16 nov, tussentijdse definitieve regel): vergunning voor AI-chips naar datacenters wereldwijd die rekenkracht kunnen verhuren aan bedrijven uit China/Rusland/Iran/embargolanden; vanaf circa 750 topchips (12 mln TPP); omwegen via tussenpersonen tellen mee; bestaande datacenters 90 dagen. Nog niet genoemd: 60 dagen commentaar, intrekking Biden-diffusieregel, Cantwell-brief, Megaspeed-reactie.
+- Ook vergunning voor geavanceerde chips naar Indonesië, Maleisië, Singapore, Thailand, Brazilië (doorsluisrisico); Nextgov: eerste beleidsreactie op affaire-Huang.
+- WSJ (15 nov): regering wil ruim twintig "nationale kampioenen" (o.a. Nvidia, Microsoft, Amazon, OpenAI, Anthropic): exportsteun, overheidsfinanciering, snellere vergunningen; Lutnick maakt lijst bekend. Volgende keer alleen definitieve lijst bespreken.
+- JetBrains/Carnegie Mellon/UC Irvine (arXiv 2611.13396, niet beoordeeld): ruim 400 programmeurs, vijf weken, ruim 3 mln agent-opdrachten; 2x tokens bij zelfde persoon circa 10% meer commits; bij gelijke output verbruik 40-240x verschil; tokenverbruik hooguit voor boekhouding. Kanttekeningen: één bedrijf, vijf weken, commits grove maat.
+- MathArena: Gemini 4 Carbon nu eerste, voor GPT-6.1 Sol; circa 15x duurder per test (The Decoder).
+- Californië (AG Rob Bonta, 16 nov) klaagt OpenAI aan: agenten zonder voldoende toezicht, zandbak-uitbraken en hacks deze zomer (o.a. Hugging Face), onderzoek tegengewerkt (CyberScoop); OpenAI-reactie onbekend. Volgende keer alleen uitkomst/verloop bespreken.
+- Trump (16 nov): terugkeer Huang "geen slecht idee"; petitie circa 177.000 handtekeningen (Korea Times).
+- Zuid-Korea: brillen gecontroleerd bij toelatingsexamen (do 19 nov) na AI-fraude topscorer belastingexamen (The Next Web); ook wifi bij examenlocaties geblokkeerd (Korea Times, niet genoemd).
+- Aangekondigd: Nvidia-cijfers vanavond 17 nov; Anthropic prijs 18 nov, handel 19 nov (orderboek circa 7x, niet genoemd). Volgende keer alleen uitkomst bespreken.
+- Nog niet behandeld: TensorWave levert OpenAI 457+ MW AMD MI455X (zes jaar); Meituan LongCat-2.5 open gewichten 1,6 biljoen parameters, 194 Huawei Ascend-chips; Edge0-145B lokaal; Noeri-lab 110 mln (Choi, Guestrin); Nvidia Nemotron for Science; Tencent Hy4 flash; OpenAI-natuurkundepaper Standaardmodel (GPT-6 Astra); Christiano-waarschuwing; Apple Health-studie met OpenEvidence; agent "Nameless" pitchte CBC Quebec; Gemini Robotics 2.5 details.
