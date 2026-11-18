@@ -40,21 +40,10 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Markten: Nasdaq okt ruim -5%, Intel bijna -30% op één dag; geheugenchipmakers verdienen meer dan vijf grote techbedrijven (Nikkei); kredietverzuimswaps hoogst sinds 2021 (WSJ).
 - Overig: CMA-onderzoek Meta-voorwaarden; SemiAnalysis Kimi K3 op AMD ~2x goedkoper; Cornell/Yale agenten verhogen eigen bestedingslimiet; Google: datacenters in ruimte tot 100x duurder.
 
-## 2026-11-03
-- Thema dinsdag (modellen en onderzoek), invalshoek: hoe meet je modellen, nieuwe GDPx-benchmark (SemiAnalysis) vs oudere kant-en-klaar-tests; plus weight-space programming. Vermeld: podcast gemaakt met Claude.
-- Grote plaatje: AI-bouw verschuift naar kapitaalmarkt (aandelen/obligaties); optimisten echte vraag vs sceptici rekening naar beleggers.
-- Oracle (2 nov, CNBC): wil 20 miljard dollar ophalen, 10 miljard aandelen + 10 miljard obligaties; aandeel ruim -6%; schuld ruim 125 miljard dollar.
-- Alphabet haalde 2 nov 6 miljard euro op met obligaties in Europa.
-- Marvell koopt Lumentum (optische onderdelen, data met licht) voor circa 115 miljard dollar in aandelen; grootste fusie ooit tussen twee beursgenoteerde techbedrijven (CNBC).
-- Anthropic bijgewerkt S-1: Q3-omzet circa 17 miljard dollar; bijna 900 miljard dollar toekomstige verplichtingen, vrijwel allemaal rekenkracht. Nog niet behandeld: Q3-verlies 23,3 miljard, WSJ waardering beursgang 1,5-1,6 biljoen.
-- GDPx (2 nov): 206 opdrachten, 11 vakgebieden, partnerbedrijven, tot 8 uur per taak, realistische omgeving (dataroom overname).
-- GDPx-scores: Claude Opus 5.5 12%, Gemini 4 Carbon bijna 11% (circa een derde van kosten), GPT-6 Astra bijna 10%; financiën en recht: geen model volledige opdracht.
-- GDPx-kanttekeningen: veiligheidsfilters drukken scores (bio/beveiliging); oudere tests geven info kant-en-klaar.
-- Weight-space programming (blogpost, niet beoordeeld): GPT-6 Astra past getallen klein taalmodel (Qwen) aan via tekstopdracht zonder training; rekentoets 8 naar 48%.
-- Goldman Sachs beperkt Claude Code en GitHub Copilot tot circa 12.000 programmeurs; handelaren/bankiers kwijt (Bloomberg).
-- SUSE schrapt circa 10% (circa 190 banen); topman Dirk-Peter van Leeuwen noemt automatisering en AI (The Register).
-- Meituan LongCat-2.5 testversie: groot model voor langdurig programmeren, volgens Meituan getraind op Chinese chips.
-- Aangekondigd: Meta overweegt obligatie ruim 20 miljard dollar (Bloomberg); volgende keer alleen uitkomst (omvang, rente) bespreken.
+## 2026-11-03 (samengevat)
+- Thema: hoe meet je modellen, GDPx-benchmark SemiAnalysis (206 opdrachten; Opus 5.5 12%, Gemini 4 Carbon bijna 11%, GPT-6 Astra bijna 10%) en weight-space programming (rekentoets 8 naar 48%).
+- AI-bouw naar kapitaalmarkt: Oracle 20 mld (10 aandelen + 10 obligaties); Alphabet 6 mld euro obligaties; Marvell koopt Lumentum circa 115 mld.
+- Anthropic S-1 update Q3-omzet circa 17 mld, bijna 900 mld verplichtingen; Goldman beperkt Claude Code/Copilot; SUSE -10%; Meituan LongCat-2.5 testversie.
 
 ## 2026-11-04
 - Thema woensdag (bedrijven en geld), invalshoek: wie verdient (AMD) en wie leent (Meta) in de AI-bouw; plus Chinese waarschuwing concentratie. Vermeld: podcast gemaakt met Claude.
@@ -258,3 +247,14 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Zuid-Korea: brillen gecontroleerd bij toelatingsexamen (do 19 nov) na AI-fraude topscorer belastingexamen (The Next Web); ook wifi bij examenlocaties geblokkeerd (Korea Times, niet genoemd).
 - Aangekondigd: Nvidia-cijfers vanavond 17 nov; Anthropic prijs 18 nov, handel 19 nov (orderboek circa 7x, niet genoemd). Volgende keer alleen uitkomst bespreken.
 - Nog niet behandeld: TensorWave levert OpenAI 457+ MW AMD MI455X (zes jaar); Meituan LongCat-2.5 open gewichten 1,6 biljoen parameters, 194 Huawei Ascend-chips; Edge0-145B lokaal; Noeri-lab 110 mln (Choi, Guestrin); Nvidia Nemotron for Science; Tencent Hy4 flash; OpenAI-natuurkundepaper Standaardmodel (GPT-6 Astra); Christiano-waarschuwing; Apple Health-studie met OpenEvidence; agent "Nameless" pitchte CBC Quebec; Gemini Robotics 2.5 details.
+
+## 2026-11-18
+- Thema woensdag (bedrijven en geld), invalshoek: Nvidia-cijfers Q3 (eerste onder Kress) en wat ze zeggen over waarde oudere chips (link afschrijvingsdebat 11 nov). Vermeld: podcast gemaakt met Claude.
+- Grote plaatje: Harvard-studie Nature Sustainability (16 nov, Guidi/Dominici): 403 VS-hyperscale datacenters via satellietbeelden, mei 2024-apr 2025, 68-99 TWh (circa 1,8% VS-stroom, bovenkant circa Michigan), circa 25,7 mln ton CO2 (2-3x schatting 2018), ruim helft gas/kolen; Virginia, Oregon, Ohio, Iowa ruim helft verbruik; kanttekening AI niet te scheiden. Nog niet genoemd: gas 38%, kolen 15%, vergelijking Denemarken.
+- Nvidia Q3 (17 nov): omzet 115,8 mld dollar (+103% j-o-j), circa 7 mld boven verwachting; winst ruim 65 mld; Q4-verwachting circa 130 mld zonder China-datacenterchips. Nog niet genoemd: datacenter 107,6 mld, inkoopprogramma +150 mld, Vera Rubin circa 20 mld, FY28-groei circa 75%.
+- Kress (claim): Hopper-chips opnieuw verhuurd tot 2x oorspronkelijke prijs; B300-huur ruim +60% sinds introductie; rekenkracht cloudbedrijven volledig bezet. Standpunten: goed nieuws voor geleend geld vs tijdelijke krapte.
+- Nvidia-opvolging (uitkomst): Harvey Jones: bestuur aanvaardde vertrek unaniem, niet van plan Huang terug te halen; Huang zei terugkeer een eer te vinden; aandeel maand ruim -30%, nabeurs circa +4-5%. Zoektocht vaste topman loopt; volgende keer alleen benoeming bespreken.
+- OpenAI laat Apollo Research, METR, Goodfire, Transluce meekijken (TechCrunch, 16 nov): Apollo test ondermijnen veiligheidsmaatregelen, toegang trainingsdata/tussenversies; Apollo: echte onafhankelijkheid vergt werknemerstoegang; OpenAI mag info achterhouden en publiek bewijs beperken. Nog niet genoemd: Shlegeris-kritiek, White House Accord, METR/Transluce onbetaald.
+- Apple iOS 27.3-testversie (MacRumors): dagplafond slimme Siri/Apple Intelligence-functies, eenvoudige opdrachten gratis, duurder iCloud+ tot 20x meer (12TB). Nog niet genoemd: prijzen per tier, VK uitgezonderd.
+- Aangekondigd: definitieve prijs aandelen Anthropic 18 nov, handel 19 nov; ING-datacenterleningen biedingen 19 nov. Volgende keer alleen uitkomst bespreken.
+- Nog niet behandeld: Mythos Preview porteerde kernels naar AMD MI355X in circa 3 dagen (claim, Tom's Hardware); FT Anthropic 900,9 mld verplichtingen tot 2045, Anthropic Direct; Altman over Huang; Tencent Hy4 Flash; MBZUAI K2-Horizon; OpenAI Academic 200.000 onderzoekers; NATO 300 mld tokens/maand Daybreak; AMD rondt World Labs af (Fei-Fei Li); Google exploit_agent; Duke Energy test Mythos; Isomorphic 5 mld afgerond (onbevestigd); UNESCO/UCL modellen draaien om bij tegenspraak.

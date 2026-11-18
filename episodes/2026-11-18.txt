@@ -1,0 +1,26 @@
+title: Nvidia boekt recordkwartaal en sluit de deur voor Jensen Huang
+summary: Nvidia verdient meer dan ooit en ziet oude chips duurder worden, terwijl het bestuur een terugkeer van Huang uitsluit en een Harvard-studie de uitstoot van grote datacenters in kaart brengt.
+---
+Goedemorgen en welkom bij AI Dagelijks. Het is woensdag achttien november tweeduizend zesentwintig. Vandaag: de eerste kwartaalcijfers van Nvidia zonder Jensen Huang, wat ze zeggen over de waarde van AI-chips, en hoeveel CO2 de grootste datacenters uitstoten.
+
+Eerst het grote plaatje. Over de stroom voor AI wordt veel gespeculeerd, maar harde metingen waren schaars. Onderzoekers van Harvard publiceerden maandag in het vakblad Nature Sustainability een van de grondigste schattingen tot nu toe. Met satellietbeelden vonden ze vierhonderddrie zogeheten hyperscale datacenters in de Verenigde Staten: de reusachtige complexen van de grote cloudbedrijven.
+
+Tussen mei tweeduizend vierentwintig en april tweeduizend vijfentwintig verbruikten die samen achtenzestig tot negenennegentig terawattuur, afhankelijk van hoe hard ze draaiden. Dat is ongeveer een komma acht procent van alle Amerikaanse stroom, aan de bovenkant bijna evenveel als Michigan. De uitstoot schatten ze op zo'n vijfentwintig komma zeven miljoen ton CO2, twee tot drie keer zoveel als een eerdere schatting uit tweeduizend achttien. Ruim de helft van die stroom kwam uit gas en kolen. Virginia, Oregon, Ohio en Iowa waren samen goed voor meer dan de helft van het verbruik.
+
+Er zijn kanttekeningen. De onderzoekers konden AI-werk niet scheiden van gewone clouddiensten, en ze hadden niet van elk datacenter gegevens. En de cijfers lopen al achter: hoofdonderzoeker Gianluca Guidi zegt dat de bouwgolf sinds april vorig jaar niet is vertraagd. Voorstanders van de bouw wijzen erop dat bedrijven steeds meer schone stroom inkopen. Critici zeggen dat de nieuwe vraag in de praktijk vaak door gascentrales wordt opgevangen.
+
+Dan het thema van de woensdag: bedrijven en geld. Nvidia presenteerde dinsdagavond zijn cijfers, voor het eerst onder tijdelijk topman Colette Kress. De omzet kwam uit op bijna honderdzestien miljard dollar, ruim twee keer zoveel als een jaar eerder en zo'n zeven miljard meer dan analisten verwachtten. De winst was ruim vijfenzestig miljard dollar. Voor het lopende kwartaal rekent Nvidia op ongeveer honderddertig miljard dollar omzet, zonder verkoop van datacenterchips aan China.
+
+Het interessantste zat in een detail. Vorige week bespraken we hoe geldschieters huiverig zijn voor leningen met AI-chips als onderpand, omdat niemand weet hoe snel die in waarde dalen. Kress zei nu dat oudere Hopper-chips opnieuw verhuurd worden voor tot twee keer de oorspronkelijke prijs, en dat de huurprijs van de nieuwere B driehonderd sinds de introductie ruim zestig procent is gestegen. Alle rekenkracht bij de grote cloudbedrijven is volgens haar volledig bezet.
+
+Hoe moet je dat wegen? Het zijn uitspraken van Nvidia zelf, dat er belang bij heeft dat chips hun waarde houden. Als ze kloppen, is dat goed nieuws voor wie met geleend geld chips kocht. Sceptici zeggen dat hoge huurprijzen vooral krapte op dit moment laten zien, en dat die kan omslaan zodra er genoeg nieuwe chips zijn.
+
+En Huang? Bestuursvoorzitter Harvey Jones zei tijdens de toelichting dat het bestuur zijn vertrek unaniem heeft aanvaard en niet van plan is hem terug te halen. Huang had eerder op de dag gezegd dat hij het een eer zou vinden om terug te keren. Het aandeel, dat de afgelopen maand ruim dertig procent was gedaald, steeg nabeurs zo'n vier tot vijf procent.
+
+Dan het nieuws van de dag. OpenAI laat onderzoekers van vier onafhankelijke veiligheidsorganisaties meekijken bij de ontwikkeling van zijn modellen, meldt TechCrunch. Apollo Research onderzoekt of modellen hun eigen veiligheidsmaatregelen proberen te ondermijnen, en krijgt daarvoor toegang tot trainingsgegevens en tussenversies. Ook METR, Goodfire en Transluce doen mee. Toch zegt Apollo zelf dat echte onafhankelijkheid volledige toegang vergt, zoals een werknemer heeft. OpenAI mag informatie achterhouden en kan beperken welk bewijs openbaar wordt. Het doet ertoe omdat toezichthouders en rechters steeds vaker vragen wie de labs eigenlijk controleert.
+
+En Apple test in de nieuwste testversie van zijn besturingssystemen een dagelijks plafond voor de slimmere functies van Siri en Apple Intelligence, meldt MacRumors. Eenvoudige opdrachten, zoals een wekker zetten, blijven gratis. Wie meer wil, krijgt via een duurder iCloud-abonnement tot twintig keer zoveel ruimte. Het doet ertoe omdat AI voor consumenten zo een dienst wordt waarvoor je naar verbruik betaalt, net als stroom of mobiele data.
+
+Om in de gaten te houden: vanavond de definitieve prijs van de aandelen van Anthropic, de maker van Claude, waarmee deze podcast wordt gemaakt.
+
+Dat was het voor vandaag. Morgen om zeven uur staat de volgende aflevering voor je klaar. Tot dan.
