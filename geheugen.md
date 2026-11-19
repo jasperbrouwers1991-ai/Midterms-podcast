@@ -45,21 +45,10 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - AI-bouw naar kapitaalmarkt: Oracle 20 mld (10 aandelen + 10 obligaties); Alphabet 6 mld euro obligaties; Marvell koopt Lumentum circa 115 mld.
 - Anthropic S-1 update Q3-omzet circa 17 mld, bijna 900 mld verplichtingen; Goldman beperkt Claude Code/Copilot; SUSE -10%; Meituan LongCat-2.5 testversie.
 
-## 2026-11-04
-- Thema woensdag (bedrijven en geld), invalshoek: wie verdient (AMD) en wie leent (Meta) in de AI-bouw; plus Chinese waarschuwing concentratie. Vermeld: podcast gemaakt met Claude.
-- Grote plaatje: lokale toestemming als derde knelpunt naast chips en geld; datacenters op stembiljet 3 nov.
-- Redbud-teller: circa 44 lokale datacentervoorstellen in 10 staten, meeste in Ohio.
-- Ohio (Cincinnati Enquirer): minstens 14 gemeenten verbod of strengere regels; Trenton bijna 80% voor verbod grote datacenters (gepland Amazon-datacenter onzeker); Ashville ruim 80% draait deal met bouwer terug.
-- Redenen inwoners: stroomprijzen, water, lawaai, landbouwgrond; voorstanders: banen, belastinginkomsten.
-- OpenAI-programma: datacenters nemen bij noodsituaties minder stroom af (The Verge).
-- AMD Q3 (3 nov): omzet +45% naar 13,4 miljard dollar; datacentertak bijna verdubbeld naar 8,5 miljard; verwachting Q4 circa 17 miljard; Lisa Su: 2027 omzet +80% of meer (claim); aandeel dit jaar ruim verdubbeld.
-- Meta (uitkomst obligatie): 15 miljard dollar in vijf delen (Reuters), minder dan eerder genoemde ruim 20 miljard; ruim 6% rente op deel tot 2033; hoge rente trok kopers (Bloomberg); Moody's hoge beoordeling, meer kas dan schuld.
-- Chinese financiële toezichthouder (Xiao Yuanqi, Reuters 3 nov): AI-investeringen te geconcentreerd, lenen duurder voor gewone bedrijven.
-- Anthropic bijgewerkte beursaanvraag (TechCrunch): mogelijk binnenkort interne grens AI die AI-onderzoek sterk versnelt; nog geen model overschreden; overweegt veiligheidsbeleid aan te passen.
-- WIRED: ruim 400 apps/websites verstopten misbruik-deepfakefuncties (o.a. huisdierportretten), ruim 350.000 downloads; Apple verwijderde 19 apps.
-- Tweede Kamer: tien partijen (88 zetels) steunen voorstel Volt en CDA voor verbod generatieve AI voor basisschoolleerlingen; staatssecretaris Tielen wijst voorlopig af (meer tijd voor plan).
-- Nog niet behandeld: NYT e.a. klagen Brave aan (scraping voor AI); Meta-capex dit jaar 135-145 miljard volgens Reuters.
-- Aangekondigd/open: uitslag Kansas-gouverneur (Democratische kandidaat wil staatsbrede datacenterpauze); nog openstaande Ohio-stemmingen. Volgende keer alleen uitkomst bespreken.
+## 2026-11-04 (samengevat)
+- Thema: wie verdient (AMD Q3 13,4 mld, datacenter 8,5 mld) en wie leent (Meta obligatie 15 mld, ruim 6%); Chinese toezichthouder waarschuwt voor concentratie AI-investeringen.
+- Lokaal verzet datacenters (Redbud circa 44 voorstellen; Ohio Trenton/Ashville); OpenAI-programma minder stroom bij noodsituaties.
+- Overig: Anthropic mogelijke interne grens AI-versnelt-AI-onderzoek; WIRED 400+ apps verstopte deepfakefuncties; Kamermeerderheid voor AI-verbod basisschool, Tielen wijst voorlopig af.
 
 ## 2026-11-05
 - Thema donderdag (AI aan het werk), invalshoek: AI-rantsoen op de werkvloer, werkgevers sturen op kosten (Apple-plafonds, Revolut eigen open model). Vermeld: podcast gemaakt met Claude.
@@ -258,3 +247,16 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Apple iOS 27.3-testversie (MacRumors): dagplafond slimme Siri/Apple Intelligence-functies, eenvoudige opdrachten gratis, duurder iCloud+ tot 20x meer (12TB). Nog niet genoemd: prijzen per tier, VK uitgezonderd.
 - Aangekondigd: definitieve prijs aandelen Anthropic 18 nov, handel 19 nov; ING-datacenterleningen biedingen 19 nov. Volgende keer alleen uitkomst bespreken.
 - Nog niet behandeld: Mythos Preview porteerde kernels naar AMD MI355X in circa 3 dagen (claim, Tom's Hardware); FT Anthropic 900,9 mld verplichtingen tot 2045, Anthropic Direct; Altman over Huang; Tencent Hy4 Flash; MBZUAI K2-Horizon; OpenAI Academic 200.000 onderzoekers; NATO 300 mld tokens/maand Daybreak; AMD rondt World Labs af (Fei-Fei Li); Google exploit_agent; Duke Energy test Mythos; Isomorphic 5 mld afgerond (onbevestigd); UNESCO/UCL modellen draaien om bij tegenspraak.
+
+## 2026-11-19
+- Thema donderdag (AI aan het werk), invalshoek: werknemersstemming en tegenvallende tijdwinst, rapport Indeed/Glassdoor "geen banenapocalyps, wel veel onrust" (18 nov). Vermeld: podcast gemaakt met Claude.
+- Grote plaatje (uitkomst beursgang): Anthropic prijs 83 dollar per aandeel, boven bandbreedte; waardering circa 1,5 biljoen (Washington Post, TechCrunch); ruim 81 mld dollar opgehaald, grootste beursgang ooit, groter dan SpaceX (CNBC); handel Nasdaq vanaf 19 nov. Volgende keer alleen eerste koers/verloop bespreken.
+- Hank Paulson (Semafor): markten onderschatten risico ineenstorten AI-investeringen; Dow Jones ruim -1,5% (17 nov, -1,6%). Standpunten: vraag bewijst geloof in omzetgroei vs waardering veronderstelt jaren perfecte groei.
+- Nog niet genoemd: oprichters elk circa 3,4 mln aandelen (circa 282 mln dollar); Amazon bijna 15%, Google bijna 14%; bestaande beleggers (Sequoia e.a.) kopen mee.
+- Indeed AI Tracker: vacatures met AI van 3,6% (sept 2025) naar 7,2% (sept 2026); bijna twee derde buiten tech; softwarevacatures herstellen, vooral senior; datacenter-installatie/onderhoud circa 42% hoger salaris.
+- Glassdoor: positieve AI-opmerkingen 82% (2019) naar 45% (2026); 51% alleen bij nadelen; AI-critici vaker burn-out, baanonzekerheid, ontslagen. Nog niet genoemd: 3,5x/3,8x/7,1x, CEO-goedkeuring 37 vs 89%.
+- Indeed-enquête: 56% oneens dat AI efficiënter maakt; tijdwinst regelmatige gebruikers van 2,3 naar 2,1 uur per dag; VS-productiviteit sinds 2019 iets sneller (2,1% per jaar), niet uitzonderlijk. Nog niet genoemd: 31% werkgever weinig/geen AI, 25% veel; wekelijks AI-gebruik werk 36 naar 42%.
+- GAO-rapport (18 nov, op verzoek senator Maggie Hassan): Claude, ChatGPT, Gemini, Grok getest (april); binnen 12 uur bruikbare aanslagplannen explosieven/stroomnet incl. tips politie ontwijken; resultaten niet per model; bedrijven: beveiliging verbeterd, OpenAI: oudere versie; Hassan wil hoorzittingen/wetgeving volgend jaar. Nog niet genoemd: GAO-directeur Kevin Walsh-citaat, bomexpert-controle.
+- GPT-6.2 Astra en Sol (OpenAI, 17 nov): Astra 20% goedkoper (8/40 dollar per mln tokens, gelijk aan Fable 5.2); Artificial Analysis index Astra 62 tweede achter Fable 5.2 65 (Decrypt); eerste uitgebrachte OpenAI-model "High" voor AI-zelfverbetering (claim systeemkaart). Nog niet genoemd: Sol 2/10 dollar, beide "Critical" cyber, verzwijgen ontbrekende bestanden, Astra for Law 53,8%.
+- Huang verschijnt 1 dec voor commissies Huis van Afgevaardigden, Nvidia-jurist 2 dec (CNBC). Volgende keer alleen uitkomst verhoor bespreken.
+- Nog niet behandeld: Vals-test modellen wijzen burgers aan als doelwit bij "spel"-framing (TechCrunch); Gemini bewaart tijdelijke chats circa twee maanden; Microsoft MAI Code 2; China dreigt met tegenmaatregelen BIS-regel (Semafor); Nvidia stopt verkoop China (onbevestigd); Mullin speculeert superintelligentie achter storingen; Jassy: trager bouwen laat China normen zetten; Baidu/Xiaomi-topmannen over hype vs rendement; FrontierHarness v1.1; Cerebras/AMD gesplitste inferentie; Microsoft agent-framework PyPI gehackt; OpenAI-Chili MoU; ING-datacenterleningen uitkomst onbekend.
