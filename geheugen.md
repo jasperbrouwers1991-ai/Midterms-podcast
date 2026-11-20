@@ -50,21 +50,10 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Lokaal verzet datacenters (Redbud circa 44 voorstellen; Ohio Trenton/Ashville); OpenAI-programma minder stroom bij noodsituaties.
 - Overig: Anthropic mogelijke interne grens AI-versnelt-AI-onderzoek; WIRED 400+ apps verstopte deepfakefuncties; Kamermeerderheid voor AI-verbod basisschool, Tielen wijst voorlopig af.
 
-## 2026-11-05
-- Thema donderdag (AI aan het werk), invalshoek: AI-rantsoen op de werkvloer, werkgevers sturen op kosten (Apple-plafonds, Revolut eigen open model). Vermeld: podcast gemaakt met Claude.
-- Grote plaatje (uitkomst verkiezingen 3 nov): Democraten winnen Congres; datacenters als verkiezingsthema.
-- Texas: Gina Hinojosa (D) verslaat gouverneur Greg Abbott, wil tijdelijke stop nieuwe AI-datacenters; GLJ Research: Texas circa kwart Amerikaanse datacentercapaciteit tot 2030.
-- Georgia (Keisha Lance Bottoms) en Ohio (Amy Acton) Democratische gouverneurs; Atlanta drukste datacenterbouwmarkt (CBRE). Kansas woensdag nog onbeslist.
-- Goldman Sachs: circa 45% geplande Amerikaanse datacentercapaciteit risico op bouwstop/strengere regels/minder belastingvoordeel.
-- Beurs 4 nov (Reuters): Hut 8 -23%, IREN -11%; Microsoft +6,7%, Amazon +6,1%.
-- Standpunten: Amundi (Aidan Yao) referendum over AI; HSBC geen brede stop maar meer regels/toezicht.
-- Apple (Bloomberg, 4 nov): dagbudget AI deel programmeurs van 300 naar 200 dollar (oktober), mogelijk 100; niet-programmeurs vaak 100, overwogen 25; tokens uitgelegd. Tesla, Uber, Accenture ook plafonds (The Next Web).
-- Revolut (David Abitbol, AI Engineer-conferentie): ~2.000 programmeurs standaard op zelf gehost open model Z.ai (GLM) in VS; kosten circa een tiende van Anthropic/OpenAI; eerder sommigen 1.000-10.000 dollar/maand aan Claude Code; dure modellen als uitzondering; programmeren niet het knelpunt. Nog niet genoemd: claim codeertijd -60%, 56 B200-chips.
-- OpenAI (claim): prototype met onuitgebracht cybermodel vond 948 lekken in Linux-kern voor volledige controle (privilege escalation), rekenkosten ruim 1,2 miljoen dollar.
-- Isomorphic Labs in gesprek over circa 5 miljard dollar bij waardering circa 50 miljard (Bloomberg), niet afgerond; WSJ: nog geen door AI ontworpen medicijn goedgekeurd door FDA.
-- Apple-jaarverslag waarschuwt voor AI-agenten (ongevraagde aankopen, beveiliging omzeilen, moeilijk terug te draaien) terwijl Siri meer in apps van derden mag.
-- Aangekondigd: of Hinojosa bouwstop Texas doorzet; uitslag Kansas. Volgende keer alleen uitkomst bespreken.
-- Nog niet behandeld: Claude vond twee kritieke Xen-lekken (XSA-523); Meta euro-obligatie 9 miljard; Anthropic beursgang formele marketing volgende week; Tencent Hy4 open gewichten; Cat Wu van Anthropic naar OpenAI; AP-deal Anthropic.
+## 2026-11-05 (samengevat)
+- Thema: AI-rantsoen werkvloer (Apple dagbudget AI 300 naar 200 dollar; Tesla/Uber/Accenture plafonds; Revolut ~2.000 programmeurs op zelf gehost GLM, kosten circa een tiende).
+- Verkiezingen 3 nov: Democraten winnen Congres; Hinojosa verslaat Abbott (Texas, datacenterstop); Goldman circa 45% datacentercapaciteit risico; Hut 8/IREN omlaag.
+- OpenAI-claim 948 Linux-lekken (1,2 mln dollar rekenkosten); Isomorphic 5 mld gesprekken; Apple-jaarverslag waarschuwt voor agenten.
 
 ## 2026-11-06
 - Thema vrijdag (regels en politiek), invalshoek: AI-agenda nieuw Democratisch Congres (vanaf januari) plus rechtszaak muziekuitgevers; vermeld: podcast gemaakt met Claude.
@@ -260,3 +249,15 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - GPT-6.2 Astra en Sol (OpenAI, 17 nov): Astra 20% goedkoper (8/40 dollar per mln tokens, gelijk aan Fable 5.2); Artificial Analysis index Astra 62 tweede achter Fable 5.2 65 (Decrypt); eerste uitgebrachte OpenAI-model "High" voor AI-zelfverbetering (claim systeemkaart). Nog niet genoemd: Sol 2/10 dollar, beide "Critical" cyber, verzwijgen ontbrekende bestanden, Astra for Law 53,8%.
 - Huang verschijnt 1 dec voor commissies Huis van Afgevaardigden, Nvidia-jurist 2 dec (CNBC). Volgende keer alleen uitkomst verhoor bespreken.
 - Nog niet behandeld: Vals-test modellen wijzen burgers aan als doelwit bij "spel"-framing (TechCrunch); Gemini bewaart tijdelijke chats circa twee maanden; Microsoft MAI Code 2; China dreigt met tegenmaatregelen BIS-regel (Semafor); Nvidia stopt verkoop China (onbevestigd); Mullin speculeert superintelligentie achter storingen; Jassy: trager bouwen laat China normen zetten; Baidu/Xiaomi-topmannen over hype vs rendement; FrontierHarness v1.1; Cerebras/AMD gesplitste inferentie; Microsoft agent-framework PyPI gehackt; OpenAI-Chili MoU; ING-datacenterleningen uitkomst onbekend.
+
+## 2026-11-20
+- Thema vrijdag (regels en politiek), invalshoek: Europees Hof, zaak C-250/25 Like Company vs Google (Gemini), advies advocaat-generaal Szpunar 3 nov.
+- Szpunar (niet-bindend): training in principe onder tekst- en datamining-uitzondering bij legale toegang en geen bezwaar; ophalen voor antwoord kan uitgeversrecht schenden bij omzeilen betaalmuur/robotblokkade of herkenbaar overnemen formulering (vervangt origineel); feiten niet beschermd. Hongaarse rechter weegt feiten; Hof oordeelt later, volgende keer alleen uitspraak bespreken.
+- Reacties: Google (taalpatronen, afmelden mogelijk); European Publishers Council positief over geen automatische toestemming. Nog niet genoemd: Balaton-aquariumvoorbeeld (Kozsó), Lucchi-citaat, Quintais/Mezei, standpunten lidstaten bij zitting.
+- Grote plaatje: banken schuiven schade AI-agenten naar klant (TechCrunch 18 nov): Citi nieuw hoofdstuk voorwaarden (agenthandelingen gelden als goedgekeurd, ook na hack; eigen Citi-agenten uitgezonderd); PNC, Citizens; JPMorgan/BofA in oktober.
+- Amerikaanse wet beperkt consumentenverlies onbevoegde betalingen tot 50-500 dollar; agent als goedgekeurd valt erbuiten; niet getoetst door rechter/toezichthouder.
+- Citi (Skift, 11 nov): makers agenten moeten betalen; Visa-onderzoek 75+ agenten, 43% fouten. Nog niet genoemd: helft rondde fout af, Gemini/Muse circa 82% goed; Wells Fargo-voorwaarden 24 nov (één bron).
+- Anthropic eerste handelsdag (uitkomst, 19 nov): open 111,50 dollar (+34%), slot 97,17 (+17%), circa 1,75 biljoen volledig verwaterd (The National); brede beurs lager. Vermeld: podcast gemaakt met Claude.
+- Commissie Buitenlandse Zaken Huis (Mast, CNBC 19 nov): BIS keurde dec 2025-mei 2026 ruim 879.000 H200/AMD-chips voor China goed van 3,4 mln aangevraagd.
+- DEFIANCE Act: Senaat aangenomen; Paris Hilton en Ocasio-Cortez dringen aan op stemming Huis (CNBC 18 nov). Volgende keer alleen uitkomst bespreken.
+- Nog niet behandeld: Gemini 4 Neon ($3/$15, 1M context); Moody's vooruitzicht Nvidia naar stabiel; MAS-waarschuwing agenten en liquiditeit; Coinbase blokkeert 4,7 mln deepfake-Musk; Palo Alto koopt Applied Compute 4,5 mld; Meta Muse leest Signal-meldingen; schooldistricten NY/LA/Chicago heroverwegen Google Search; OpenAI chipontwerp met AI; Bartz-schikking eerste betalingen week 23 nov; Internet Licensing Collective (12 nov); Sierra circa 30 mld; Nadella-uitkoop 60.000.
