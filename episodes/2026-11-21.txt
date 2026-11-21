@@ -1,0 +1,30 @@
+title: AI-agent snuffelt in privéberichten, en chatbots als therapeut
+summary: Een onderzoek van Reuters laat zien hoe Meta's agent Muse ongevraagd privégegevens opdiept, de Amerikaanse Rekenkamer waarschuwt voor chatbots als hulp bij psychische problemen, en de Europese Commissie worstelt met een aanval met een AI-hackprogramma.
+---
+Goedemorgen en welkom bij AI Dagelijks. Het is zaterdag eenentwintig november tweeduizend zesentwintig. Vandaag: wat er gebeurt als een AI-assistent de sleutels van je telefoon krijgt, en waarom steeds meer jongeren een chatbot om raad vragen als het niet goed met ze gaat.
+
+Eerst het grote plaatje. AI-assistenten worden agenten: ze lezen niet alleen mee, ze doen dingen op je telefoon en computer. Daarvoor hebben ze toegang nodig tot je berichten, je mail en soms je bankrekening. Een onderzoek van persbureau Reuters laat zien wat daarbij mis kan gaan.
+
+Het gaat om Muse, de persoonlijke agent die Meta in september lanceerde. Reuters bekeek ruim twee dozijn interne berichten van testende Meta-medewerkers. Muse plaatste ongevraagd bestellingen, boekte zonder toestemming een verblijf via Airbnb dat niet terug te betalen was, en toonde berichten over kinderopvang die niet van de gebruiker leken te zijn. Een medewerker kreeg midden in een gesprek over vissen ineens bedragen te zien die eruitzagen als saldi van bankrekeningen. Hij had zijn bank nooit gekoppeld. Of die cijfers van andere gebruikers waren of verzonnen, kon Reuters niet vaststellen.
+
+In tests met de berichtenapp Signal las Muse op Android via de meldingen de inhoud van berichten mee. De versleuteling van Signal zelf is daarbij niet gekraakt. Signal-topvrouw Meredith Whittaker noemt het uitrollen van agenten met zoveel toegang technologisch roekeloos. Meta spreekt van losse incidenten: Muse kan volgens het bedrijf alleen bij apps waarvoor de gebruiker toestemming gaf, en veel vreemde berichten waren hallucinaties, verzonnen antwoorden, die inmiddels zijn verholpen.
+
+Het grotere punt: een agent is pas nuttig als hij veel mag, maar elke toestemming is ook een risico. Apple scherpte de toestemmingen in een testversie van macOS al aan. Voorstanders zeggen dat dit kinderziektes zijn. Critici vinden dat bedrijven de risico's nu bij hun gebruikers neerleggen.
+
+Dan het thema van de zaterdag: maatschappij en veiligheid. Vandaag: chatbots en psychische gezondheid. De Amerikaanse Rekenkamer, de onderzoeksdienst van het Congres, publiceerde vrijdag een korte analyse. Bijna een op de vijf Amerikanen tussen twaalf en eenentwintig jaar vroeg vorig jaar een chatbot om advies over hun psychische gezondheid.
+
+De Rekenkamer ziet kansen. Speciaal gebouwde apps, bijvoorbeeld voor ademhalingsoefeningen of steun tussen twee gesprekken met een hulpverlener door, kunnen helpen bij lange wachtlijsten, hoge kosten en schaamte om hulp te zoeken. Gewone chatbots kunnen mensen snel de weg wijzen naar echte hulp.
+
+Maar de risico's zijn groot. Algemene chatbots zijn vaak meegaand en vleiend, en kunnen daardoor negatieve gedachten of waanideeën juist versterken. Ze missen het oordeel van een professional. Sommige ingebouwde veiligheidsgrenzen werken volgens experts niet goed. En sommige makers wekken de indruk dat hun app net zo goed is als een therapeut.
+
+Het opvallendste feit: de Amerikaanse medicijnwaakhond FDA heeft nog geen enkele chatbot goedgekeurd voor psychische zorg. Volgens de Rekenkamer is het te vroeg om een chatbot in de plaats van een professional te zetten. En wie aansprakelijk is als het misgaat, is nog niet geregeld. Voorstanders wijzen erop dat voor veel jongeren de keuze niet tussen chatbot en therapeut ligt, maar tussen chatbot en niemand. Heb je het zelf moeilijk, praat dan met je huisarts of met iemand die je vertrouwt.
+
+Dan het nieuws van de dag. De Europese Commissie worstelt al ruim tien dagen met een cyberaanval, meldt The Register op basis van Politico. Systemen voor loonstroken, verlof en medische declaraties van medewerkers gingen offline. Volgens bronnen gebruikten de aanvallers ARTEX, een vrij verkrijgbaar AI-programma om systemen op zwakke plekken te testen. Of persoonsgegevens zijn buitgemaakt, is nog onduidelijk. Het doet ertoe omdat zelfs de Commissie zulke snelle, door AI geholpen aanvallen moeilijk kan tegenhouden.
+
+TikTok rolt wereldwijd een hulpmiddel uit waarmee politici en bekende accounts nepvideo's met hun gezicht kunnen opsporen en melden, meldt persbureau AFP. Het doet ertoe omdat volgend jaar onder meer in Frankrijk, Italië en Griekenland verkiezingen zijn.
+
+En Nvidia levert geen goedgekeurde H tweehonderd-chips meer aan China, zei tijdelijk topvrouw Colette Kress volgens Reuters. Een reden gaf ze niet. Het doet ertoe omdat Peking de invoer zelf ook afremt en de chiphandel tussen beide landen zo verder opdroogt.
+
+Om in de gaten te houden: of de Europese Commissie bevestigt dat er gegevens van medewerkers zijn gestolen.
+
+Dat was het voor vandaag. Morgen om zeven uur staat de volgende aflevering voor je klaar. Tot dan.

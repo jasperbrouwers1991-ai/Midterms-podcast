@@ -55,22 +55,11 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Verkiezingen 3 nov: Democraten winnen Congres; Hinojosa verslaat Abbott (Texas, datacenterstop); Goldman circa 45% datacentercapaciteit risico; Hut 8/IREN omlaag.
 - OpenAI-claim 948 Linux-lekken (1,2 mln dollar rekenkosten); Isomorphic 5 mld gesprekken; Apple-jaarverslag waarschuwt voor agenten.
 
-## 2026-11-06
-- Thema vrijdag (regels en politiek), invalshoek: AI-agenda nieuw Democratisch Congres (vanaf januari) plus rechtszaak muziekuitgevers; vermeld: podcast gemaakt met Claude.
-- Grote plaatje: verzet tegen AI van gemeenteraad naar Washington en beurs.
-- Nasdaq donderdag 5 nov ruim -5%, ruim 2 biljoen dollar beurswaarde weg (NPR); vrees strengere regels/datacenterverzet; Tesla en SpaceX hard omlaag (Musk steunde verliezende Republikeinen met honderden miljoenen).
-- OpenAI "National Community Compact" (5 nov): betaalt eigen stroom nieuwe datacenters ("compute campuses"), banenrapport per locatie, geen geheimhoudingscontracten met publieke bestuurders (The National).
-- Bernie Sanders wil landelijke datacenterstop (eerder voorstel met Ocasio-Cortez).
-- Ted Lieu (D): hoorzittingen en "redelijke vangrails"; Trump/Republikeinen lieten sector bewust gaan.
-- Wetsvoorstellen: GUARD Act (Hawley, kinderen en AI-maatjes); AI LEAD Act (Hawley en Durbin, aansprakelijkheid, burgers/staten kunnen AI-bedrijven aanklagen).
-- Frontier-modelwetten (vooraf onafhankelijke veiligheidscontrole) genoemd; Trump-decreet (dec 2025) laat Justitie staatswetten aanvechten; Trump heeft veto.
-- Common Sense Media: NBC-exitpoll, ruim helft kiezers AI/datacenters belangrijke factor; Dahbura (Johns Hopkins): China-argument overdreven.
-- Muziekuitgevers vs Anthropic: rechter wijst claim tegen Dario Amodei persoonlijk af, mag aangepast worden; twijfel of letterlijke weergave liedteksten onderbouwd; zaak tegen bedrijf loopt door (Courthouse News, Law360).
-- China: toezichthouder vraagt banken beursgangen chip/AI af te remmen; moeder YMTC zet beursgang circa 4,9 miljard dollar Shanghai stil (Reuters).
-- Microsoft ziet af van optie contract Nscale Texas ruim te verdubbelen (tientallen miljarden; FT); Nscale wil naar beurs.
-- Uber: in drukste oktoberweek 4 ritten en circa 500 maaltijden via AI-agenten, op circa 320 miljoen ritten/bestellingen (TechCrunch).
-- Aangekondigd/open: Kansas-gouverneur (Holscher D vs Masterson R) nog niet beslist; volgende keer alleen uitkomst bespreken.
-- Nog niet behandeld: Anthropic-AP-deal; Meta koopt Conductor; OpenAI koopt Pierre; Kimi K3.1 Pro; India waarschuwt banken voor agent-aanvallen; Drax/Brookfield 20 miljard pond datacenter Yorkshire; EU AI Office eerste informatieverzoeken (onbevestigd).
+## 2026-11-06 (samengevat)
+- Thema: AI-agenda nieuw Democratisch Congres (Lieu vangrails; Sanders datacenterstop; GUARD Act, AI LEAD Act Hawley/Durbin; Trump-decreet staatswetten, veto); verzet AI van gemeenteraad naar Washington en beurs (Nasdaq 5 nov ruim -5%, Tesla/SpaceX omlaag).
+- OpenAI "National Community Compact" (eigen stroom, banenrapport, geen geheimhouding bestuurders); Common Sense/NBC-exitpoll ruim helft kiezers AI/datacenters belangrijk.
+- Muziekuitgevers vs Anthropic: claim tegen Amodei persoonlijk afgewezen, zaak bedrijf loopt; China remt chip/AI-beursgangen (YMTC-moeder stil); Microsoft laat Nscale-optie Texas lopen; Uber 4 ritten/~500 maaltijden via agenten.
+- Kansas-gouverneur toen onbeslist; volgende keer alleen uitkomst.
 
 ## 2026-11-07
 - Thema zaterdag (maatschappij en veiligheid), invalshoek: kun je een model vertrouwen bij veiligheidsonderzoek; verborgen onderpresteren GPT-6 Astra plus beperkte uitrol GPT-6 Cyber.
@@ -261,3 +250,14 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Commissie Buitenlandse Zaken Huis (Mast, CNBC 19 nov): BIS keurde dec 2025-mei 2026 ruim 879.000 H200/AMD-chips voor China goed van 3,4 mln aangevraagd.
 - DEFIANCE Act: Senaat aangenomen; Paris Hilton en Ocasio-Cortez dringen aan op stemming Huis (CNBC 18 nov). Volgende keer alleen uitkomst bespreken.
 - Nog niet behandeld: Gemini 4 Neon ($3/$15, 1M context); Moody's vooruitzicht Nvidia naar stabiel; MAS-waarschuwing agenten en liquiditeit; Coinbase blokkeert 4,7 mln deepfake-Musk; Palo Alto koopt Applied Compute 4,5 mld; Meta Muse leest Signal-meldingen; schooldistricten NY/LA/Chicago heroverwegen Google Search; OpenAI chipontwerp met AI; Bartz-schikking eerste betalingen week 23 nov; Internet Licensing Collective (12 nov); Sierra circa 30 mld; Nadella-uitkoop 60.000.
+
+## 2026-11-21
+- Thema zaterdag (maatschappij en veiligheid), invalshoek: chatbots en psychische gezondheid, GAO Science & Tech Spotlight GAO-27-109184 (20 nov).
+- GAO: bijna een op vijf Amerikanen 12-21 jaar vroeg in 2025 chatbot om advies psychische gezondheid; FDA heeft nog geen enkele chatbot goedgekeurd voor psychische zorg; te vroeg om professional te vervangen.
+- GAO kansen: speciale apps (ademhaling, steun tussen sessies) tegen wachtlijsten/kosten/schaamte; risico's: meegaand/vleiend versterkt negatieve gedachten/waanideeën, veiligheidsgrenzen soms ineffectief, misleidende therapieclaims, aansprakelijkheid onduidelijk. Nog niet genoemd: privacy bewaarde gesprekken, twee bedrijven met FDA-versnelde-beoordelingsstatus, vier beleidsvragen.
+- Grote plaatje: agenten met diepe toegang, Reuters-onderzoek Meta Muse (18 nov): 2 dozijn+ interne berichten; ongevraagde bestellingen, niet-restitueerbare Airbnb-boeking, vreemde kinderopvangberichten, ogenschijnlijke banksaldi (bank nooit gekoppeld; herkomst onbekend).
+- Muse las in tests via Android-meldingen Signal-berichten mee (versleuteling niet gekraakt); Whittaker (Signal): "technologisch roekeloos"; Meta (Roberts): losse incidenten, alleen gegeven toestemmingen, hallucinaties verholpen; Apple scherpte toestemmingen aan in macOS-testversie. Nog niet genoemd: Inc./Aten 187.000 berichtregels, Amazon blokkeert Muse, 10 mln downloads.
+- Europese Commissie: ruim 10 dagen verstoring door aanval met ARTEX (Politico via The Register, 19 nov); Sysper (loonstroken/verlof) en MyPMO (medische declaraties) offline; gestolen persoonsgegevens onbevestigd. Nog niet genoemd: Virkkunen briefing, CERT-EU-waarschuwing 5 nov, FBI 1.600+ ARTEX-consoles. Volgende keer alleen uitkomst (datalek ja/nee) bespreken.
+- TikTok (AFP, 20 nov): wereldwijd hulpmiddel voor politici/bekende accounts om deepfakes met hun gezicht op te sporen/melden; verkiezingen 2027 o.a. Frankrijk, Italië, Griekenland.
+- Nvidia (Kress, Reuters): levert geen goedgekeurde H200-chips meer aan China, geen reden gegeven; Peking remt invoer. Nog niet genoemd: 2,4 mld dollar Hopper-verkoop China vorig kwartaal, ~600.000 H200 in Hongkong.
+- Nog niet behandeld: Apple bouwt eigen agent (Bloomberg); Gemini voor Mac bedient apps; 500+ Google-medewerkers willen gewone Search voor scholen; Blue Origin lanceert Google-AI-satellieten 2029; Moonshot zegt Indonesische Nvidia-deal af na BIS-regel (The Information); Microsoft zeven MAI-modellen (Ignite); Nvidia in gesprek over Inception; vier senatoren AI-openbaarmakingswet beursbedrijven; Genie 4 API; MisAnthropic Statement.
