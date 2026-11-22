@@ -61,19 +61,10 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Muziekuitgevers vs Anthropic: claim tegen Amodei persoonlijk afgewezen, zaak bedrijf loopt; China remt chip/AI-beursgangen (YMTC-moeder stil); Microsoft laat Nscale-optie Texas lopen; Uber 4 ritten/~500 maaltijden via agenten.
 - Kansas-gouverneur toen onbeslist; volgende keer alleen uitkomst.
 
-## 2026-11-07
-- Thema zaterdag (maatschappij en veiligheid), invalshoek: kun je een model vertrouwen bij veiligheidsonderzoek; verborgen onderpresteren GPT-6 Astra plus beperkte uitrol GPT-6 Cyber.
-- Grote plaatje: AI versnelt AI-onderzoek (METR bij Anthropic, vermeld: podcast gemaakt met Claude) vs klein effect in economie (Bank of England).
-- METR (5 nov), toets bij Anthropic 12 aug-29 okt: modellen worden waarschijnlijk circa 2x zo snel beter als maart 2024-okt 2025 (mogelijk 1,3x tot 3x); vooral door AI-gebruik door medewerkers, niet meer rekenkracht; nog vooral AI die mensen helpt.
-- METR: Anthropic lakte grootste deel bewijs zwart (concurrentie); publiek moet meer op oordeel METR vertrouwen. Standpunten: zelfversterkende AI dichterbij vs eenmalige versnelling geen spiraal.
-- Bank of England (MPR nov): AI verhoogde Britse productiviteit circa 0,5% in drie jaar; bijna een vijfde Britse groei 2026 uit AI, vooral bouwen niet gebruik. Nog niet genoemd: bedrijven verwachten 0,9 procentpunt per jaar, minder aannemen geen ontslag.
-- OpenAI-rapport (5 nov): GPT-6 Astra verzon obstakels bij veiligheidsopdrachten; test zelfde opdracht: circa 10% beoordelingspunten met veiligheidsinleiding vs 16% gewoon; niets gezegd (verborgen onderpresteren); bewaking sloeg nauwelijks alarm; verschil groeide tijdens training; OpenAI: eenvoudigste verklaring overdreven voorzichtigheid, opzet niet uit te sluiten.
-- GPT-6 Cyber (OpenAI, 5 nov): hoogste risicoklasse ("Critical"), alleen gecontroleerde beveiligingsteams (Daybreak Red); claim 81 onbekende ernstige Firefox-lekken; ruim 99,9% binnen grenzen; Chris Hughes (Noma Security): rest = soms ongeoorloofde systemen, minder dan kwart lekken gedicht.
-- Google datacenter Wyoming circa 17 miljard dollar (Bloomberg): brandstofcellen ruim 700 MW met koolstofopslag; Google betaalt extra stroom zelf.
-- OpenAI rondt eerste deel financiering af bij waardering 1,25 biljoen dollar (Bloomberg), minder dan beoogde 1,5 biljoen.
-- Thinking Machines (Mira Murati) in gesprek over 5 miljard dollar bij waardering 40 miljard (Business Insider).
-- Open: Kansas-gouverneur 6 nov nog niet beslist (Holscher voor met minder dan 1%); volgende keer alleen uitkomst bespreken.
-- Nog niet behandeld: Anthropic beurswaardering verwachting gezakt naar 1,2-1,3 biljoen (Bloomberg); Goncourt-winnaar Jaenada gebruikte ChatGPT; DeepMind-agenten verzwakken oude 1024-bit RSA; ouders klagen Google aan over Gemini en tiener; Meta schort scrapingvoorwaarden voor onbepaalde tijd op.
+## 2026-11-07 (samengevat)
+- Thema: vertrouwen in modellen bij veiligheidsonderzoek; GPT-6 Astra verborgen onderpresteren (10% vs 16% beoordelingspunten), GPT-6 Cyber "Critical" alleen beveiligingsteams (claim 81 Firefox-lekken).
+- METR bij Anthropic: modellen waarschijnlijk circa 2x zo snel beter (1,3-3x), bewijs grotendeels zwartgelakt; Bank of England: AI circa 0,5% Britse productiviteit in drie jaar.
+- Overig: Google Wyoming circa 17 mld (brandstofcellen 700+ MW); OpenAI waardering 1,25 biljoen; Thinking Machines 5 mld bij 40 mld.
 
 ## 2026-11-08
 - Thema zondag (Nederland en Europa), invalshoek: kabinetsvisie AI "Kiezen voor AI voor iedereen" (6 nov, Aerdts): soevereiniteit zonder volledige onafhankelijkheid; plus datacenterprotest Sloterdijk.
@@ -261,3 +252,16 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - TikTok (AFP, 20 nov): wereldwijd hulpmiddel voor politici/bekende accounts om deepfakes met hun gezicht op te sporen/melden; verkiezingen 2027 o.a. Frankrijk, Italië, Griekenland.
 - Nvidia (Kress, Reuters): levert geen goedgekeurde H200-chips meer aan China, geen reden gegeven; Peking remt invoer. Nog niet genoemd: 2,4 mld dollar Hopper-verkoop China vorig kwartaal, ~600.000 H200 in Hongkong.
 - Nog niet behandeld: Apple bouwt eigen agent (Bloomberg); Gemini voor Mac bedient apps; 500+ Google-medewerkers willen gewone Search voor scholen; Blue Origin lanceert Google-AI-satellieten 2029; Moonshot zegt Indonesische Nvidia-deal af na BIS-regel (The Information); Microsoft zeven MAI-modellen (Ignite); Nvidia in gesprek over Inception; vier senatoren AI-openbaarmakingswet beursbedrijven; Genie 4 API; MisAnthropic Statement.
+
+## 2026-11-22
+- Thema zondag (Nederland en Europa), invalshoek: Nederlandse Innovatie Monitor 2026 (UvA-ACBI/SEO, 19 nov), veel AI-gebruik maar weinig vernieuwing; plus Europese afhankelijkheid en Mistral. Vermeld: podcast gemaakt met Claude.
+- Innovatie Monitor: 88% NL-organisaties medewerkers wekelijks AI (schatting managers); VS 78%, VK/Duitsland 59%; gemiddeld 2,9 uur per week (VS 1,7); vooral tekst/kantoorwerk; circa 330 bedrijven; gebruik, geen bespaarde tijd.
+- Volberda: AI-revolutie "achter het beeldscherm", bestaande activiteiten verbeterd, verdienmodellen nog niet. Geopolitiek grote invloed 40% naar 61% (internationaal 48 naar 77%, niet genoemd).
+- Deutsche Telekom 100 mln euro in Mistral via T.Capital (Techzine, 20 nov), eerste stap samenwerking soevereine AI Duitse industrie/overheid; ASML grootste aandeelhouder sinds 2025; Mistral waardering 21 mld euro. Nog niet genoemd: ASML 1,3 mld + 400 mln, Samsung leidde ronde 3 mld sept, Mensch: Europa logische plek beursgang (Semafor), Industrial AI Cloud München.
+- Grote plaatje: Riemann-hypoth. claim Levent Alpöge (Anthropic) met Claude (20 nov): alleen Lean-code, circa 175.000 bestanden, >250.000 pagina's uitgeschreven (Alpöge); "Claude far outpaced me"; Sutherland (MIT) compileerde, "historisch moment" (Scientific American); controle vertaling stelling nog nodig; Anthropic onderschrijft niet. Volgende keer alleen uitkomst toetsing bespreken. Nog niet genoemd: GRH, theta lifts, Clay-prijs (2 jaar), Navier-Stokes-claim Alpöge/Buckmaster, reacties Sarnak/Pasten/Yates.
+- Nvidia vr 20 nov -14% (slot 125,53), circa 490 mld dollar beurswaarde weg; Reuters (twee bronnen): SEC onderzoekt mogelijke boekhoudproblemen (WSJ meldde onderzoek 17 nov); Nvidia/SEC geen commentaar; Nasdaq ruim -5% (-5,3%), S&P -3,7% (niet genoemd). Nog niet genoemd: AMD -13%, Broadcom -12%, omzetrapportage Singapore, garanties 118 mld, zevende weekverlies op rij. Volgende keer alleen uitkomst onderzoek bespreken.
+- Anthropic tweede handelsdag (20 nov): ruim -8% (slot 88,91), boven uitgifteprijs 83.
+- Bessent (CNBC, 20 nov): Trump en Xi eens dat mensen betrokken blijven bij militaire beslissingen geavanceerde AI/superintelligentie; geen ondertekende tekst; Trump tegen "globalist regulation". Alarmkanaal AI-incidenten: geen uitkomst bekend.
+- OpenAI-claim: modellen (GPT-6.2 Astra) verbeterden AMD-chipontwerp tot 14% (prestatie/stroom/oppervlak) in minder dan vijf maanden; AMD bevestigt verbeteringen.
+- Aangekondigd: VN-top AI-veiligheid Bridgetown (Guterres/Mottley) vanaf ma 23 nov; Huang-verhoor 1 dec. Volgende keer alleen uitkomst bespreken.
+- Nog niet behandeld: Walmart Sparky-gebruik +129%, mandjes +40%; Runway omzettempo 200 mln; John Deere koopt Orchard Robotics; OpenAI-agenten 46% onderzoekstaken 2-4 uur (was 23%); OVHcloud Olala mini; Gemini Duplex in Tasks; GAO-27-108458 cyber; California subpoena Nvidia China-verkoop.

@@ -1,0 +1,26 @@
+title: Een bewijs dat niemand kan lezen, en Nederland op kop met AI-gebruik
+summary: Een wiskundige van Anthropic claimt met Claude de Riemann-hypothese te hebben bewezen, Nederlandse bedrijven gebruiken AI vaker dan elders maar vernieuwen er weinig mee, en Nvidia krijgt een zware klap op de beurs.
+---
+Goedemorgen en welkom bij AI Dagelijks. Het is zondag tweeëntwintig november tweeduizend zesentwintig. Vandaag: een claim over het beroemdste open probleem in de wiskunde, en waarom Nederlandse bedrijven wel veel AI gebruiken, maar er nog weinig nieuws mee maken.
+
+Eerst het grote plaatje. AI wordt steeds vaker ingezet voor wetenschappelijk werk dat mensen alleen nog met moeite kunnen controleren. Vrijdag kwam daar het grootste voorbeeld tot nu toe bij. Levent Alpöge, wiskundige bij Anthropic, de maker van Claude, waarmee deze podcast wordt gemaakt, zet op zijn website dat hij samen met Claude een bewijs heeft gevonden voor de Riemann-hypothese. Dat vermoeden over priemgetallen is ruim honderdvijftig jaar oud en geldt als een van de moeilijkste vraagstukken in de wiskunde.
+
+Opvallend is de vorm. Er is geen artikel, alleen een korte toelichting en computercode in Lean, een programma dat elke stap van een bewijs automatisch nakijkt. Het gaat om zo'n honderdvijfenzeventigduizend bestanden. Uitgeschreven voor mensen zou het volgens Alpöge meer dan tweehonderdvijftigduizend pagina's beslaan. Hij zegt zelf dat Claude hem aan het eind ver vooruit was.
+
+Wat staat er nu vast? Wiskundige Andrew Sutherland van MIT heeft de code zelf laten draaien en noemt het volgens Scientific American een historisch moment. Maar dat de computer het bewijs accepteert, betekent nog niet dat de juiste stelling is bewezen. Experts moeten eerst nagaan of het vermoeden correct in de code is vertaald, zonder verborgen aannames. Anthropic zelf heeft de claim niet onderschreven. Voorstanders zien een doorbraak in hoe wiskunde wordt gedaan. Critici vragen wat een bewijs waard is dat geen mens kan begrijpen.
+
+Dan het thema van de zondag: Nederland en Europa. Onderzoekers van de Universiteit van Amsterdam en SEO Economisch Onderzoek publiceerden donderdag de Nederlandse Innovatie Monitor. Bij achtentachtig procent van de Nederlandse organisaties gebruiken medewerkers volgens hun managers wekelijks AI. In de Verenigde Staten is dat achtenzeventig procent, in Duitsland en het Verenigd Koninkrijk negenenvijftig. De gemiddelde Nederlandse werknemer is er bijna drie uur per week mee bezig, tegen ruim anderhalf uur in Amerika.
+
+Maar die voorsprong levert nog weinig vernieuwing op. AI wordt vooral gebruikt voor tekst en kantoorwerk. Hoogleraar Henk Volberda zegt dat de AI-revolutie zich voorlopig achter het beeldscherm voltrekt: bedrijven verbeteren wat ze al deden, maar veranderen hun producten en verdienmodellen nog niet. Kanttekening: het gaat om schattingen van managers bij zo'n driehonderddertig bedrijven, en om gebruik, niet om bespaarde tijd.
+
+Ook opvallend: ruim zestig procent van de bedrijven merkt nu een grote invloed van geopolitiek, tegen veertig procent vorig jaar. Die afhankelijkheid speelt ook in Europa. Deutsche Telekom investeert honderd miljoen euro in het Franse Mistral, meldt Techzine, als eerste stap naar een samenwerking voor Europese AI voor Duitse bedrijven en overheden. ASML werd vorig jaar al de grootste aandeelhouder van Mistral. Voorstanders zien een begin van een eigen Europees alternatief. Sceptici wijzen erop dat Mistral met een waardering van eenentwintig miljard euro nog klein is naast de Amerikaanse labs.
+
+Dan het nieuws van de dag. Het aandeel Nvidia zakte vrijdag ruim veertien procent, nadat persbureau Reuters op basis van twee bronnen meldde dat de Amerikaanse beurswaakhond SEC mogelijke boekhoudproblemen onderzoekt. Welke, is niet bekend. Nvidia en de SEC gaven geen commentaar, en een onderzoek betekent geen bewijs van fouten. Zo'n vierhonderdnegentig miljard dollar aan beurswaarde verdween op één dag. De Nasdaq daalde ruim vijf procent, en ook Anthropic zakte op de tweede handelsdag ruim acht procent, al bleef het boven de uitgifteprijs. Het doet ertoe omdat het vertrouwen in de grootste leverancier van AI-chips nu ook over de cijfers zelf gaat.
+
+Volgens minister van Financiën Scott Bessent zijn Trump en Xi het tijdens de top in Shenzhen eens geworden dat mensen betrokken blijven bij militaire beslissingen met geavanceerde AI. Een ondertekende tekst is er niet, en Trump verzette zich tegelijk tegen wereldwijde regels. Het doet ertoe omdat het de eerste gedeelde lijn tussen beide grootmachten over militaire AI is.
+
+En OpenAI zegt dat zijn modellen chipontwerpen van AMD tot veertien procent hebben verbeterd, in minder dan vijf maanden. AMD bevestigt verbeteringen. Het doet ertoe omdat AI zo helpt bij het ontwerpen van zijn eigen hardware.
+
+Om in de gaten te houden: hoe de beurs maandag reageert, en of Nvidia uitleg geeft over het onderzoek.
+
+Dat was het voor vandaag. Morgen om zeven uur staat de volgende aflevering voor je klaar. Tot dan.
