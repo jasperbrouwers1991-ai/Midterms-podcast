@@ -66,20 +66,10 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - METR bij Anthropic: modellen waarschijnlijk circa 2x zo snel beter (1,3-3x), bewijs grotendeels zwartgelakt; Bank of England: AI circa 0,5% Britse productiviteit in drie jaar.
 - Overig: Google Wyoming circa 17 mld (brandstofcellen 700+ MW); OpenAI waardering 1,25 biljoen; Thinking Machines 5 mld bij 40 mld.
 
-## 2026-11-08
-- Thema zondag (Nederland en Europa), invalshoek: kabinetsvisie AI "Kiezen voor AI voor iedereen" (6 nov, Aerdts): soevereiniteit zonder volledige onafhankelijkheid; plus datacenterprotest Sloterdijk.
-- Grote plaatje: AI verdringt gewone chips; geavanceerde chipverpakking (packaging) nieuw knelpunt.
-- Reuters (7 nov): Gelsinger: verpakken tot helft waarde chip; AI-chips 10-20 losse chips; Yole: geavanceerde verpakking dit jaar voor het eerst meer omzet dan traditionele, circa 28 miljard dollar investeringen.
-- Microchip (5 nov): Sanghi: AI-bedrijven "namen hele fabriek over" bij verpak-/testbedrijven; levertijden 4-8 naar 6-32 weken; aandeel vrijdag 6 nov -10%; Sanghi: minder AI-vraag zou helpen; verwacht prijsverhogingen chipfabrieken/verpakkers rond januari. 24/7 Wall St: waarschijnlijk tijdelijk. Nog niet genoemd: Sanghi noemt datacentermarkt "bubbel".
-- Kabinetsvisie: geen volledige onafhankelijkheid; niet afhankelijk van "één land, één bedrijf, één speler" (Aerdts, NOS); partners Canada, Japan, Singapore, Zuid-Korea.
-- Kabinetsvisie: 120 miljoen euro vanaf 2027 voor Duits-geleid Europees AI-project (IPCEI; open modellen, zuinigere rekenkracht), stond al op begroting; AI-veiligheidsinstituut onderzocht (advies december); mediapact journalistiek; plannen rekenkracht/datacenters begin 2027; mkb-drempels weg, nog niet concreet.
-- Kritiek Volt-leider Dassen: "tandeloze tijger", geen budget; voorstanders: kiezen waar NL sterk is (ASML, robotica Eindhoven).
-- Sloterdijk 6 nov: activisten bestormen bouwterrein datacenter (Microsoft enige huurder), 218 aanhoudingen; protest stroom/water en Microsoft-contracten Israëlisch leger; Microsoft keurt wetsovertredingen af. Nog niet genoemd: Pure DC bouwer, 78 MW, circa 1 miljard euro, Geef Tegengas/Fossielvrij NL, alle 218 vrij.
-- NYT (7 nov): circa twee dozijn Chinese bedrijven kregen VS-toestemming voor Nvidia H200; minstens twee (New Matrix, Maginfra; namen niet genoemd) lege kantoren; één banden met fonds op zwarte lijst; ministerie: zorgvuldige controle.
-- Google DeepMind (6 nov): AI-agenten met cryptografen vonden twee zwakke plekken in oude RSA-1024; aanvallen veel goedkoper (niet genoemd: 1.600x en 30x); sterkere sleutels niet geraakt.
-- NCSC/NCTV Cybersecuritybeeld Nederland 2026 (6 nov): aanvallers gebruiken AI aantoonbaar in alle fasen; weerbaarheid NL-organisaties blijft achter.
-- Aangekondigd: advies Nederlands AI-veiligheidsinstituut december 2026; prijsverhogingen chipketen januari. Volgende keer alleen uitkomst bespreken.
-- Nog niet behandeld: CBS mkb AI-gebruik (13,8% microbedrijven vs 66,2% groot); AI-fabriek Groningen 200 miljoen; Check Point: ARTEX stal 300+ iOS-certificaten; Axon investeert 1,2 miljard in Skydio; Elvis-erven en Eminem-uitgever klagen Suno aan; Microsoft Research AI Frontiers opgeheven; OpenAI BioBasicsBench; Northampton datacenterstop; Thailand bevriest datacenterprojecten.
+## 2026-11-08 (samengevat)
+- Thema: kabinetsvisie AI "Kiezen voor AI voor iedereen" (Aerdts; geen volledige onafhankelijkheid; 120 mln euro IPCEI vanaf 2027; AI-veiligheidsinstituut advies december; Dassen "tandeloze tijger"); datacenterprotest Sloterdijk (218 aanhoudingen, Microsoft).
+- Chipverpakking nieuw knelpunt (Gelsinger, Yole circa 28 mld; Microchip levertijden 6-32 weken, prijsverhogingen rond januari, alleen uitkomst).
+- Overig: NYT lege kantoren H200-kopers China; DeepMind-agenten zwakke plekken RSA-1024; NCSC/NCTV Cybersecuritybeeld 2026 (AI in alle fasen).
 
 ## 2026-11-09
 - Thema maandag (weekoverzicht en vooruitblik), invalshoek: drie lijnen vorige week (geld duurder na politieke omslag, AI bouwt AI maar vertrouwen wankel, chipkrapte raakt rest economie) plus vooruitblik roadshow Anthropic, G7, Nvidia-cijfers.
@@ -265,3 +255,17 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - OpenAI-claim: modellen (GPT-6.2 Astra) verbeterden AMD-chipontwerp tot 14% (prestatie/stroom/oppervlak) in minder dan vijf maanden; AMD bevestigt verbeteringen.
 - Aangekondigd: VN-top AI-veiligheid Bridgetown (Guterres/Mottley) vanaf ma 23 nov; Huang-verhoor 1 dec. Volgende keer alleen uitkomst bespreken.
 - Nog niet behandeld: Walmart Sparky-gebruik +129%, mandjes +40%; Runway omzettempo 200 mln; John Deere koopt Orchard Robotics; OpenAI-agenten 46% onderzoekstaken 2-4 uur (was 23%); OVHcloud Olala mini; Gemini Duplex in Tasks; GAO-27-108458 cyber; California subpoena Nvidia China-verkoop.
+
+## 2026-11-23
+- Thema maandag (weekoverzicht en vooruitblik), invalshoek: twee lijnen (Nvidia slechtste week, noodrem voor AI concreter) plus Anthropic nu beursbedrijf; vooruitblik Californisch parlement 7 dec.
+- Grote plaatje (uitkomst toetsing Riemann): Lean/Mathlib-gemeenschappen (verklaring 21 nov, gesteund door Lean FRO/Mathlib Initiative): "volledig vertrouwen" dat bewijs Alpöge klopt; stelling komt overeen met door experts vastgelegde Mathlib-versie; circa 17 mln regels Lean; tientallen mensen compileerden; meerdere onafhankelijke controleprogramma's. Geen beoordeling van de wiskunde zelf. Vermeld: podcast gemaakt met Claude.
+- Metaculus verwachtte bewijs rond 2035; Tao vorige maand: rond 2050 (The Decoder). Standpunten: sluitende controle = geldig vs wiskunde vergt begrip. Nog niet genoemd: Stanford-concurrerende menselijke concepttekst, con-leche/con-ron, Mollick-citaat.
+- Nvidia: aandeel vorige week -23%, slechtste week sinds okt 2008 (Motley Fool); Californische AG Bonta dagvaarding om informatie (China-omwegen, uitspraken beleggers). Nog niet genoemd: circa 1 biljoen beurswaarde weg, FY26 19,7 mld omzet Chinese klanten.
+- Newsom-expertpanel (18 nov; Nelson, Reich, Goldman, Hadfield; CalMatters): staat kan gevaarlijke AI direct laten uitschakelen; erkende controleurs; incidentmelding 48 uur i.p.v. 15 dagen; alleen rampen (>50 doden of 1 mld dollar); Anthropic (Cuéllar) "bemoedigend"; parlement terug 7 dec. Nog niet genoemd: klokkenluiders, CalCompute, Becerra/Wiener. Volgende keer alleen wetgevingsuitkomst bespreken.
+- Britse Lagerhuiscommissie (18 nov): toezichthouder die modellen kan uitstellen/verbieden (AI Safety and Security Bill). Nog niet genoemd: regering twee maanden voor antwoord.
+- Oregon (AG Dan Rayfield, 17 nov) klaagt OpenAI aan voor ruim 2 mld dollar (2,035 mld) wegens bescherming tieners ChatGPT; beschuldigingen. Nog niet genoemd: Arizona strafrechtelijk onderzoek (één bron).
+- Signal (TechCrunch, 21 nov): beperkt schermafbeeldingen Android/iOS (Windows al), uit te zetten; reden in OS ingebouwde AI-agenten; Whittaker: "existentiële" bedreiging, maatregel onvolledig.
+- Dragos (HD Moore, 19 nov): circa 2 mln opdrachten met nep-inloggegevens sinds juli; lekken bij minstens drie aanbieders, aanvallers probeerden in te breken; tussenhandelaars bewaarden opdrachten ondanks niet-opslaan-instelling. Nog niet genoemd: honderden AWS-sleutels, Feishu-chat, OpenRouter haalt drie aanbieders weg.
+- Amazon dicht bij overname Decart (Israël) voor circa 7,5 mld dollar (FT, 21 nov); live video bewerken, nepwerelden voor robots. Volgende keer alleen uitkomst (deal ja/nee) bespreken.
+- Aangekondigd: Californisch parlement 7 dec; Bridgetown-top AI-veiligheid (23 nov) niet besproken, volgende keer alleen uitkomst.
+- Nog niet behandeld: Zuid-Koreaanse onderwijsminister Choi Kyo-jin afgetreden na AI-fraude (onbevestigd, Guardian); Hendrycks pleit voor pauze topmodellen (DealBook); Wired: grote VS-banken weren agenten bij inloggen; FT: serverprijzen tot 45% omhoog na tekenen; UBS: AI-investeringen 1,4 biljoen in 2027; Together AI-lek klantprompts; SpaceX GPU-lening circa 44 mld (Apollo/Goldman); Blackstone 5 mld AWS-datacenters; Microsoft-storing 12 nov geen cyberaanval/geen AI; Thinking Machines Inkling 2 Mini; Sarvam-105B; Disney/Universal/WB vs Midjourney v8; Binding of Isaac AI-muziek verwijderd; Signal blokkeert Siri/Gemini.
