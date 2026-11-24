@@ -71,18 +71,10 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Chipverpakking nieuw knelpunt (Gelsinger, Yole circa 28 mld; Microchip levertijden 6-32 weken, prijsverhogingen rond januari, alleen uitkomst).
 - Overig: NYT lege kantoren H200-kopers China; DeepMind-agenten zwakke plekken RSA-1024; NCSC/NCTV Cybersecuritybeeld 2026 (AI in alle fasen).
 
-## 2026-11-09
-- Thema maandag (weekoverzicht en vooruitblik), invalshoek: drie lijnen vorige week (geld duurder na politieke omslag, AI bouwt AI maar vertrouwen wankel, chipkrapte raakt rest economie) plus vooruitblik roadshow Anthropic, G7, Nvidia-cijfers.
-- Grote plaatje: AI-labs worden energiebedrijven, eigen stroomopwekking op terrein; voorstanders ontzien net vs critici fossiele lock-in. Vermeld: podcast gemaakt met Claude.
-- Anthropic koopt voor circa 3,4 miljard dollar 1,7 GW gasgeneratoren (FT, 8 nov): bestelling OnePWR (Texas) bij Caterpillar overgenomen incl. installatie; grootste bekende stroomaankoop AI-lab; Reuters kon niet bevestigen; Anthropic geen reactie; vergeleken met ruim 3x kerncentrale Borssele.
-- Anthropic S-1: elektriciteit groot obstakel, schommelende gasprijzen risico.
-- The Information (8 nov): AI-bedrijven 2026 al ruim 300 miljard dollar aan aandelen/omzetbare leningen verkocht, circa 100 miljard extra in pijplijn (excl. Anthropic).
-- Vooruitblik: roadshow Anthropic mogelijk deze week, nog geen prijs; waardering in gesprekken 1,2-1,3 biljoen (Bloomberg). Volgende keer alleen uitkomst (prijsvork, koers) bespreken.
-- Vooruitblik: G7-ministers Buitenlandse Zaken Parijs 9-10 nov met AI-sessie; Nvidia kwartaalcijfers dinsdag 17 nov. Volgende keer alleen uitkomst bespreken.
-- Nvidia-bestuur (8 nov): onafhankelijk onderzoek door commissie onafhankelijke bestuurders met externe advocaten naar berichten dat Huang doelwit buitenlandse inlichtingenoperatie was; geen reden aan te nemen dat geheimen gelekt; vertrouwen in Huang. Nog niet genoemd: Congresbriefing 18 nov (Megaspeed).
-- Amerikaans ministerie van Justitie: Super Intelligence Task Force (5 nov, Blanche): misbruik AI door buitenlandse staten/criminelen/fraudeurs aanpakken én Amerikaanse AI-dominantie bevorderen. Nog niet genoemd: voorzitters Woodward/Weiss, koppeling Super Intelligence Force (Clayton).
-- Apiiro: "ja, en vraag het niet meer" in Claude Code slaat hele commando incl. geheimen op in instellingenbestand; ruim 1.100 openbare bestanden op GitHub met echte inloggegevens; hoofd Claude Code (Cherny): onderzoekt oplossing, bestand standaard niet gedeeld. Nog niet genoemd: 2.539 geheimen, 215 gemist door beide scanners.
-- Nog niet behandeld: Anthropic klantmelding ongeautoriseerde toegang externe beveiligingsfirma eind okt; rechter Kahn v. Anthropic (Max-gebruiksclaims mogelijk misleidend); Meta-strateeg Wehner naar Fireworks; Amazon Personal Robotics Group; Gurman: agentische Siri 2027; xAI watermerk Grok-API; Nova Scotia protest datacenter EverWind; Kansas-gouverneur nog onbeslist.
+## 2026-11-09 (samengevat)
+- Thema: weekoverzicht (geld duurder, AI bouwt AI maar vertrouwen wankel, chipkrapte); AI-labs worden energiebedrijven: Anthropic circa 3,4 mld dollar 1,7 GW gasgeneratoren (FT), S-1 noemt stroom obstakel.
+- The Information: AI-bedrijven 2026 ruim 300 mld aandelen/omzetbare leningen; Nvidia-bestuursonderzoek naar Huang als inlichtingendoelwit; DOJ Super Intelligence Task Force (Blanche).
+- Apiiro: Claude Code-instellingenbestand met geheimen, ruim 1.100 openbare bestanden GitHub.
 
 ## 2026-11-10
 - Thema dinsdag (modellen en onderzoek), invalshoek: Claude Fable 5.2/Mythos 5.2 (9 nov) wat het echt kan plus testbewustzijn en beperkingen benchmarks. Vermeld: podcast gemaakt met Claude.
@@ -269,3 +261,15 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Amazon dicht bij overname Decart (Israël) voor circa 7,5 mld dollar (FT, 21 nov); live video bewerken, nepwerelden voor robots. Volgende keer alleen uitkomst (deal ja/nee) bespreken.
 - Aangekondigd: Californisch parlement 7 dec; Bridgetown-top AI-veiligheid (23 nov) niet besproken, volgende keer alleen uitkomst.
 - Nog niet behandeld: Zuid-Koreaanse onderwijsminister Choi Kyo-jin afgetreden na AI-fraude (onbevestigd, Guardian); Hendrycks pleit voor pauze topmodellen (DealBook); Wired: grote VS-banken weren agenten bij inloggen; FT: serverprijzen tot 45% omhoog na tekenen; UBS: AI-investeringen 1,4 biljoen in 2027; Together AI-lek klantprompts; SpaceX GPU-lening circa 44 mld (Apollo/Goldman); Blackstone 5 mld AWS-datacenters; Microsoft-storing 12 nov geen cyberaanval/geen AI; Thinking Machines Inkling 2 Mini; Sarvam-105B; Disney/Universal/WB vs Midjourney v8; Binding of Isaac AI-muziek verwijderd; Signal blokkeert Siri/Gemini.
+
+## 2026-11-24
+- Thema dinsdag (modellen en onderzoek), invalshoek: Pachocki (OpenAI, blog "Perplexity and Intelligence", 22 nov) wil perplexiteit als gedeelde voortgangsmaat en afgesproken grenzen tussen labs; plus METR-kwartaalupdate (20 nov).
+- OpenAI interne log-perplexiteit (codedataset): GPT-3.5 circa 0,99, GPT-4 circa 0,91, GPT-6.2 Astra 0,76; vermogens per drempel (praten, redeneren, wiskunde/cyber); rond 0,68-0,7 onvoorspelbaar. Nog niet genoemd: intern model circa 0,73, versnelling 2026.
+- Voorstel: grenzen die niemand overschrijdt tot monitoring afgesproken niveau haalt; geen eerste grens/datum, geen ander lab akkoord. Altman: belangrijkste publicatie in tijden; Suleyman: scores niet vergelijkbaar (tokenizers); DeepMind-paper: lage score bewijst geen gelijk. Nog niet genoemd: Amodei-essay "We Must Pace the Frontier".
+- METR (via The Decoder): taaklengte verdubbelt circa elke 3,6 maanden; achter op open oordeelsvragen; gangbare tests overschatten mogelijk. Nog niet genoemd: 200-uurstaken juli 2027 (extrapolatie), geen AI-ontworpen evaluatie bruikbaar (MIT TR), Opus 5.5 "borderline" evaluatieontwerp.
+- Grote plaatje (uitkomst opvolging Nvidia): bestuur zette Huang op 23 nov unaniem terug als topman/president/bestuurslid, elf dagen na vertrek; Trump lobbyde (Truth Social: land heeft Huang nodig, geen veiligheidsrisico); nieuwe commissie nationale veiligheid/exportregels; onderzoek onafhankelijke bestuurders loopt door. Aandeel ruim +30%, beste dag sinds 2003; brede beurs beste dag sinds april 2025. Standpunten: stabiliteit vs onafhankelijk bestuur. Nog niet genoemd: chief compliance officer, CoreWeave/Nebius +30%, Megaspeed op zwarte lijst VS (BBC), Reuters: Trump/Vance zagen Huang als beschermer open-gewichtenmodellen.
+- Google DeepMind/Quantum AI (23 nov, eigen claim): teams Gemini 4-agenten, Lean-controle; kosten fusie-quantumcircuit 11,8x lager; eerste quantumcomputers nog te klein. Nog niet genoemd: arcsin 290x, P450 2,5x, open-source bibliotheek.
+- Amazon neemt technologie en team Decart over voor gemeld 7,5 mld dollar, voor Trainium-chips (TechCrunch, 23 nov). Uitkomst gesprekken nu besproken.
+- Oregon en Virginia klagen SpaceX e.a. aan om Grok-nepbeelden zonder toestemming, ook van kinderen (CNBC, 23 nov); beschuldigingen. Volgende keer alleen uitkomst bespreken.
+- Aangekondigd: Huang-verhoor Congres 1 dec. Volgende keer alleen uitkomst bespreken.
+- Nog niet behandeld: Frostbite-CPU door AI-agenten (Architect Labs, 4,59x prestatie per watt in simulatie); Meta heroverweegt netto-nul 2030 (uitstoot circa +40%); SpaceX 74 mld datacenters Texas/Arizona, verkoopt rekenkracht aan Anthropic/Google (NYT); OpenRouter verwijdert drie aanbieders; OpenAI regels doorverkopers (20 nov); Inkling 2 Mini open gewichten op laptop; GLM-5.4; GPT-6.2 Sol in ChatGPT; Claude Ship; OpenAI Shirudo met Cisco; NHS borstkankerproef 700.000 vrouwen; Sierra 1,75 mld bij 30 mld; Alfozan-zaak OpenAI; AWS-enquête 58% rendement Azië; Nothing-apparaat 8 dec.

@@ -1,0 +1,30 @@
+title: Huang terug bij Nvidia, en OpenAI wil een snelheidsmeter voor AI
+summary: Nvidia haalt Jensen Huang na elf dagen terug na druk van Trump, OpenAI stelt één gedeelde maatstaf voor om de vooruitgang van AI af te remmen, en Google laat AI-agenten quantumalgoritmen verbeteren.
+---
+Goedemorgen en welkom bij AI Dagelijks. Het is dinsdag vierentwintig november tweeduizend zesentwintig. Vandaag: de terugkeer van Jensen Huang bij Nvidia, en een voorstel van OpenAI om de vooruitgang van AI met één getal te meten en zo nodig af te remmen.
+
+Eerst het grote plaatje. Elf dagen na zijn vertrek is Jensen Huang weer topman van Nvidia, de grootste maker van AI-chips. Het bestuur besloot maandag unaniem tot zijn terugkeer. Vorige week zei bestuursvoorzitter Harvey Jones nog dat dat niet de bedoeling was.
+
+Wat veranderde er? Volgens Yahoo Finance lobbyden bondgenoten van Huang, onder wie president Trump, voor zijn terugkeer. Trump schreef op Truth Social dat het land Huang nodig heeft, en dat de regering geen reden heeft om een risico voor de nationale veiligheid te zien. Nvidia richt wel een nieuwe commissie op voor nationale veiligheid en exportregels, en de onafhankelijke bestuurders zetten hun onderzoek naar de gang van zaken voort.
+
+Het aandeel steeg ruim dertig procent, de beste dag sinds tweeduizend drie. Ook de brede Amerikaanse beurs had zijn beste dag in ruim anderhalf jaar.
+
+Waarom doet dit ertoe? Het laat zien hoe nauw de Amerikaanse overheid en de AI-industrie verweven zijn geraakt: de president bemoeit zich nu openlijk met wie een beursbedrijf leidt. Voorstanders zeggen dat stabiliteit bij zo'n cruciaal bedrijf in ieders belang is. Critici vinden dat bestuurders onafhankelijk horen te beslissen, zeker nu er nog onderzoeken lopen.
+
+Dan het thema van de dinsdag: modellen en onderzoek. Hoe meet je eigenlijk hoe slim AI wordt? Jakub Pachocki, de hoofdwetenschapper van OpenAI, deed zondag een opvallend voorstel. Hij wil dat alle grote labs één maatstaf gebruiken: perplexiteit.
+
+Dat begrip vraagt uitleg. Een taalmodel voorspelt steeds het volgende woorddeel. Perplexiteit meet hoe verrast het model is door de echte tekst. Hoe lager het getal, hoe beter het voorspelt. OpenAI publiceerde voor het eerst zijn eigen interne scores, gemeten op een verzameling computercode. GPT drie punt vijf zat rond nul komma negenennegentig, GPT vier rond nul komma eenennegentig, en GPT zes punt twee Astra op nul komma zesenzeventig. Volgens Pachocki hoort bij elke stap een nieuw vermogen: eerst vloeiend praten, daarna redeneren, nu doorbraken in wiskunde en computerbeveiliging. Wat er rond nul komma zeven gebeurt, kan hij niet voorspellen.
+
+Zijn voorstel: labs spreken grenzen af die niemand overschrijdt, tot de technieken om modellen in de gaten te houden een afgesproken niveau hebben bereikt. Sam Altman noemt het het belangrijkste wat OpenAI in tijden heeft gepubliceerd. Maar er is kritiek. Mustafa Suleyman van Microsoft zegt dat de scores van verschillende labs niet te vergelijken zijn, omdat ze tekst anders opknippen. Onderzoekers van Google DeepMind schreven eerder dat een lage score niet bewijst dat een model gelijk heeft. Een eerste grens of datum noemt Pachocki niet, en geen ander lab heeft ingestemd.
+
+Het past bij een waarschuwing van METR, een onafhankelijke organisatie die modellen test. Volgens The Decoder verdubbelt de lengte van taken die modellen aankunnen ongeveer elke drie à vier maanden. Maar op open vragen waarbij oordeelsvermogen nodig is, blijven ze achter, en gangbare tests overschatten mogelijk wat ze in de praktijk kunnen.
+
+Dan het nieuws van de dag. Google DeepMind liet teams van Gemini vier-agenten zoeken naar zuinigere algoritmen voor quantumcomputers. Elke stap werd automatisch nagekeken. Voor een berekening uit kernfusieonderzoek dalen de benodigde rekenkosten volgens Google bijna twaalf keer. Het doet ertoe omdat AI zo ook in de natuurkunde werk aflevert dat sluitend te controleren is. Google zegt zelf dat de eerste echte quantumcomputers hiervoor nog te klein zijn.
+
+Amazon neemt volgens TechCrunch de technologie en het team van het Israëlische Decart over, voor gemeld zevenenhalf miljard dollar. Amazon wil daarmee AI-modellen beter laten draaien op zijn eigen Trainium-chips. Het doet ertoe omdat Amazon zo minder afhankelijk wil worden van Nvidia.
+
+En de Amerikaanse staten Oregon en Virginia klagen SpaceX en verwante bedrijven aan, omdat de chatbot Grok seksueel getinte nepbeelden zonder toestemming zou maken, ook van kinderen, meldt CNBC. Het zijn beschuldigingen; de rechter moet nog oordelen. Het doet ertoe omdat staten steeds vaker zelf naar de rechter stappen in plaats van op landelijke wetten te wachten.
+
+Om in de gaten te houden: het verhoor van Jensen Huang in het Congres, volgende week dinsdag.
+
+Dat was het voor vandaag. Morgen om zeven uur staat de volgende aflevering voor je klaar. Tot dan.
