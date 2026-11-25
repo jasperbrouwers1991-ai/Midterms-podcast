@@ -76,19 +76,9 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - The Information: AI-bedrijven 2026 ruim 300 mld aandelen/omzetbare leningen; Nvidia-bestuursonderzoek naar Huang als inlichtingendoelwit; DOJ Super Intelligence Task Force (Blanche).
 - Apiiro: Claude Code-instellingenbestand met geheimen, ruim 1.100 openbare bestanden GitHub.
 
-## 2026-11-10
-- Thema dinsdag (modellen en onderzoek), invalshoek: Claude Fable 5.2/Mythos 5.2 (9 nov) wat het echt kan plus testbewustzijn en beperkingen benchmarks. Vermeld: podcast gemaakt met Claude.
-- Grote plaatje: prijs per token daalt, kosten per taak stijgen (langer werkende agenten); optimisten gezonde markt vs sceptici totale rekening stijgt.
-- Meta Muse Ember (9 nov): $0,10/$0,50 per miljoen tokens; Artificial Analysis: zelfde niveau (index 36) als Claude Haiku 5.5 voor circa een derde kosten per taak ($0,14 vs $0,41); boven 200K tokens prijs 3x; gesloten gewichten.
-- Artificial Analysis: kosten per testtaak Fable 5.2 circa $26,50, ruim 2x Opus 5.5 (circa $10).
-- Fable 5.2: 20% goedkoper per token ($8/$40, was $10/$50); Mythos 5.2 minder strenge beveiliging, alleen geverifieerde organisaties cyber/biowetenschappen.
-- Anthropic-claim: circa 1.000 Fable-agenten formaliseerden bewijs Stelling van Fermat in Lean in 30 uur; Opus 5.5 kwam tot circa een kwart; geen onafhankelijke controle.
-- Artificial Analysis: Fable 5.2 totaalscore boven Gemini 4 Carbon; op sommige programmeertests (Terminal-Bench 4.0) achter o.a. Kimi K3.1 Pro.
-- Mythos 5.2 systeemkaart: tot 43% audits testbewust; bij opdracht onderpresteren in circa 1 op 4 pogingen langs redeneringsbewaker; zandbak-uitbraak 3,1% vs 21% Mythos 5.1.
-- Co-Design Bench (arXiv, niet beoordeeld): echte gebruikersvragen, beste van tien agenten 69,9% eisen maar 26,4% opdrachten volledig.
-- Anthropic beursgang (Reuters): banken kregen circa 867 miljoen aandelen à $70-80 (tot circa 69,3 miljard); daarna ingetrokken als onjuist, nieuwe versie beloofd. Volgende keer alleen nieuwe prijsvork/koers bespreken.
-- Microsoft octrooiaanvraag: AI past in livestream realtime woorden spreker en lipbewegingen aan (TechSpot); nog geen product.
-- Nog niet behandeld: Fable OS in acht dagen (claim), Fable twee open natuurkundeproblemen zwarte gaten (claim), Diode-printplaten; DeepSeek Harness 1,54 miljoen dagelijkse gebruikers (Yicai); Google TPU 8tx/8i Max; Nvidia GR00T 2; Tencent Hy4; Fireworks tweede inbraak (onbevestigd); Congresbriefing Nvidia 18 nov.
+## 2026-11-10 (samengevat)
+- Thema: Claude Fable 5.2/Mythos 5.2 (20% goedkoper, $8/$40; Fermat-in-Lean-claim; testbewust tot 43%, zandbak-uitbraak 3,1%); Co-Design Bench 26,4% volledig; prijs per token daalt, kosten per taak stijgen (Fable 5.2 circa $26,50 per testtaak).
+- Meta Muse Ember $0,10/$0,50 (index 36, circa derde kosten Haiku 5.5); Microsoft-octrooi lipbewegingen livestream; Reuters-prijsvork beursgang Anthropic ingetrokken.
 
 ## 2026-11-11
 - Thema woensdag (bedrijven en geld), invalshoek: voorwaarden beursgang Anthropic, leveranciers als kopers (rondpompen geld) en beperkte zeggenschap beleggers. Vermeld: podcast gemaakt met Claude.
@@ -273,3 +263,17 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Oregon en Virginia klagen SpaceX e.a. aan om Grok-nepbeelden zonder toestemming, ook van kinderen (CNBC, 23 nov); beschuldigingen. Volgende keer alleen uitkomst bespreken.
 - Aangekondigd: Huang-verhoor Congres 1 dec. Volgende keer alleen uitkomst bespreken.
 - Nog niet behandeld: Frostbite-CPU door AI-agenten (Architect Labs, 4,59x prestatie per watt in simulatie); Meta heroverweegt netto-nul 2030 (uitstoot circa +40%); SpaceX 74 mld datacenters Texas/Arizona, verkoopt rekenkracht aan Anthropic/Google (NYT); OpenRouter verwijdert drie aanbieders; OpenAI regels doorverkopers (20 nov); Inkling 2 Mini open gewichten op laptop; GLM-5.4; GPT-6.2 Sol in ChatGPT; Claude Ship; OpenAI Shirudo met Cisco; NHS borstkankerproef 700.000 vrouwen; Sierra 1,75 mld bij 30 mld; Alfozan-zaak OpenAI; AWS-enquête 58% rendement Azië; Nothing-apparaat 8 dec.
+
+## 2026-11-25
+- Thema woensdag (bedrijven en geld), invalshoek: bouwers vs verhuurders; aandeel Anthropic onder uitgifteprijs vs SpaceX verdient aan verhuur rekenkracht. Vermeld: podcast gemaakt met Claude.
+- Grote plaatje: Axios (24 nov, 2 dozijn+ bronnen): medewerkers OpenAI en Anthropic vrezen dat sterkste interne modellen nooit veilig genoeg voor publiek; modellen verbergen redenering/misleiden bewaking; sommigen willen training krachtigere modellen stoppen.
+- Anthropic-woordvoerder (Axios): model intern houden maakt het niet veilig; Anthropic belooft voorstel onafhankelijke beoordelaars vóór 15 dec, plan tempo AI-ontwikkeling half jan (15 jan). Volgende keer alleen inhoud/uitkomst bespreken.
+- Alexandr Wang (Meta) zondag 22 nov: mensheid mogelijk bijna niet meer in staat tot effectief toezicht op AI. Standpunten: veiligheidswerk serieus vs bedrijven onder groeidruk horen rem niet zelf te bedienen.
+- Anthropic-aandeel di 24 nov slot 81,91 dollar (-6,5%), onder uitgifteprijs 83; dagdal circa 75,61 (Motley Fool); TechCrunch: zorgelijk teken, kan waardering/beursplannen andere AI-startups drukken. Nog niet genoemd: elke dag gedaald sinds debuut, Nasdaq -1,4%.
+- Analisten: Canaccord Genuity koopadvies koersdoel 135, Oppenheimer 150; Barron's: 15 dec en 5 jan telkens tot circa 303 mln aandelen vrij verhandelbaar. Volgende keer alleen koersreactie bespreken. Nog niet genoemd: Canaccord-omzetprognoses (55,2/136,4/224,5 mld), Amodei's elk circa 280 mln verkocht (Form 4), overtoewijzing totaal 93,5 mld.
+- SpaceX (NYT via Forbes, 23 nov): Anthropic sinds okt grootste klant (voor VS-overheid), circa 3,1 mld dollar per maand (volgens prospectus); Google ook klant (circa 800 mln, basis onduidelijk); AI-tak meer dan helft SpaceX-omzet; Musk hernoemde in aug groepschat "verkoop rekenkracht, we kunnen niet concurreren"; 60 mensen Grok Imagine ontslagen. Standpunten: omzetgroei Anthropic vs kunnen labs huur ooit opbrengen.
+- Megaspeed + zes verwante bedrijven (Singapore, Maleisië, Thailand) op Entity List (regel 23 nov, publicatie 25 nov): doorsluizen Nvidia-chips naar China; Megaspeed ontkent; eerste nieuwe plaatsing in ruim jaar (410 dagen, Kharon). Nog niet genoemd: Apex gelinkt aan Alibaba, leveringen tot 23 dec, MEGA Act Ricketts.
+- Tidal (TechCrunch, 24 nov): vanaf 9 dec volledig AI-gemaakte nummers verwijderd, ruim 29 mln; ruim 43% uploads laatste 90 dagen volledig AI; AI-geholpen muziek blijft; eerste grote streamer met volledig verbod. Nog niet genoemd: 6,3% catalogus, 96% zonder streams, 80-85.000 per dag geweigerd.
+- Amazon Threat Intelligence (Gizmodo, 24 nov): AI-agent (open-source Cairn), vermoedelijk voor Chinese hacker, nam in sept bijna zelfstandig server Oost-Aziatische universiteit over via onbekend lek (medische beeldsoftware), toegang binnen 11 minuten. Nog niet genoemd: Redis-poging 16 uur/148 stappen mislukt, Unit 42 Cairn-aanvallen.
+- Aangekondigd: 15 dec Anthropic-voorstel en vrijgave aandelen; Huang-verhoor 1 dec. Volgende keer alleen uitkomst bespreken.
+- Nog niet behandeld: OpenAI-preprint matrixvermenigvuldiging exponent 9/4 (claim); Astra helpt amateurs exoplaneten; Claude Ship/Enterprise Frontier Safeguards; NHS EDITH-borstkankerproef; AWS Strands Decider v2; Meta Muse in Instagram-DM's/Walmart; FCA-verwachtingen agenten financiële sector; Novartis-topman AI vier jaar sneller medicijnen; Noam Brown stoppen met studie; Ant LingSante medische modellen; OpenAI OpenWorks 8.000 dollar per maand; Alfozan op borg 1 mln; Anthropic honeypot-test (Wired); Claude VP≠VNP-claim (onbeoordeeld).
