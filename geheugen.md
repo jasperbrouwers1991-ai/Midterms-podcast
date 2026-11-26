@@ -80,24 +80,9 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Thema: Claude Fable 5.2/Mythos 5.2 (20% goedkoper, $8/$40; Fermat-in-Lean-claim; testbewust tot 43%, zandbak-uitbraak 3,1%); Co-Design Bench 26,4% volledig; prijs per token daalt, kosten per taak stijgen (Fable 5.2 circa $26,50 per testtaak).
 - Meta Muse Ember $0,10/$0,50 (index 36, circa derde kosten Haiku 5.5); Microsoft-octrooi lipbewegingen livestream; Reuters-prijsvork beursgang Anthropic ingetrokken.
 
-## 2026-11-11
-- Thema woensdag (bedrijven en geld), invalshoek: voorwaarden beursgang Anthropic, leveranciers als kopers (rondpompen geld) en beperkte zeggenschap beleggers. Vermeld: podcast gemaakt met Claude.
-- Grote plaatje: geldschieters huiverig voor leningen met AI-chips als onderpand; afschrijving uitgelegd; standpunten snel verouderen vs oudere chips nog jaren nuttig.
-- Ares-topman Arougheti: weet niet hoe waardedaling chips in te schatten; Ares financiert liever gebouwen dan chips (Semafor).
-- ING zet twaalf datacenterleningen te koop, circa 500 miljoen dollar, biedingen sluiten 19 nov (Bloomberg); ING geen commentaar. Volgende keer alleen uitkomst bespreken.
-- Afschrijvingstermijnen: Alphabet zes jaar, Meta vijfenhalf jaar.
-- Amerikaanse tienjaarsrente dinsdag 10 nov bijna 5% (4,99%) na tegenvallende inflatie; mogelijk renteverhoging december (AP).
-- Anthropic beursgang (S-1/A 10 nov): 825 miljoen aandelen à $70-78, tot circa 64,4 miljard dollar; waardering 1,3-1,4 biljoen afhankelijk van berekening; Nasdaq-handel rond 19 nov (meerdere media). Volgende keer alleen uitkomst (definitieve prijs, eerste koers) bespreken.
-- Gelijktijdige plaatsing 26 miljard dollar aandelen zonder stemrecht aan zeven partners: Google en Nvidia elk 10 miljard, AMD 2,5 miljard, plus Broadcom, Micron, Microsoft, TSMC.
-- Zeggenschap (TechCrunch): oprichters iets meer dan helft stemrecht via aparte klasse; Long-Term Benefit Trust kiest bestuursmeerderheid; gewone beleggers weinig invloed.
-- Dan Ives: verteerbare beursgang belangrijker dan hoogste waardering. Anthropic: omzettempo circa 81 miljard dollar op jaarbasis eind oktober.
-- Nog niet genoemd: oprichters verkopen elk circa 3,4 miljoen aandelen; tot 20% voor particulieren; verlies negen maanden 104 miljard; circa 132 miljard kas.
-- Reuters (11 nov): Northwestern Polytechnical University (banden Chinees leger, zwarte lijst sinds 2001) kocht twee H200-chips via tussenhandelaar; Nvidia geen reactie; Huang 18 nov voor drie Republikeinse commissievoorzitters.
-- Nvidia-aandeel dinsdag 10 nov -5,5% (AP).
-- SoftBank kwartaalnettoverlies circa 7 miljard dollar (1,1 biljoen yen), aandeel -3,7% (AP).
-- Nexperia (interim-topman Stefan Tilger) en STMicroelectronics (Electronica München): autoindustrie lijdt zwaar door AI-vraag; capaciteit schuift naar datacenters (Reuters).
-- Aangekondigd: Nvidia-cijfers 17 nov, eerste handelsdag Anthropic. Volgende keer alleen uitkomst bespreken.
-- Nog niet behandeld: Google TPU 8tx/8i Max; Moonshot huurt Nvidia-chips in China (Bloomberg); Qantas 850 banen naar Accenture; Apple Intelligence-bundels $49,99; ChatGPT Enterprise op AWS Marketplace; OpenAI Control Room; Fireworks klanten weg (Forbes); TSMC oktoberomzet.
+## 2026-11-11 (samengevat)
+- Thema: voorwaarden beursgang Anthropic (825 mln aandelen; 26 mld stemrechtloze plaatsing bij Google/Nvidia/AMD e.a.; oprichters meerderheid stemrecht, Long-Term Benefit Trust); geldschieters huiverig voor AI-chips als onderpand (Ares, afschrijving Alphabet 6/Meta 5,5 jaar); ING verkoopt twaalf datacenterleningen.
+- Overig: NPU kocht H200 via tussenhandelaar (Reuters); tienjaarsrente bijna 5%; SoftBank verlies circa 7 mld; Nexperia/ST: autoindustrie lijdt onder AI-vraag.
 
 ## 2026-11-12
 - Thema donderdag (AI aan het werk), invalshoek: "AI rebounding", bedrijven nemen door AI vervangen mensen terug (Robert Half, SHL, Challenger).
@@ -277,3 +262,13 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Amazon Threat Intelligence (Gizmodo, 24 nov): AI-agent (open-source Cairn), vermoedelijk voor Chinese hacker, nam in sept bijna zelfstandig server Oost-Aziatische universiteit over via onbekend lek (medische beeldsoftware), toegang binnen 11 minuten. Nog niet genoemd: Redis-poging 16 uur/148 stappen mislukt, Unit 42 Cairn-aanvallen.
 - Aangekondigd: 15 dec Anthropic-voorstel en vrijgave aandelen; Huang-verhoor 1 dec. Volgende keer alleen uitkomst bespreken.
 - Nog niet behandeld: OpenAI-preprint matrixvermenigvuldiging exponent 9/4 (claim); Astra helpt amateurs exoplaneten; Claude Ship/Enterprise Frontier Safeguards; NHS EDITH-borstkankerproef; AWS Strands Decider v2; Meta Muse in Instagram-DM's/Walmart; FCA-verwachtingen agenten financiële sector; Novartis-topman AI vier jaar sneller medicijnen; Noam Brown stoppen met studie; Ant LingSante medische modellen; OpenAI OpenWorks 8.000 dollar per maand; Alfozan op borg 1 mln; Anthropic honeypot-test (Wired); Claude VP≠VNP-claim (onbeoordeeld).
+
+## 2026-11-26
+- Thema donderdag (AI aan het werk), invalshoek: AI houdt vooral aanstellingen tegen, Anthropic-rapport "Working with AI" (23 nov; Wilmers, Massenkoff, McCrory) plus Seramount-enquête starters. Vermeld: podcast gemaakt met Claude.
+- Working with AI: 66 gesprekken bij 58 VS-bedrijven, allemaal Anthropic-klanten, niet representatief; circa twee derde neemt minder aan (derde daarvan via niet vervangen vertrekkers); 2 functie volledig weg; 5 duwden AI-weigeraars weg; 9 stopten met (buitenlandse) inhuurkrachten; 10 namen meer aan (bouwen/onderhouden AI); medewerkers verbergen tijdwinst; citaat "eigen doodskist bouwen". Nog niet genoemd: financieel bedrijf 100+ buitenlandse krachten weg, documentbeoordelaars -90%, "panopticon"-toezichtsdashboards, zes startups 4x zoveel personeel nodig zonder AI, 100 zelfgebouwde programma's.
+- Seramount (Fortune 21 nov; 1.800+ VS-kantoormedewerkers bedrijven 500+): onder 30 jaar 18% wil AI-vaardigheden verbeteren vs 36% millennials (Gen X 46% niet genoemd); jongeren vaker bang dat collega's aan hun kunnen twijfelen. Nog niet genoemd: gebruik 58/63/67/60%, PNAS-studie Reif, LSE/Protiviti.
+- Grote plaatje: FCC keurt SpaceX Starmind goed, max 1 mln satellieten als datacenter in ruimte, zonne-energie (Interesting Engineering, 25 nov); eerste FCC-goedkeuring zo'n netwerk; mijlpalen: eerste satelliet nov 2033, 100.000 in 2035, volledig 2040. Bezwaren: warmteafvoer, bouwen/lanceren/onderhouden, Starship nodig. Nog niet genoemd: ruimtepuin/astronomie, Trump Accounts-aandelen, frequentiebanden.
+- New York (Hochul, 24 nov, S.9408A/A.11144B): vijf jaar verbod productie/verkoop speelgoed met chatbot; ingang na 90 dagen (niet deze feestdagen); boete tot 15.000 dollar per dag; AG Letitia James handhaaft; geteste speeltjes seksuele onderwerpen/lucifers (claim gouverneur).
+- OpenAI voegt limieten ChatGPT Chat en Work samen; alleen klein deel zwaarste gebruikers eerder aan grens (claim); Instant telt niet mee (niet genoemd); bredere uitrol december.
+- Amazon en Meta praten over opheffen Amazon-blokkade (sept) van Muse-winkelagent; geschil advertenties en zoekresultaten; geen akkoord (The Decoder). Volgende keer alleen uitkomst bespreken.
+- Nog niet behandeld: Amodei noemt beschuldiging overdragen menselijke controle "absurd" (TechCrunch/Axios); Anthropic migreert Messages API naar Rust met Claude-agenten (claim -70% processorgebruik); Anthropic uitbreiding Zürich (Bloomberg); OpenAI Private Intelligence-pilot; Ant Ling-3.2-air (MIT-licentie); Semafor: financiers pauzeren Aziatische AI-bouw na exportregels; Unit 42 10+ campagnes met AI-agenten; Newsom tekent SB 574 (advocaten AI); GPT-6 eiwitontwerp; Walmart Agent Gateway met Muse; Pinterest ouderfilter AI-content; Cornwall-kerstmarkt AI-beelden.
