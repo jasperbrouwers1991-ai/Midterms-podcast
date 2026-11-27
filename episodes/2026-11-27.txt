@@ -1,0 +1,32 @@
+title: Wie krijgt je chatgesprekken? Staten vechten veiling Character.AI aan
+summary: Tweeënveertig Amerikaanse staten willen voorkomen dat de chatgesprekken van miljoenen Character.AI-gebruikers worden geveild, Chinese AI-labs lopen vertraging op door Amerikaanse chipregels, en Nvidia dreigt een lagere kredietwaardering te krijgen.
+---
+Goedemorgen en welkom bij AI Dagelijks. Het is vrijdag zevenentwintig november tweeduizend zesentwintig. Vandaag: wat er gebeurt met je gesprekken met een chatbot als het bedrijf erachter failliet gaat, en waarom Chinese AI-labs hun nieuwe modellen later uitbrengen.
+
+Eerst het grote plaatje. De Amerikaanse rem op Chinese AI begint zichtbaar te werken. Persbureau Reuters sprak met bronnen bij twee bekende Chinese labs. Z.AI, ook bekend als Zhipu, wilde deze maand GLM vijf punt vijf uitbrengen, een model van ongeveer drie biljoen parameters, de instelbare getallen waarmee een model leert. Dat is niet gelukt. Volgens een bron kan het nu het eerste kwartaal van volgend jaar worden, of later.
+
+Bij Moonshot, de maker van de Kimi-modellen, kan de tijd tussen twee grote modellen oplopen van zes maanden naar een jaar of meer, als het bedrijf geen rekenkracht in het buitenland meer kan huren.
+
+Er spelen twee dingen. Sinds negentien november hebben datacenters buiten China een vergunning nodig om grote hoeveelheden rekenkracht aan Chinese bedrijven te verhuren. En Amerikaanse labs maken het moeilijker om hun modellen te destilleren. Dat betekent: een eigen model trainen op de antwoorden van een sterker model van een ander. OpenAI en Anthropic, de maker van Claude, waarmee deze podcast wordt gemaakt, hebben Chinese labs daar eerder van beschuldigd. Volgens Reuters is Moonshot nu overgestapt op modellen van Google en Meta.
+
+Voorstanders zien bewijs dat de Amerikaanse voorsprong zo te verdedigen is. Sceptici wijzen erop dat China juist sneller eigen chips gaat gebruiken; Z.AI draait al deels op een eigen datacenter met Chinese chips.
+
+Dan het thema van de vrijdag: regels en politiek. De vraag: van wie zijn je chatgesprekken als het bedrijf failliet gaat?
+
+Character.AI, een app waarin je praat met zelfgemaakte AI-personages, vroeg in oktober in de Verenigde Staten bescherming tegen schuldeisers aan. Bij de verkoop van de bezittingen hoort ook de gebruikersdata. Volgens tweeënveertig procureurs-generaal van Amerikaanse staten gaat het om de chatgeschiedenis van ruim eenentwintig miljoen Amerikaanse accounts. Ruim twee komma één miljoen daarvan staan op naam van minderjarigen.
+
+De enige bekende bieder is een bedrijf dat pas op dertien november werd opgericht, meldt TechCrunch. Een dag later koos Character.AI het als uitgangsbod. De veiling staat gepland voor één december. Wat de koper met de gesprekken wil, is onbekend.
+
+De staten vragen de rechter de verkoop te blokkeren, en in elk geval de gesprekken van kinderen buiten de deal te houden. Hun argument: Character.AI beloofde gebruikers dat hun gegevens niet verkocht zouden worden, en niets houdt een nieuwe eigenaar tegen om ze door te verkopen. De gesprekken gaan volgens de staten soms over zeer persoonlijke zaken, ook over psychische problemen. De Californische procureur-generaal Rob Bonta noemt de verkoop onwettig. Character.AI zegt dat zijn privacybeleid tijdens de verkoop onder toezicht van de rechter van kracht blijft.
+
+Waarom doet dit ertoe? Mensen vertellen chatbots vaak meer dan een zoekmachine. In een faillissement is die data bezit dat geld oplevert voor schuldeisers. Privacy en faillissementsrecht botsen hier, en deze zaak kan bepalen wat beloftes van AI-bedrijven waard zijn als het misgaat.
+
+Dan het nieuws van de dag. Kredietbeoordelaar S&P overweegt de kredietwaardering van Nvidia te verlagen van dubbel A naar dubbel A min, meldt TechCrunch. S&P noemt zwak toezicht op de top, het ontbreken van een opvolgingsplan en de grote afhankelijkheid van één persoon, na het vertrek en de terugkeer van Jensen Huang. Een besluit volgt binnen negentig dagen. Het doet ertoe omdat Nvidia met garanties de bouw van datacenters helpt financieren, en een lagere waardering dat duurder kan maken.
+
+Het Zwitserse bureau voor cyberveiligheid meldt volgens Reuters vijf recente aanvallen waarbij AI-agenten werden ingezet, gericht op bedrijven en beheerders van vitale infrastructuur. Het doet ertoe omdat zulke aanvallen nu ook in Europa officieel worden vastgesteld.
+
+En OpenAI herstelde een fout in de afrekening waardoor sommige gebruikers ten onrechte korting kregen op hun gebruik, meldt The Decoder. Abonnees zitten daardoor nu veertig procent sneller aan hun limiet bij GPT zes punt twee Astra, en vijfentwintig procent sneller bij Sol. Het doet ertoe omdat de echte kosten van de zwaarste modellen nu zichtbaar worden voor gewone klanten.
+
+Om in de gaten te houden: maandag één december, als de veiling van Character.AI moet plaatsvinden, tenzij de rechter ingrijpt.
+
+Dat was het voor vandaag. Morgen om zeven uur staat de volgende aflevering voor je klaar. Tot dan.

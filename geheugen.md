@@ -84,19 +84,9 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Thema: voorwaarden beursgang Anthropic (825 mln aandelen; 26 mld stemrechtloze plaatsing bij Google/Nvidia/AMD e.a.; oprichters meerderheid stemrecht, Long-Term Benefit Trust); geldschieters huiverig voor AI-chips als onderpand (Ares, afschrijving Alphabet 6/Meta 5,5 jaar); ING verkoopt twaalf datacenterleningen.
 - Overig: NPU kocht H200 via tussenhandelaar (Reuters); tienjaarsrente bijna 5%; SoftBank verlies circa 7 mld; Nexperia/ST: autoindustrie lijdt onder AI-vraag.
 
-## 2026-11-12
-- Thema donderdag (AI aan het werk), invalshoek: "AI rebounding", bedrijven nemen door AI vervangen mensen terug (Robert Half, SHL, Challenger).
-- Grote plaatje: Nvidia-leiderschapscrisis en afhankelijkheid van één bedrijf; Nvidia circa 80% AI-chipmarkt, AMD onder 7%; Huang 33 jaar topman.
-- WSJ (11 nov): Nvidia-bestuur bereidt vertrek Huang voor; Reuters: bestuur kwam woensdagavond bijeen, nog geen uitkomst; Nvidia geen reactie.
-- Aanleiding: relaties deels door Huang toegegeven, o.a. met Chinese zakenvrouw verdacht door VS-inlichtingendiensten; NYT: relatie met directe ondergeschikte. Nog niet genoemd: Bloomberg extern bureau zoekt opvolgers.
-- Nvidia-aandeel nabeurs 11 nov ruim -8%; sinds 8 nov ruim 450 miljard dollar beurswaarde weg (CBS). Standpunten: Huang gezicht hausse/onderhandelaar vs bedrijf draait zonder hem; CFO Colette Kress genoemd als tijdelijke opvolger. Volgende keer alleen uitkomst bestuursbesluit bespreken.
-- Robert Half (voorjaar 2026, ruim 2.000 VS-managers): 32% die functies schrapte door AI nam later weer mensen aan; financiën 44%; redenen meer toezicht/kwaliteitscontrole, bedrijfskennis, klantrelaties.
-- SHL (Fortune, 9 nov): ruim 19% ondervraagde Amerikanen vervangen door AI en teruggevraagd; helft wil flink meer salaris, ruim 40% schriftelijke baanzekerheid.
-- Challenger, Gray & Christmas: 2026 t/m oktober AI genoemd bij ruim 121.000 aangekondigde ontslagen, ruim 2x heel 2025. Standpunten: correctie vs dure fout, starters hardst geraakt.
-- Gemini 4 Carbon (Google) nu algemeen beschikbaar; introductieprijs $2 per miljoen tokens invoer, verdubbelt 1 dec (claim Google).
-- Bessent (Reuters, 11 nov): VS en China werken aan alarmkanaal ernstige AI-incidenten; eerste overleg Shenzhen rond APEC-top 18-19 nov. Volgende keer alleen uitkomst bespreken.
-- OpenAI Q3-omzet circa 10 miljard dollar, groei bijna 50%, nog grote verliezen (The Information).
-- Nog niet behandeld: Claude Meetings/Sheets (Anthropic, 10 nov); Gemini Robotics 2.5 (Mercedes-proef Apptronik 96%); AlphaProof Code verifieert Signal; AlphaGenome 2; EIA recordstroomvraag VS 2026-2027; Railway-inbraak 740.000 dollar AI-kosten; Musk wil Huang aannemen; Oura koopt Counsel Health; Mercor 20 miljard waardering; Spotify AI-remixes; NY staatsprogramma AI-tests; Australië AI-veiligheidstoezichthouder; Stanford AI100.
+## 2026-11-12 (samengevat)
+- Thema: "AI rebounding" (Robert Half 32% nam weer mensen aan, financiën 44%; SHL ruim 19% vervangen en teruggevraagd; Challenger 2026 t/m okt ruim 121.000 ontslagen met AI genoemd).
+- Nvidia-leiderschapscrisis (WSJ: bestuur bereidt vertrek Huang voor; relaties; ruim 450 mld beurswaarde weg; circa 80% AI-chipmarkt); Gemini 4 Carbon algemeen beschikbaar ($2 invoer, verdubbelt 1 dec); Bessent alarmkanaal AI-incidenten VS-China; OpenAI Q3 circa 10 mld omzet.
 
 ## 2026-11-13
 - Thema vrijdag (regels en politiek), invalshoek: van regels naar stilleggen, rechtszaak en wetsvoorstel om topmodellen te stoppen. Vermeld: podcast gemaakt met Claude.
@@ -272,3 +262,12 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - OpenAI voegt limieten ChatGPT Chat en Work samen; alleen klein deel zwaarste gebruikers eerder aan grens (claim); Instant telt niet mee (niet genoemd); bredere uitrol december.
 - Amazon en Meta praten over opheffen Amazon-blokkade (sept) van Muse-winkelagent; geschil advertenties en zoekresultaten; geen akkoord (The Decoder). Volgende keer alleen uitkomst bespreken.
 - Nog niet behandeld: Amodei noemt beschuldiging overdragen menselijke controle "absurd" (TechCrunch/Axios); Anthropic migreert Messages API naar Rust met Claude-agenten (claim -70% processorgebruik); Anthropic uitbreiding Zürich (Bloomberg); OpenAI Private Intelligence-pilot; Ant Ling-3.2-air (MIT-licentie); Semafor: financiers pauzeren Aziatische AI-bouw na exportregels; Unit 42 10+ campagnes met AI-agenten; Newsom tekent SB 574 (advocaten AI); GPT-6 eiwitontwerp; Walmart Agent Gateway met Muse; Pinterest ouderfilter AI-content; Cornwall-kerstmarkt AI-beelden.
+
+## 2026-11-27
+- Thema vrijdag (regels en politiek), invalshoek: privacy bij faillissement, 42 procureurs-generaal (o.a. Bonta, Tong, Weiser) vs veiling chatdata Character.AI (TechCrunch 25 nov). Vermeld: podcast gemaakt met Claude.
+- Character.AI: faillissement (Chapter 11) okt; chatgeschiedenis ruim 21 mln VS-accounts, ruim 2,1 mln minderjarigen; enige bieder opgericht 13 nov (Smirks and Pangs, naam niet genoemd), uitgangsbod 14 nov; veiling 1 dec; staten willen blokkade of kindergesprekken uitgesloten; belofte data niet te verkopen; Character.AI: privacybeleid blijft gelden. Nog niet genoemd: 350.000 dollar break-up fee, Disney-licentie 20 mln (bezwaar staten), chatbotwetten 1 jan 2027. Volgende keer alleen uitkomst (rechter/veiling) bespreken.
+- Grote plaatje: Reuters (26 nov): Z.AI GLM-5.5 (circa 3 biljoen parameters) mist november, mogelijk Q1 2027 of later; Moonshot gat tussen modellen 6 naar 12+ maanden bij verlies buitenlandse rekenkracht; oorzaken BIS-vergunningsregel (sinds 19 nov) en anti-destillatie OpenAI/Anthropic; Moonshot destilleert nu Google/Meta-modellen; Z.AI deels eigen datacenter Chinese chips. Nog niet genoemd: GLM-5.4 (750 mld parameters), Kimi K4 medio 2027, Moonshot huurt in Europa, Anthropic-destillatiecijfers (tegenstrijdig 23 mln vs bijna 200 mln).
+- S&P overweegt Nvidia-kredietwaardering AA naar AA- (zwak toezicht, geen opvolgingsplan, sleutelpersoonrisico), besluit binnen 90 dagen (TechCrunch). Volgende keer alleen uitkomst bespreken.
+- Zwitsers cyberveiligheidsbureau: vijf recente aanvallen met AI-agenten op bedrijven/vitale infrastructuur (Reuters).
+- OpenAI herstelt afrekenfout: limieten 40% sneller bereikt bij GPT-6.2 Astra, 25% bij Sol; extra reset voor abonnees (niet genoemd: gratis Fast Mode zakelijk t/m 2026) (The Decoder).
+- Nog niet behandeld: Canada +700 mln CAD AI Compute Access Fund (totaal 1 mld, tot 80% kosten); Huawei nieuwe HBM-geheugenchip (Bloomberg); Nvidia vraagt partners leveringen Maleisië/Singapore/Thailand/Indonesië op te schorten (The Decoder); twee Californische Nvidia-klanten Chinese eigenaren; Japans verzet datacenters; EU-stemming Tesla rijhulp 15 dec; NYT: Congres-interesse AI-regels; Microsoft over ARTEX; Kazachstan/Rusland AI; Colorado-zaak xAI (PI-motie mogelijk 17 dec); Tencent DFly2; Magnitude SSD; Ling-3.2-air.
