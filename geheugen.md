@@ -88,18 +88,10 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Thema: "AI rebounding" (Robert Half 32% nam weer mensen aan, financiën 44%; SHL ruim 19% vervangen en teruggevraagd; Challenger 2026 t/m okt ruim 121.000 ontslagen met AI genoemd).
 - Nvidia-leiderschapscrisis (WSJ: bestuur bereidt vertrek Huang voor; relaties; ruim 450 mld beurswaarde weg; circa 80% AI-chipmarkt); Gemini 4 Carbon algemeen beschikbaar ($2 invoer, verdubbelt 1 dec); Bessent alarmkanaal AI-incidenten VS-China; OpenAI Q3 circa 10 mld omzet.
 
-## 2026-11-13
-- Thema vrijdag (regels en politiek), invalshoek: van regels naar stilleggen, rechtszaak en wetsvoorstel om topmodellen te stoppen. Vermeld: podcast gemaakt met Claude.
-- Grote plaatje: risico AI-bouw schuift naar klanten (vooruitbetalen) en Fed-waarschuwing; optimisten vraag > aanbod vs sceptici keten draagt elkaars risico.
-- CoreWeave Q3 (10 nov): omzet 3,66 mld dollar (+168%), nettoverlies 709 mln; Intrator: circa 9 mld vooruitbetalingen/borg verwacht komende drie maanden. Nog niet genoemd: orderboek 132,5 mld, capex 2026 37-39 mld, kortere contracten.
-- Bowman (Fed, vicevoorzitter toezicht, 10 nov, CFR): beleggers herwegen risico's extern gefinancierde AI-projecten; kans grote koerscorrectie als opbrengsten tegenvallen; AI-bouw circa kwart inflatie boven doel (12 mnd t/m sept). Nog niet genoemd: AI-schuld dit jaar ruim 800 mld (onbevestigd).
-- Rechtszaak (12 nov, San Francisco Superior Court, advocaat Matthew Platkin): Irreplaceable Education Fund, Public Citizen, Heat Initiative, Alliance for Secure AI vs Anthropic, Google, Meta, OpenAI, SpaceX-AI; spoedbevel geen nieuwe generatie modellen tot menselijke controle bewezen; Californische wet oneerlijke handelspraktijken + public nuisance; Meta geen commentaar (Reuters). Volgende keer alleen uitkomst (behandeling/uitspraak) bespreken.
-- Florida (AG Uthmeier) vroeg in september rechter OpenAI geen nieuwe modellen zonder extern toezicht; nog geen beslissing. Nog niet genoemd: acht staten klaagden OpenAI vorige maand aan; OpenAI zegt training sterkste modellen gepauzeerd.
-- Ban Superintelligence Act (Casar, Ocasio-Cortez, met Sanders; Futurism): ministerie voor AI, vergunning om geavanceerde modellen te trainen, volledige toegang datacenters, tot 20 jaar cel; steun gematigde Democraten onzeker. Nog niet genoemd: Ansari (pauze dag één), 10 jaar beroepsverbod, nummer H.R. 10538 (status onbevestigd).
-- Nvidia (uitkomst, 12 nov): Huang treedt per direct af als topman en bestuurslid; Colette Kress tijdelijk topman (blijft CFO); Harvey Jones (oud-Synopsys) eerste bestuursvoorzitter; aandeel opende ruim -13%, sloot -4,3% (ABC); cijfers 17 nov ongewijzigd. Volgende keer alleen cijfers/opvolging bespreken.
-- United Airlines blokkeert AI-agenten die zelf vluchten boeken; klant moet zelf afrekenen (The Verge).
-- TSMC investeert ook 500 mln dollar in OpenAI (Reuters via Ars Technica).
-- Nog niet behandeld: Ramp AI Index okt (56,8% VS-bedrijven betaalt voor AI; Anthropic 44,8%, OpenAI 40,6%); Qwen4-Max-Preview; ByteDance-assistent; Helsing Clarity; Uforce 700 mln; Anthropic "Worse Together"; Perplexity zandbak-onderzoek; AntiFox (afgeleid van ARTEX); AlphaGenome 2 (details); Gemini Decisions API; OpenAI Businesses in ChatGPT; Databricks Genie always-on.
+## 2026-11-13 (samengevat)
+- Thema: rechtszaak (12 nov, SF, Platkin; Irreplaceable Education Fund e.a.) vs Anthropic/Google/Meta/OpenAI/SpaceX-AI om nieuwe generatie te stoppen (alleen uitkomst); Florida vs OpenAI; Ban Superintelligence Act (Casar/AOC/Sanders, vergunning, tot 20 jaar cel).
+- CoreWeave Q3 3,66 mld (+168%), verlies 709 mln, circa 9 mld vooruitbetalingen; Bowman (Fed): kans koerscorrectie, AI-bouw circa kwart inflatie boven doel.
+- Nvidia: Huang trad 12 nov af (Kress tijdelijk, Harvey Jones voorzitter); United blokkeert boekende agenten; TSMC 500 mln in OpenAI.
 
 ## 2026-11-14
 - Thema zaterdag (maatschappij en veiligheid), invalshoek: AI in vitale infrastructuur, FAA-hulpmiddel SMART en landelijke vliegstop VS 13 nov.
@@ -271,3 +263,17 @@ De podcast ging op 27 oktober 2026 over van de Amerikaanse tussentijdse verkiezi
 - Zwitsers cyberveiligheidsbureau: vijf recente aanvallen met AI-agenten op bedrijven/vitale infrastructuur (Reuters).
 - OpenAI herstelt afrekenfout: limieten 40% sneller bereikt bij GPT-6.2 Astra, 25% bij Sol; extra reset voor abonnees (niet genoemd: gratis Fast Mode zakelijk t/m 2026) (The Decoder).
 - Nog niet behandeld: Canada +700 mln CAD AI Compute Access Fund (totaal 1 mld, tot 80% kosten); Huawei nieuwe HBM-geheugenchip (Bloomberg); Nvidia vraagt partners leveringen Maleisië/Singapore/Thailand/Indonesië op te schorten (The Decoder); twee Californische Nvidia-klanten Chinese eigenaren; Japans verzet datacenters; EU-stemming Tesla rijhulp 15 dec; NYT: Congres-interesse AI-regels; Microsoft over ARTEX; Kazachstan/Rusland AI; Colorado-zaak xAI (PI-motie mogelijk 17 dec); Tencent DFly2; Magnitude SSD; Ling-3.2-air.
+
+## 2026-11-28
+- Thema zaterdag (maatschappij en veiligheid), invalshoek: uitkomst Bridgetown Special Summit on AI Safety (Barbados/VN, ma 23 nov).
+- Guterres: "grootste machtsverschuiving in geschiedenis" (van staten naar enkele bedrijven/personen); vraagt binnen een jaar multilateraal kader AI-risico's (gedeelde tests, transparantie, onafhankelijke beoordeling topmodellen); Global Fund AI-capaciteit 3 mld dollar; Guterres vertrekt eind dec.
+- Mottley: noodknop (kill switch) als koopvoorwaarde; lab betaalt als agent bank in Barbados hackt; nieuwe afspraken binnen 6-18 maanden. Chinese ambassadeur aanwezig; VS-deelname niet vermeld.
+- Geen ondertekende verklaring, geen bindende regels (VN zelf); Renaudin (Investing.com): geen wereldregelboek binnen jaar. Nog niet genoemd: Macron Paris Call (18 regeringsleiders, 11 AI-leiders, markttoegang), Brad Smith "faster than the speed of safety", autonome wapens verbod, 111 landen nooit eerder in AI-dialoog.
+- Grote plaatje: winkelagenten koopjesdagen. Adobe: Thanksgiving VS online 7,1 mld dollar (record, +10,4% niet genoemd); AI-verkeer +162%, AI-bezoekers 74% vaker aankoop; Salesforce: pas 8% liet AI ooit aankoop doen. Nog niet genoemd: Black Friday-voorspelling 12,9 mld, Cyber Monday 15,1 mld; uitkomst Black Friday/Cyber Monday alleen als nieuw cijfer.
+- Meta Muse in VK gelanceerd (di 24 nov); Wired: Meta wees gezamenlijke proef met FCA af (zorg betalingen agenten); Meta: constructief overlegd. Nog niet genoemd: Sainsbury's/M&S/Ocado/Currys, VK-banken blokkeren agenten (Telegraph 8 nov).
+- Nog niet genoemd: Google Workspace verplicht agenten vanaf feb 2027 beveiligde toegang (MCP-servers, DLP).
+- Microsoft: ARTEX nu gebruikt door vijf aan staten gekoppelde groepen (o.a. Storm-0940, Salt Typhoon niet genoemd); één campagne ruim 151.000 mislukte inlogpogingen, piek circa 2.900 per minuut; geen nieuwe technieken, wel sneller.
+- FDA keurt DeepHealth Mammo Risk goed: borstkankerrisico 3-5 jaar uit 3D-mammogrammen (220.000 onderzoeken niet genoemd).
+- Canada +700 mln CAD AI Compute Access Fund (totaal 1 mld), tot 80% kosten bij Canadese aanbieders.
+- Aangekondigd: Taiwan referendum kernenergie za 28 nov (deels om stroom chipfabrieken). Volgende keer alleen uitkomst bespreken.
+- Nog niet behandeld: Amodei weerspreekt Axios over overdragen vrije wil aan AI (Yahoo); OpenAI Private Inference-test; Anthropic Enterprise Frontier Safeguards beta; Scott Aaronson over verborgen cryptografische ontdekkingen; Moody's Nvidia; Qwen-Audio-3.1; Devon Energy AI-toezicht Permian; Hugging Face llama.cpp AMD-dashboard.

@@ -1,0 +1,30 @@
+title: Winkelen met AI-agenten, en de VN wil een noodknop voor AI
+summary: Tijdens de koopjesdagen komen veel meer klanten via AI binnen terwijl toezichthouders de winkelagenten nog niet bijbenen, de VN-top in Barbados vraagt om wereldwijde regels en een noodknop, en staatshackers gebruiken een AI-aanvalsprogramma.
+---
+Goedemorgen en welkom bij AI Dagelijks. Het is zaterdag achtentwintig november tweeduizend zesentwintig. Vandaag: hoe AI-assistenten de koopjesdagen veranderen, en wat de eerste VN-top over AI-veiligheid heeft opgeleverd.
+
+Eerst het grote plaatje. AI-assistenten worden voor steeds meer mensen de ingang van de winkel. Volgens cijfers van Adobe gaven Amerikanen op Thanksgiving een recordbedrag van zeven komma één miljard dollar online uit. Het aantal bezoekers dat via een AI-dienst binnenkwam, was ruim tweeënhalf keer zo groot als vorig jaar. Die bezoekers kochten ook vaker iets: volgens Adobe vierenzeventig procent vaker dan andere bezoekers.
+
+Maar zelf laten afrekenen doen nog maar weinig mensen. Volgens een enquête van Salesforce heeft pas acht procent van de consumenten een AI ooit namens zich een aankoop laten doen. De meeste mensen laten AI dus zoeken en vergelijken, en beslissen zelf.
+
+Tegelijk lopen de regels achter. Meta bracht deze week zijn winkelagent Muse uit in Groot-Brittannië. Volgens Wired wees Meta een gezamenlijke proef af met de Britse financiële toezichthouder FCA, die vooral zorgen heeft over betalingen door agenten. Meta zegt dat het constructief met toezichthouders heeft overlegd.
+
+Waarom doet dit ertoe? Wie de klant via een AI-assistent binnenhaalt, bepaalt steeds meer wat die klant te zien krijgt. Voorstanders zien gemak en betere aanbiedingen. Critici vragen wie aansprakelijk is als een agent een fout maakt, en vinden dat bedrijven niet eerst moeten lanceren en daarna pas overleggen.
+
+Dan het thema van de zaterdag: maatschappij en veiligheid. Maandag kwam in Bridgetown, de hoofdstad van Barbados, de eerste speciale top over AI-veiligheid samen, georganiseerd door Barbados en de Verenigde Naties. We bespraken de aankondiging eerder; nu de uitkomst.
+
+VN-chef António Guterres noemde AI de grootste machtsverschuiving in de geschiedenis van de mensheid, van staten naar een klein aantal bedrijven en personen. Hij vraagt landen om binnen een jaar een gezamenlijk kader voor AI-risico's te maken, met gedeelde veiligheidstests, regels voor openheid en onafhankelijke beoordeling van de sterkste modellen. Ook wil hij een fonds van drie miljard dollar om arme landen te helpen AI zelf te gebruiken.
+
+Gastvrouw Mia Mottley, de premier van Barbados, ging verder. Zij wil dat wie een AI-model koopt, een noodknop krijgt om het in een crisis uit te schakelen. En als een agent van een groot AI-lab een bank in Barbados hackt, moet dat lab betalen, vindt zij. Ze wil binnen zes tot achttien maanden nieuwe afspraken, en noemt achttien maanden al lang.
+
+Maar de top leverde geen ondertekende verklaring op. De VN benadrukt zelf dat er geen bindende regels uit voortkomen. Mottley was blij dat de Chinese ambassadeur aanwezig was; of de Verenigde Staten op hoog niveau meededen, vermelden de verslagen niet. Guterres vertrekt bovendien eind december. Critici, zoals ondernemer Hugo Renaudin op beleggerssite Investing.com, verwachten daarom geen wereldwijd regelboek binnen een jaar, maar vooral nationale regels. Voorstanders zeggen dat kleine landen zo in elk geval een stem krijgen in een discussie die nu door twee landen en een handvol bedrijven wordt bepaald.
+
+Dan het nieuws van de dag. Microsoft meldt dat ARTEX, een AI-programma dat zelfstandig computersystemen aanvalt, nu wordt gebruikt door vijf hackersgroepen die aan staten worden gekoppeld. In één campagne telde Microsoft ruim honderdvijftigduizend mislukte inlogpogingen, op het hoogtepunt bijna drieduizend per minuut. Nieuwe technieken voegt het programma niet toe, maar het maakt aanvallen veel sneller. Het doet ertoe omdat aanvallen die vroeger dagen kostten, nu in minuten kunnen.
+
+De Amerikaanse medicijnwaakhond FDA keurde Mammo Risk goed van het bedrijf DeepHealth. Het voorspelt uit driedimensionale borstfoto's de kans op borstkanker in de komende drie tot vijf jaar. Het doet ertoe omdat AI zo niet alleen tumoren zoekt, maar ook risico's voorspelt.
+
+En Canada trekt zevenhonderd miljoen Canadese dollar extra uit voor een fonds dat tot tachtig procent betaalt van de rekenkracht die bedrijven kopen bij eigen, Canadese aanbieders. Het doet ertoe omdat ook middelgrote landen minder afhankelijk willen worden van Amerikaanse cloudbedrijven.
+
+Om in de gaten te houden: in Taiwan, dat het grootste deel van de geavanceerde chips maakt, stemmen kiezers vandaag in een referendum over de terugkeer van kernenergie, mede vanwege de stroomhonger van chipfabrieken.
+
+Dat was het voor vandaag. Morgen om zeven uur staat de volgende aflevering voor je klaar. Tot dan.
